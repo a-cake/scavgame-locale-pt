@@ -11,7 +11,7 @@
         "analgesicgauze": "Gaze médica",
         "analgesicgauzedsc": "Gaze feita de algodão, contendo drogas analgésicas. Decente para desacelerar sangramentos e reduzir dores de feridas.",
         "alginate": "Curativo de alginato",
-        "alginatedsc": "Curativo derivado de fontes de carboidratos liberados por espécies bacterianas clínicas, da mesma maneira que a formação de biofilme. Retarda sangramento, alta melhoria na cicatrização da pele e combate infecções.",
+        "alginatedsc": "Curativo feito a partir de uma substância hidrofílica retirada de algas marinhas. Retarda sangramento, alta melhoria na cicatrização da pele e combate infecções.",
         "sterilizedbandage": "Bandagem esterilizada",
         "sterilizedbandagedsc": "Um rolo de gaze com uma atadura, usado para estancar sangramentos, estabilizar fraturas e ajudar a cicatrização da pele. Neutraliza infecções. Não muda a saúde muscular.",
         "plasticbandage": "Bandagem adesiva",
@@ -55,7 +55,7 @@
         "antirad": "Anti-rads",
         "antiraddsc": "Uma garrafa com medicina experimental que diretamente reduz os efeitos de radiação após o consumo. Vai precisar de muitas doses para combater problemas causados pela radiação.",
         "sleepingpills": "Pilulas para dormir",
-        "sleepingpillsdsc": "Uma garrafa com pilulas feitas para ajudar a cair no sono. Parece que a marca foi arrancada para fora. Te deixa dormir melhor em condições ruins. Não utilize com outras drogas.",
+        "sleepingpillsdsc": "Uma cartela com comprimidos feitos para ajudar a cair no sono. Parece estar faltando a marca. Te deixa dormir melhor em condições ruins. Não utilize com outras drogas.",
         "rosepod": "Vagem de rosa",
         "rosepoddsc": "Uma parte de uma rosa de areia. Não apodrece e pode ser aberta.",
         "roselight": "Rosa luz",
@@ -375,7 +375,7 @@
         "kneepads": "Joelheiras",
         "kneepadsdsc": "Almofadas de plástico, feitas para proteger seus joelhos de impactos.",
         "plushie": "Pelúcia",
-        "plushiedsc": "Faz um som agudo quando é apertado.",
+        "plushiedsc": "Faz um som agudo quando é apertado. Você pode descarregar suas frustrações nele quando se sentir pra baixo...",
         "tornshirt": "Camisa rasgada",
         "tornshirtdsc": "Uma camisa azul e velha um pouco rasgada. Oferece um pouquinho de proteção e insulação. Também faz você parecer um mendigo.",
         "rangefinder": "Telêmetro",
@@ -445,7 +445,9 @@
         "makeshiftrifle": "Rifle improvisado",
         "makeshiftrifledsc": "Uma arma de ação de ferrolho improvisado, feita de tubos colados juntos e destroços de arma. Utiliza pentes carregados com balas de calibre 9mm. Pode emperar se estiver molhado ou com baixa condição. Segure-o na sua mão principal para usar e ver os controles.",
         "casing": "Invólucro de bala",
-        "casingdsc": "Invólucro usado. Inútil, mas utilizável em criações."
+        "casingdsc": "Invólucro usado. Inútil, mas utilizável em criações.",
+        "keratinbooster": "Impulsionador de queratina",
+        "keratinboosterdsc": "Um frasco contendo hormônio de crescimento modificado que prioriza o aumento da queratina. Faz suas garras crescerem mais rápido por algum tempo."
     },
     "buildings": {
         "animalcorpse": "Corpo de animal",
@@ -584,6 +586,8 @@
         "brownshroomdsc": "Você não sabe muito disso além de que isso é, de fato, marrom.",
         "spentfuel": "Combustível gastado",
         "spentfueldsc": "Uma energia estranhamente aterrorizante sai disso.",
+        "radbarrel": "Barril",
+        "radbarreldsc": "Parece velho.",
         "soundcannon": "Canhão sonoro",
         "soundcannondsc": "Tampe seus ouvidos se ouvir ele carregando.",
         "trader": "Sobrevivente",
@@ -755,6 +759,9 @@
         "lowimmunity": "Imunocomprometido",
         "highimmunity": "Imunocompetente",
         "amputation": "Amputado",
+        "clawdamage1": "Garras cegas",
+        "clawdamage2": "Garras quebradas",
+        "keratinbooster": "Crescimento impulsionado",
 
         "deaddsc": "Perda de função cerebral completa, permanente e irreversível. Você deixou este mundo, diferente dos outros.",
         "braindamage4dsc": "...",
@@ -881,7 +888,7 @@
         "irradiated2dsc": "Febril e enjoado. Você sente sua pele quente e dolorosa. Algo está muito errado. É aterrorizador.",
         "irradiated3dsc": "Horrivelmente doente e tudo dói. Respirar e pensar é extremamente difícil. Você se sente miserável.",
         "irradiated4dsc": "Você não está gostando de falar adeus desse jeito.",
-        "energizeddsc": "Sono e perda de estâmina diminuídos (<>).",
+        "energizeddsc": "Sono e perda de estâmina diminuídos. (<>)",
         "hemothoraxdsc": "Sangue está acumulando na cavidade pleural devido a sangramento interno. Seu peito dói... Tratamento necessário.",
         "hollowdsc": "Cavaleiro",
         "badsleepdsc": "Suas costas estão te matando. Tente durmir em um canto melhor da próxima vez. Consciência diminuída.",
@@ -897,7 +904,10 @@
         "rippedeyesdsc": "Seus dois olhos foram perdidos. A única forma de navegar será com o seu tato e audição. Pelo menos não precisará mais de uma fonte de luz...",
         "lowimmunitydsc": "Seu sistema imunológico está severamente enfraquecido, seja pela sujeira, fome, sede, ou outro motivo. Infecções são muito mais perigosas. Cuide-se melhor.",
         "highimmunitydsc": "Seu sistema imunológico está com toda a potência, provavelmente devido aos antibióticos. Infecções são muito menos perigosas e podem até regredir por conta própria se sua imunidade estiver próxima dos 200%.",
-        "amputationdsc": "Um dos seus braços foi cortado. Qualquer ação com ele também se foi. Traumatizante!"
+        "amputationdsc": "Um dos seus braços foi cortado. Qualquer ação com ele também se foi. Traumatizante!",
+        "clawdamage1dsc": "Suas garras estão desgastadas devido ao uso continuo, dano reduzido. Dê um tempo para suas mãos ou use uma ferramenta.",
+        "clawdamage2dsc": "Suas garras estão severamente danificadas pelo uso excessivo, alta redução no dano. Você pode acabar ferindo as mãos se continuar sem uma ferramenta.",
+        "keratinboosterdsc": "Suas garras crescem três vezes mais rápido. (<>)"
     },
     "other": {
         "layertitletutorial": "Terra\nLaboratório de treinamento",
@@ -1056,6 +1066,13 @@
         "bodyinsulation": "Insulação corporal: ",
         "youdescription": "<sprite index=20>Inventário",
         "wet": "Molhado",
+        "bandageMinigameGuide": "Clique e arraste o tecido ao redor do membro para enfaixar.\nVocê não precisa usar toda a bandagem.",
+        "syringeMinigameGuide": "Empurre o êmbolo da seringa para injetar. Verifique a dosagem.",
+        "lockpickMinigameGuide": "Clique em qualquer parte da haste para tentar arrombar a fechadura.\nQuanto mais perto do acerto, mais vai girar.\nCuidado para não quebrar suas garras.",
+        "lifepodMinigameGuide": "Combine o código para abrir.",
+        "shrapnelMinigameGuide": "Puxe os estilhaços lentamente. Ir rápido causará dor. \nPinças removem o limite da velocidade.",
+        "dislocationMinigameGuide": "Bata o osso para a posição correta para corrigir a deslocação. \nUsar uma chave inglesa causaria menos dor.",
+        "minigameExitGuide": "Pressione BDM/ESC para sair",
         "saveexit": "Salvar e sair",
         "saveexitdsc": "Salvar progresso e fazer uma pausa.\nA tentativa será retomada no começo da próxima área.",
         "savecontinue": "Continuar",
@@ -1072,13 +1089,13 @@
         "inject": "Injetar",
         "toomuchpain": "Dor demais!",
         "toomuchpaindsc": "Doendo demais para poder agir no membro",
-        "fixdislocation": "Arrumar dislocação",
-        "fixdislocationdsc": "Tente arrumar a dislocação á mão\nPode doer e levar algumas tentativas",
+        "fixdislocation": "Arrumar deslocação",
+        "fixdislocationdsc": "Tente arrumar a deslocação á mão.",
         "removesplint": "Remover tala",
         "removesplintdsc": "Retirar tala do membro",
         "removetourniquet": "Remover torniquete",
         "removeshrapnel": "Remover estilhaços",
-        "removeshrapneldsc": "Tente remover os estilhaços á mão\nPode doer e levar algumas tentativas",
+        "removeshrapneldsc": "Tente remover os estilhaços á mão.",
         "unloadcontainer": "Contêiner:",
         "containertoosmall": "Não cabe",
         "takeanap": "Dormir (<>)",
@@ -1264,6 +1281,7 @@
         "repairmetalalloy": "Reparar com liga metálica",
         "insertscrap": "Inserir sucata",
         "open": "Abrir",
+        "lockpick": "Arrombar",
         "learnedrecipe": "Aprendeu receita para r1.",
         "learnedrecipefail": "Há uma receita para r1, mas você ja conhece...",
         "hasbattery": "Com bateria (<>)\n<sprite index=17 tint=1>Use ferramenta para remover",
@@ -1271,6 +1289,9 @@
         "small": "Pequena",
         "medium": "Média",
         "large": "Grande",
+        "lockprecision": "Precisão do cadeado: ",
+        "degree": "grau",
+        "degrees": "graus",
         "wantstrade": "Prefere trocar:",
         "indifferent": "Indiferente:",
         "wantskeep": "Prefere manter:",
@@ -1394,6 +1415,19 @@
                 "Meu deus. Isso vai ser horrível pra caralho.",
                 "Isso vai ser divertido.",
                 "Vai pro fundo... Pega a coisa se achar ela... Ok..."
+            ],
+            "seeModifier": [
+                "Cruzes, é bem nevoado por aqui!",
+                "Sensação quentinha por aqui... Mais que eu esperava.",
+                "Credo, esse lugar ta TÃO QUENTE... Huff... O que aconteceu aqui..?",
+                "Sinto um gelo a mais por essas partes...",
+                "O inferno deve estar congelado, aqui esta MUITO MAIS frio do que eu esperava...",
+                "Tem tantas piscinas por aqui! Esse lugar esta inundado...",
+                "Esse lugar parece estranhamente... Seco.",
+                "Eu juro que vi um amontoado de aranhas em algum lugar daqui...",
+                "Tá... Tá caindo água, aqui embaixo? Por que? Como..? Ugh...",
+                "O ar aqui me passa uma sensação... Estranha. Muito estranha.",
+                "H... Huh? Onde foi parar o painel de status? Uuugghh... Eles não estavam brincando sobre as erupções solares."
             ],
             "eatGood": [
                 "Mmm!",
@@ -2102,6 +2136,9 @@
                 "P-porra... Ahahaha... Me sentindo ótimo...",
                 "Booomm.... Mmmh... Finalmente... finalmente... Incrível pra cacete... Mmmmhhh...",
                 "T-talvez... Eu vou acabar com tudo da próxima vez... Hahaha..."
+            ],
+            "angeronitem": [
+                "ARRGH! Pro INFERNO com essa coisa! Grhh..."
             ],
             "suicide": [
                 "Adeus. Adeus PARA SEMPRE. Esse foi meu LIMITE!!! FODA-SE TODO O RESTO!",
@@ -2823,6 +2860,69 @@
                 "Me sinto podre. Realmente preciso de um banho, ou algo assim...",
                 "Adoraria um chuveiro!"
             ],
+"encumbered": [
+
+
+
+                "Carregando um tanto demais.",
+
+
+                "Por acaso eu preciso disso tudo..?",
+
+
+                "Tô meio sobrecarregado...",
+
+
+                "Eu deveria soltar algumas coisas...",
+
+
+                "Eu deveria soltar alguns do meus pertences, estão bem pesados...",
+
+
+                "Ough, eu tô sobrecarregado demais.",
+
+
+                "Carregando, demais...",
+
+
+                "Eu tô pegando muita coisa...",
+
+
+                "Sinto que todas essas coisas serão úteis, mas também sinto um baita peso me atrasando...",
+
+
+                "A carga ta um pouco demais...",
+
+
+                "Eu sinto que essa carga toda esta me atrasando.",
+
+
+                "Vamos aliviar o peso um pouco.",
+
+
+                "Estou meio sobrecarregado em equipamento.",
+
+
+                "Carregando tanto, tão desconfortável...",
+
+
+                "Eu adoraria diminuir um pouco da carga...",
+
+
+                "Preciso deixar alguma coisa para tras, estou levando demais...",
+
+
+                "Eu realmente deveria abrir mão de algo, tenho levado muita carga...",
+
+
+                "Ugh! Muito equipamento comigo. Me sinto lento.",
+
+
+                "Tenho mantido muita tralha... Todo esse equipamento pesa."
+
+
+            ],
+            
             "watchlike": [
                 "Eu gosto dessa coisa relógio. É confortável."
             ],
