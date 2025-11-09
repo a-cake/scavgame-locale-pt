@@ -1083,7 +1083,7 @@
         "middleback": "Milieu du dos",
         "lowerback": "Bas du dos",
         "volumewarning": "AVERTISSEMENT SUR LE VOLUME",
-        "volumewarningtext": "Il est possible que vous rencontriez des sons TRÈS forts dans cette strate.\nPensez à baisser un peu le volume. Personne ne souhaite endommager son ouïe.",
+        "volumewarningtext": "Il est possible que vous rencontriez des sons TRÈS forts dans ce niveau.\nPensez à baisser un peu le volume. Personne ne veut endommager son ouïe.",
         "runsettings": "Paramètres de la partie",
         "looatmount": "Quantité de collectibles",
         "trapamount": "Quantité de pièges",
@@ -1139,8 +1139,8 @@
         "syringeMinigameGuide": "Appuyez sur la seringue pour injecter. Veillez à vérifier le dosage.",
         "lockpickMinigameGuide": "Cliquez n’importe où sur l’arche pour essayer de crocheter la serrure.\nPlus vous vous rapprochez de la cible, plus elle tournera.\nFaites attention à ne pas casser vos griffes.",
         "lifepodMinigameGuide": "Entrez le code pour ouvrir.",
-        "shrapnelMinigameGuide": "Retirez lentement les éclats. Vouloir aller trop vite vous fera mal.\nUtiliser une pince à épiler permettra d’aller plus vite.",
-        "dislocationMinigameGuide": "Frappez l’os au bon endroit pour le replacer.\nUtiliser une clé à molette serait beaucoup moins douloureux.",
+        "shrapnelMinigameGuide": "Retirez lentement le shrapnel. Vouloir aller trop vite vous fera mal.\nUtiliser une pince à épiler permettra d’aller plus vite.",
+        "dislocationMinigameGuide": "Frappez l’os au bon endroit pour le replacer.\nUtiliser une clé serait beaucoup moins douloureux.",
         "minigameExitGuide": "Faites CLIC DROIT/ÉCHAP pour quitter",
         "saveexit": "Sauvegarder et quitter",
         "saveexitdsc": "Sauvegardez votre progression et faites une pause.\nLa partie reprendra au début de la strate suivante.",
@@ -1237,14 +1237,14 @@
         "tut27": "Il est nécessaire de traiter régulièrement les infections, puisqu’elles ne se soignent pas toutes seules.",
         "tut28": "Il y a une bouteille d’antiseptiques juste ici. Lisez-en les effets et ramassez-la pour continuer.",
         "tut29": "Utilisez l’antiseptique sur le membre infecté.",
-        "tut29b": "Tant que vous traitez l’infection de ce membre, il pourra guérir. La flèche à côté des icônes vous indique si l’infection se propage ou si elle régresse.",
+        "tut29b": "Tant que traitez l’infection de ce membre, il pourra guérir. La flèche a côté des icônes vous indique si l’infection se propage ou si elle régresse.",
         "tut29c": "Les désinfections ne sont pas cumulatives, ne vous embêtez donc pas à pulvériser plusieurs fois d’affilée. Faites-le plutôt régulièrement.",
         "tut30": "N’oubliez pas : bien se nourrir et rester en bonne condition physique renforce votre immunité. Avancez vers la droite.",
         "tut31": "Vous devrez vous accroupir pour passer par ici. Maintenez (S).",
         "tut32": "Les conteneurs sont essentiels pour stocker des objets. Il y en a un juste en face de vous !",
         "tut33": "Mettez-moi dans le sac poubelle. Ne vous en faites pas, je ne le prendrais pas mal.",
         "tut34": "Maintenant, (CLIC DROIT) rapidement sur le conteneur pour voir son contenu, et sortez-moi de là.",
-        "tut35": "Vous faites ça très bien ! Souvenez-vous qu’il n’est pas possible d’utiliser les objets dans le moniteur de santé s’ils sont dans un conteneur. Avancez vers la gauche.",
+        "tut35": "Vous faites ça super bien ! Souvenez-vous qu’il n’est pas possible utiliser les objets dans le moniteur de santé si ils sont dans un conteneur. Avancez vers la gauche.",
         "tut36": "Le savoir c’est le pouvoir ! Passez la souris sur les objets et statuts (en bas à gauche), pour voir ce qu’ils font.",
         "tut37": "(CLIC GAUCHE) donnera un coup si vous n’avez pas d’arme, ou ne tenez pas d’objet utilisable dans la main principale.",
         "tut38": "Utilisez ceci pour détruire des choses. Essayez de miner le moins possible, c’est lent et vous épuisera vite.",
@@ -1414,7 +1414,7 @@
         "healthchipradalert1": "PROFONDEUR\nINSATISFAISANTE",
         "healthchipradalert2": "PROTOCOLE DE\nSANCTION ACTIVÉ",
         "healthchipradalert3": "ACCÉLÉREZ\nLA CADENCE",
-        "startlorenote": "Année 2XXX \n<>\nL’humanité a connu des avancées technologiques considérables. \n<>\nUne organisation s’est lancée dans des recherches en bio-ingénierie, fusionnant ADN animal et humain. \n<>\nCes travaux ont donné naissance à l’espèce Expérience, ainsi qu’à des dizaines de variantes par la suite. \n<>\nAprès des années de tests privés contraires à l’éthique dans leurs laboratoires, ils visaient quelque chose de plus grand. \n<>\nIls avaient repéré une planète grise à la faune et à la flore prospères, facilement accessible par voie spatiale. \n<>\nBientôt, des milliers de spécimens, bâtiments et cargaisons diverses y furent expédiés. \n<>\nSi la majorité du fret arriva à destination, une erreur de calibrage envoya une quantité importante de matériel dans le vaste réseau de cavernes de la planète. \n<>\nParmi ces équipements égarés se trouvait une pièce cruciale de technologie expérimentale, désormais enfouie au cœur du réseau souterrain, pratiquement irrécupérable. \n<>\nLes scientifiques y virent cependant une opportunité d’approfondir leurs recherches comportementales en envoyant des milliers de spécimens dans les profondeurs pour récupérer cette technologie perdue. \n<>\nLes chances de succès étaient minces, mais les expéditions coûtaient peu et la main-d’œuvre était abondante. \n<>\nVous êtes l’un de ces malchanceux spécimens. \nToute résistance est futile.",
+        "startlorenote": "Année 2XXX \n<>\nL’humanité a connu des avancées technologiques considérables. \n<>\nUne organisation s’est lancée dans des recherches en bio-ingénierie, fusionnant ADN animal et humain. \n<>\nCes travaux ont donné naissance à l’espèce Expérience, ainsi qu’à des dizaines de variantes par la suite. \n<>\nAprès des années de tests privés contraires à l’éthique dans leurs laboratoires, ils visaient quelque chose de plus grand. \n<>\nIls avaient repéré une planète grise à la faune et flore prospères, facilement accessible par voie spatiale. \n<>\nBientôt, des milliers de spécimens, bâtiments et cargaisons diverses y furent expédiés. \n<>\nSi la majorité du fret arriva à destination, une erreur de calibrage envoya une quantité importante de matériel dans le vaste réseau de cavernes de la planète. \n<>\nParmi ces équipements égarés se trouvait une pièce cruciale de technologie expérimentale, désormais enfouie au cœur du réseau souterrain, pratiquement irrécupérable. \n<>\nLes scientifiques y virent cependant une opportunité d’approfondir leurs recherches comportementales en envoyant des milliers de spécimens dans les profondeurs pour récupérer cette technologie perdue. \n<>\nLes chances de succès étaient minces, mais les expéditions coûtaient peu et la main d’œuvre était abondante. \n<>\nVous êtes l’un de ces malchanceux spécimens. \nObéir est votre seule option.",
         "jsonthing": "hi, this is here so i can copy json text without it annoying me about commas. this entry is not needed :)"
     },
     "character": [
@@ -1437,8 +1437,8 @@
                 "J’aime pas trop ce qui se passe...",
                 "...Hmm...",
                 "D’accord...",
-                "Bougeons. Et vite.",
-                "Effectivement, c’est une grotte.",
+                "Bougons. Vite.",
+                "C’est une grotte, en effet.",
                 "Bien ! Ne perdons pas de temps.",
                 "Ils ne m’ont vraiment rien laissé dans ma capsule...",
                 "Ma capsule est complètement vide...",
@@ -1460,8 +1460,8 @@
                 "HÉ-HO !? Y’A QUELQU’UN !?",
                 "C’est agréable de voir autre chose que du carrelage blanc pour une fois...",
                 "Au moins je suis en vie...",
-                "Même pas de provisions...",
-                "J’étais pas censé avoir du matériel...?",
+                "Aucun matériel...",
+                "J’étais pas sensé avoir du matériel...?",
                 "Le tour de manège est fini.",
                 "...Hm. Quel étrange paysage...",
                 "J’espère que je me souviens bien de mon entraînement...",
@@ -1506,7 +1506,7 @@
                 "Miam-miam...",
                 "C’est plutôt bon...",
                 "Pas mal !...",
-                "C’est impec’...",
+                "Trop bon...",
                 "Ça me plaît...",
                 "Mmmmm...",
                 "Je ne m’en lasserai jamais...",
@@ -1532,7 +1532,7 @@
                 "Mhh...",
                 "Beuh...",
                 "...?",
-                "Mouais, ok...",
+                "D’accord...",
                 "...Beurk.",
                 "Bof...",
                 "Cette texture...",
@@ -1699,8 +1699,8 @@
                 "...?"
             ],
             "wakeup": [
-                "Qu’est-ce qui m’arrive...?",
-                "On se concentre...",
+                "Qu’est ce qui m’arrive...?",
+                "J’ai baissé ma garde...",
                 "Bonjour...",
                 "C’est reparti...",
                 "Mmmmhhm...",
@@ -2100,8 +2100,8 @@
                 "On se fait... VRAIMENT chier ici...",
                 "Je vais détruire le type me fait subir ça.",
                 "Je vais craquer, putain.",
-                "Je veux me fracasser la tête contre un mur.",
-                "Je vais m’arracher les yeux, bordel.",
+                "Je veux me fracasser la tête contre le mur.",
+                "Je vais m’arracher les yeux, putain.",
                 "Je commence à vouloir me faire du mal.",
                 "Oh... Oh non.",
                 "...",
@@ -2109,10 +2109,10 @@
                 "Je prie pour que ma mort soit rapide quand elle surviendra",
                 "Je commence à réellement envisager de mettre fin à mes jours.",
                 "Ne me poussez pas dans mes retranchements.",
-                "Je veux pas... Je veux pas mourir là-dedans...",
-                "Quelqu’un... n’importe qui... s’il vous plaît, aidez-moi...",
-                "AU SECOURS !!! AIDEZ-MOI !? PITIÉ !!!...",
-                "Tout ça ne sert plus à rien, n’est-ce pas ?",
+                "Je veux pas... Je veux pas mourir là dedans...",
+                "Quelqu’un... N’importe qui... S’il vous plaît, aidez moi...",
+                "AU SECOURS !!! AIDEZ MOI !? PITIÉ !!!...",
+                "Ça ne sert plus à rien, c’est ça ?",
                 "C’est vraiment édifiant toute cette merde.",
                 "La vie me déteste.",
                 "AAAHHH !!",
@@ -2461,8 +2461,8 @@
                 "Ooh.",
                 "Copain ! Nooon... Pas de copain...",
                 "C’est pas très hygiénique.",
-                "Je ne crois pas que tu aies apprécié ton séjour.",
-                "Ooh, tu schlingues ! Va prendre une douche...",
+                "Je ne crois pas que tu ais apprécié ton séjour.",
+                "Ooh, tu pues ! Va prendre une douche...",
                 "Mmh...",
                 "Ennncore...",
                 "Ça m’attriste de les voir tous ici.",
@@ -2751,7 +2751,7 @@
                 "J’ai mal...",
                 "J’ai mal !",
                 "Argh !",
-                "Aïeuuuh !",
+                "Aïe !",
                 "Ouille !",
                 "Oumpf !",
                 "ÇA... fait mal !",
@@ -2943,7 +2943,7 @@
                 "J’aime bien ce genre de montre. C’est pas mal."
             ],
             "drillend": [
-                "...Ça en a pris du temps.",
+                "...C’était très long.",
                 "Bon sang, ce truc fait un max de bruit en fait.",
                 "Ça va pas me manquer pour le reste du chemin...",
                 "J’ai mal aux oreilles maintenant..."
@@ -3314,13 +3314,13 @@
                 "Beurk ! Ne me touchez pas."
             ],
             "traderseegun": [
-                "Avant de poursuivre, veuillez ranger cette arme sur vous. Donc...",
-                "J’espère que ce n’est pas un braquage. Si ça n’est pas le cas, rangez donc votre arme... Alors...",
+                "Avant de poursuivre, veuillez ranger cette arme sur vous. Alors...",
+                "J’espère que ce n’est pas un braquage. Si ce n’est pas le cas, rangez votre arme... Bref...",
                 "Éloignez cette arme de moi, il n’y a pas de fusillade en cours. Bon alors...",
                 "Est-ce que vous ESSAYEZ de m’intimider ou bien est-ce que vous trouvez juste que cette arme a l’air chouette..?"
             ],
             "tradermeetimpairedspeech": [
-                "Que dîtes-vous..? Je ne vous comprends pas.",
+                "Qu’est-ce que tu dis..? Je ne te comprends pas.",
                 "Votre parole est extrêmement étouffée. Juste histoire que vous le sachiez.",
                 "Je comprends à peine ce que vous me dites."
             ],
@@ -3332,9 +3332,9 @@
             "traderlightbreak": [
                 "...Frérot. Je te vois. Voleur... Dégage !",
                 "Oh, imbécile ! Sortez tout de suite ! DEHORS !",
-                "EH ! Allez vous faire voir ! Tirez-vous d’ici !",
-                "Mais qu’est-ce qui vous prend de faire ça !? Dégagez ! J’ai besoin de lumière moi !",
-                "Pourquoi vous détruisez ma capsule !? Dégagez ! OUSTE !"
+                "EH ! Va te faire voir ! Casse-toi d’ici !",
+                "Mais qui fait ça !? Dégage ! J’ai besoin de lumière moi !",
+                "Pourquoi tu détruis ma capsule !? Dégage ! PARS !"
             ]
         }
     ],
@@ -3357,7 +3357,7 @@
                 "Item2": "Sprites/noteDrawings/x"
             },
             {
-                "Item1": "je ne comprends pas pourquoi on est là. et pour quoi faire ? je sais que je suis censé récupérer une sorte de pile ou quelque chose comme ça. j’imagine que les autres aussi ont la même mission. il n’y pas une technique plus efficace pour faire ça ? logiquement ? pourquoi nous envoyer ici. mes amis me manquent. je ne veux pas mourir.",
+                "Item1": "je ne vois pas ce qu’on fait là. et pour faire quoi ? je sais que je suis sensé récupérer une sorte de pile ou quelque chose comme ça. j’imagine que les autres aussi ont la même mission. il n’y pas une technique plus efficace pour faire ça ? logiquement ? pourquoi nous envoyer ici. mes amis me manquent. je ne veux pas mourir.",
                 "Item2": "Sprites/noteDrawings/alone"
             },
             {
