@@ -1878,7 +1878,7 @@
                 "Je peux pas... il se passe quoi ?...",
                 "Qui... va là ?...",
                 "Je marche pas très droit...",
-                "Je jure que j-... hein ?",
+                "Je jure que j- ...hein ?",
                 "Aaargh. Il se passe quoi ?...",
                 "Je ne peux pas me concentrer...",
                 "Y’a un truc qui va pas.",
@@ -2371,7 +2371,7 @@
                 "AARGH ! PUTAIN OUI ! C’est génial...",
                 "PUTAIN ! HAHAHAHA ! TROP BIEN PUTAIN !",
                 "Juste un petit trou... Plus... Ahahah... Merde...",
-                "Aïe-... C-c’est trop bon... Merde...",
+                "Aïe- ...C-c’est trop bon... Merde...",
                 "BORDEL ! Hahaha ! PUTAIN oui ! Hahahaha...",
                 "C’est ça... que tu mérites... Bâtard... Va te faire foutre... Hahahaha...",
                 "Allez... c’est parti... hahah... ouais...",
@@ -2868,7 +2868,7 @@
                 "Enfin... la paix...",
                 "J’avais vraiment... besoin de ça...",
                 "C’est juste pour de me calmer... Juste pour me calmer...",
-                "Ça va me calmer... ça va me c-... Ouaaais...",
+                "Ça va me calmer... ça va me calm- ...Ouaaais...",
                 "J’en ai vraiment besoin.",
                 "Je me sens... apaisé...",
                 "Fais moi oublier...",
@@ -2951,7 +2951,7 @@
                 "ÇA... fait mal !",
                 "Mon <limb>... Aïe...",
                 "Aïe ! Rhah...",
-                "Put-... j’ai mal...",
+                "Put- ...j’ai mal...",
                 "Ça- fait mal !",
                 "Ouch ! Aïe !",
                 "Aah !",
@@ -3548,163 +3548,163 @@
         },
         {
             "tradermeetnormal": [
-                "Mmm... Sal-ut....",
-                "Bienvvv-enue... A-mi...",
-                "A-mi... Cou-cou... Toi a-ssoir...",
-                "A-llut... A-mi... Gen-til...",
-                "Viens... I-ci... A-mi...",
-                "Viens... A-mi..."
+                "Mmm... Sa...lut....",
+                "Bien-venu... a-mi...",
+                "A-mi... Cou...cou... Toi as-soir...",
+                "A...lut... a-mi... Gen-til...",
+                "Viens... i-ci... a-mi...",
+                "Viens... a-mi..."
             ],
             "tradermeetgood": [
-                "Woa ! Sal-ut !",
-                "Mmmm... A-mi... Bien-venue dans... Maizon...",
-                "A-mi! Bon-jour...! Commen va...",
-                "Dune trouve... Bon a-mi !...",
-                "Sal-lut !... A-mi... App-ro-che...",
-                "Nouveau a-mi ?.. Dune cont-ent..."
+                "Graah ! Sa...lut !",
+                "Mmmm... A-mi... Bien-venu dans... maizon...",
+                "A-mi ! Bon-jour...! Com... toi va...",
+                "Dune trouv... bon a-mi !",
+                "Sa...lut !... A-mi... Ap-pro-che...",
+                "Nouvel a-mi ?.. Dune con-tent..."
             ],
             "tradermeetbad": [
                 "Grrr... In-connu...",
-                "Nggghhrr... Sal-lut... In-connu...",
+                "Nggghhrr... Sa...lut... in-connu...",
                 "Grrrrr... A-mi... Pas bon man-ger...",
                 "Grrrr... Mé-chant in-connu !.. Grrr...",
-                "Grrrpmh.. Mé-chant !... Pas a-mi...",
-                "Dune aime pas... Cet a-mi !..."
+                "Grrrpmh... Mé-chant !... Pas a-mi...",
+                "Dune aime pas... cet a-mi !..."
             ],
             "traderwakegreet": [
-                "A-mi... Ré-veille la sieste...",
-                "Fi-ni dormi-r... Cou-cou.. ! De-bout...",
-                "Ré-vé-illé... Bon-journée...",
+                "A-mi... Ré-veil sieste...",
+                "Fi-ni dor-mir... Cou... cou !... De-bout...",
+                "Ré-vé-il... Bon... jour...",
                 "De-bout... A-mi...",
                 "Fait jour... A-mi...",
-                "A-mi dormi-r... De-bout... Dune sa-luer !"
+                "A-mi dor-mir... De-bout... Dune sa-luer !"
             ],
             "tradergiveitem": [
-                "Dune va pren-dre.",
-                "Accepte chose..!",
-                "Dune prend chose..!",
-                "Mer-ci...  a-mi...",
-                "Du-ne veut...",
+                "Dune pren-dre.",
+                "Accepte... cho-se...",
+                "Dune pren-dre cho-se...",
+                "Mer-ci...  A-mi...",
+                "Dune veut...",
                 "Bien... Mer-ci...",
-                "A-mi do-nne... Gen-til..."
+                "A-mi don-ne... Gen-til..."
             ],
             "tradergiveitemrefuse": [
-                "Ne prends plus !",
-                "Trop a-ssez...",
-                "A-mi.. Pas.. Donné.. A-ssez...",
-                "Dune p-as... Prendre pl-us !",
-                "Non ! Dune avoir a-ssez..."
+                "Ne plus pren-dre !",
+                "As-sez...",
+                "A-mi.. Pas don-né... as-sez...",
+                "Dune pas... pren-dre plus !",
+                "Non ! Dune a... assez..."
             ],
             "traderbite": [
-                "Bien... Profite g-oût chair. Me-illeur a-mi !",
+                "Bien... Goût bon chair... Mei-lleur a-mi !",
                 "Oui... Mer-ci pour... man-ger de Du-ne...",
-                "Miamhmh... Mer-ci... Bon goût man-ger... Pends tout..!",
-                "Man-ge bien... Bon a-mi...",
+                "Miamhmh... Bon goût man-ger... Dune prends !",
+                "Man-ger bien... Bon a-mi...",
                 "Dune aime man-ger a-mi...",
-                "Bo-on a-mi... Bien man-gé..."
+                "Bon a-mi... Dune bien man-gé..."
             ],
             "traderbuy": [
-                "Avoir truc. Ami mé-ri-té !",
+                "Avoir cho-se. Ami mé-ri-té !",
                 "Prends t-ruc ! Comme ré-com-pense...",
                 "Dune don-ne ca-deau ! A-mi prends...",
                 "Du-ne donne...",
                 "Dune... Re-me-rcie...",
                 "A-mi donner... Avant... Dune donner aus-si...",
-                "Toi... Pr-ends truc ! Bon a-mi..."
+                "Toi... Pr-ends cho-se ! Bon a-mi..."
             ],
             "traderbuyfail": [
                 "Grrrr !",
                 "Non ! Ggrhhr...",
                 "Non ! Toi don-ner !",
-                "Grrrr... Dune veut tr-uc aus-si !",
+                "Grrrr... Dune veut cho-se aus-si !",
                 "Du-ne pas don-ner... Don-ner toi !... Grrrr...",
-                "A-mi donne pre-mier..."
+                "A-mi don-ner... pre-mier..."
             ],
             "traderbuyfailmaxvalue": [
-                "Donné trop ! Partir main-tenant !",
-                "Dune tr-op donné... Beau-coup... Arrê-te a-mi...",
-                "Dune pas donner... Mien...",
+                "Trop don-né  ! Pars main-tenant !",
+                "Dune tr-op don-né... Beau-coup... As-sez a-mi...",
+                "Dune pas don-ner... Mien...",
                 "Grrr... Du-ne ga-rde mien ! Grrrmph...",
-                "Dune ga-rde... Dune ve-ut... Pl-us..."
+                "Dune ga-rde... Dune veut... plus..."
             ],
             "traderthreatensuccess": [
-                "Pas besoin c-rier... Prendre truc... Vi-llain...",
-                "Dune pas as-sez fort... Prendre tr-uc et partir... Ggrhhr...",
-                "A-mi gr-and.. Chasseur ! Dune... Peur... Toi pr-endre...",
-                "Dune tr-op f-aible... Dune laisser tom-ber... pr-endre et partir...",
-                "Pas fai-re mal Dune... Prendre tr-uc... Par-tir...",
-                "Dune lai-sse villain a-mi prendre tr-uc... Dune aime pas a-mi..."
+                "Pas be-soin cri-er... Prendre cho-se... Vil-lain...",
+                "Dune pas as-sez fort... Prends... et pars... Ggrhhr...",
+                "A-mi gr-and chasseur ! Dune peur... Toi prends...",
+                "Dune f-ai-ble... Dune lais-se... tom-ber... Prends et pars...",
+                "Pas fai-re mal Dune... Prendre cho-se... Pars...",
+                "Dune lais-se vil-lain a-mi prendre cho-se... Dune aime pas..."
             ],
             "traderwarning": [
-                "Partir ! Ou mor-dre ! Vi-te !",
-                "Mnnnhh... Proie aura voulu...",
-                "Gghhrr ! PARS... L-OIN...",
-                "Pars... loin ! Très loin...",
+                "Pars ! Ou Dune mor-dre ! Vi-te !",
+                "Mnnnhh... Proie vou-lu... mau-vais choix...",
+                "Gghhrr ! Loin... PARS !...",
+                "Pars... loin... Très loin...",
                 "Dune aime pas a-mi !",
-                "Dune pas lai-sser a-mi de-dans !... De-hors !...",
+                "Dune pas lais-ser a-mi... de-dans... De-hors !...",
                 "Dune veut a-mi de-hors !... Vi-te !..."
             ],
             "tradercombat": [
                 "Nggrrrrr ! Grrrrrrr ! GAAAAHHH !",
                 "GGHHRRAHHH !",
                 "GNNGHRHHRRRRR !",
-                "A-MI REGRETTER CHOIX !",
+                "A-MI RE-GRETT... CHOIX !",
                 "NGGHHRRR...",
                 "GRRRR ! DUNE PAS AIMER !",
                 "NGHHRRRR... PLUS A-MI !",
-                "DUNE PAS AIMER VILLAIN A-MI ! GRRRR !",
-                "DUNE... TROUVE... EN-NE-MI ! MON-STRE !"
+                "DUNE PAS AIMER VIL-LAIN A-MI ! GRRRR !",
+                "DUNE... TROUV... EN-NE-MI ! MON-STRE !"
             ],
             "traderhugsuccess": [
-                "Pour-quoi a-mi toucher...",
+                "Pour-quoi a-mi tou-cher...",
                 "A-mi fait quoi..?",
-                "Gnhghr..? A-mi toucher p-our quoi..?",
-                "Pour-quoi toucher..? Du-ne pas comp-rendre...",
-                "Uhh... Grr... Du-ne pas comp-rendre... Dune laisser...",
-                "A-mi... Pour-quoi ?... Ok...",
-                "Dune pas savoir... Pour-quoi a-mi... A-mi peut f-aire...",
-                "Dune et fri-end pro-che ?... Qu-oi ?..."
+                "Gnhghr..? A-mi tou-cher pour quoi..?",
+                "Pour-quoi tou-cher..? Du-ne pas com-prendre...",
+                "Euh... Grr... Du-ne pas com-prendre... Dune lais-se...",
+                "A-mi... pour-quoi ?... Ok...",
+                "Dune pas savoir... pour-quoi a-mi... A-mi peut faire...",
+                "Dune et a-mi... pro-che... Qu-oi ?..."
             ],
             "traderhugfail": [
-                "GRRR ! Reculer ! Ggrrn...",
-                "Ngghrr ! Non ! Par-tir !",
-                "Non ! Dune pas lai-sser...",
-                "Dune aime pas a-mi p-roche...",
+                "GRRR ! Re-cu-ler ! Ggrrn...",
+                "Ngghrr ! Non ! Pars !",
+                "Non ! Dune pas lais-ser...",
+                "Dune aime pas a-mi... pro-che...",
                 "Grrr ! Non ! Ngghr...",
                 "A-mi pas app-ro-cher ! Grrr... Dune aime pas..."
             ],
             "traderseegun": [
                 "Ami tenir quoi..? Ar-rête !",
-                "Du-ne aime pas branche-boum...",
-                "N-non... Dune peur... Bâ-ton bruyant...",
-                "A-mi... Dune peur toi... Bâton bru-yant...",
-                "Pour-quoi a-mi avoir... Truc vi-llain ?...",
-                "Dune... Peur main-tenant... Vi-llain truc...",
-                "Pourquoi a-mi a-voir... Clic-boum... Dune... Aime pas...",
-                "Dune peur... Fee-mee-jee?... Pain... Not get...",
-                "Cha-sseur in-juste... Dune... Pas aimer... Fu-sil..."
+                "Du-ne aime pas bâ-ton boum...",
+                "N-non... Dune peur... bâ-ton bruyant...",
+                "A-mi... Dune peur toi... bâ-ton bruit...",
+                "Pour-quoi a-mi avoir... truc vil-lain ?...",
+                "Dune peur... main-tenant... truc mau-vais...",
+                "Pourquoi a-mi avoir... clic-boum... Dune aime pas...",
+                "Dune peur... bruit... mal... pas com-prend...",
+                "Chas-seur in-juste... Dune pas aimer... fu-sil..."
             ],
             "tradermeetimpairedspeech": [
-                "Dune pas comp-rendre... Mieux par-ler ! A-mi parle mal...",
+                "Dune pas com-prend... mieux par-ler ! A-mi parle mal...",
                 "A-mi dit quoi..? Voix pas com-pris...",
-                "Dune parle ma-l... A-mi parle mal... Mal mal !...",
-                "Du-ne parler dur... A-mi parle... ma-l...",
-                "Dune p-as com-prendre... Toi...",
-                "Du-ne pro-blème en-tendre a-mi !"
+                "Dune parle ma-l... A-mi parle mal... mal mal !...",
+                "Du-ne dur par-ler... A-mi parle ma-l...",
+                "Dune pas com-prend... toi...",
+                "Du-ne pro-blème... en-tendre a-mi !"
             ],
             "traderseehurt": [
-                "A-mi sang... Ngghhgrr... Prendre truc rép-arer... Cadeau...",
-                "Pouquoi sang ?.. Dune peut... do-nner truc soin... Cadeau...",
-                "A-mi ble-ssé... Dune donner truc-aide... Cadeau...",
-                "A-mi plein sang... A-mi mal... Dune p-eut donner soin...",
-                "A-mi avoir mal... Dune donner aide..."
+                "A-mi sang... Ngghhgrr... Prendre truc rép-arer... Ca-deau...",
+                "Pour-quoi sang... Dune peut don-ner soin... Ca-deau...",
+                "A-mi bles-sé... Dune don-ner aide... Ca-deau...",
+                "A-mi plein sang... A-mi mal... Dune don-ner soin...",
+                "A-mi avoir mal... Dune don-ner aide..."
             ],
             "traderlightbreak": [
-                "NNGGHHRR ! Pour-quoi a-mi voler ! Pars ! GGrrhhhhhh... VILLAIN..!",
-                "GRRR ! MÉCHANT ! DE-HORS !",
-                "VILLAIN ! Grrrr... A-mi méchant... Méchant ! Partir !",
-                "Dune PAS VOIR ! MÉCHANT A-MI ! PARTIR... LOIN !",
-                "A-mi voler ! Pas a-mi..."
+                "NNGGHHRR ! Pour-quoi a-mi vo-leur ! Pars ! Ggrrhhh... VIL-LAIN !",
+                "GRRR ! MÉ-CHANT ! DE-HORS !",
+                "VIL-LAIN ! Grrrr... A-mi méchant... Méchant ! Pars !",
+                "",
+                "A-mi vo-leur ! Pas a-mi..."
             ]
         }
     ],
