@@ -267,7 +267,7 @@
         "mp3player": "Lecteur MP3",
         "mp3playerdsc": "C’est étonnant qu’il fonctionne encore. Contient un petit peu de mémoire où quelques morceaux de musiques sont stockés. Vous pourriez jouer un morceau pour vous divertir.",
         "mushpear": "Poire gluante",
-        "mushpeardsc": "Un organe végétal bleu, destiné à distribuer l’eau. À peine comestible, avec une étrange propriété d’absorption du poids et un goût bizarre. Réduit la masse corporelle lorsque consommée. Semble contenir des traces d’opiacés.",
+        "mushpeardsc": "Un organe végétal bleu, destiné à distribuer l’eau. À peine comestible, avec une étrange propriété d’absorption du poids et un goût bizarre. Réduit la masse corporelle lorsque consommé. Semble contenir des traces d’opiacés.",
         "mushtail": "Tige gluante",
         "mushtaildsc": "La tige d’une plante gluante. Contient une substance qui peut assommer instantanément quelqu’un pendant un certain temps, avec une amélioration visible de l’humeur au réveil. Bizarre. Aucune valeur nutritionnelle.",
         "mushball": "Baie gluante",
@@ -503,7 +503,7 @@
         "bread": "Pain",
         "breaddsc": "Une miche de pain, faite de farine et d’eau. La plus simple des recettes culinaires, qui est en plus pas répugnante et se conserve longtemps.",
         "pemmican": "Pemmican",
-        "pemmicandsc": "Mélange de graisse, de viande séchée et de fruits déshydratés. Se conserve longtemps et est très calorique. Goût neutre.",
+        "pemmicandsc": "Mélange de graisse, de viande séchée et de fruits déshydratés. Très calorique et se conserve longtemps. Goût neutre.",
         "torch": "Torche",
         "torchdsc": "Source lumineuse extrêmement primitive. Bien qu’elle éclaire assez bien, elle s’éteint au contact de liquides. Vous pouvez la rallumer à l’aide d’un peu de graisse et d’une source de flamme.",
         "lighter": "Briquet",
@@ -660,7 +660,7 @@
         "bananaplant": "Plante-banane",
         "bananaplantdsc": "Petite plante assez large, appelée communément « plante-banane » en raison de son apex jaune et visqueux. Elle est très glissante.",
         "geyser": "Geyser",
-        "geyserdsc": "Un geyser instable qui à tendance à cracher de l’eau. Heureusement, dans le pire des cas, ses jets sont tièdes.",
+        "geyserdsc": "Un geyser instable qui à tendance à cracher de l’eau. Heureusement : dans le pire des cas, ses jets sont tièdes.",
         "oilpipe": "Conduit d’évacuation",
         "oilpipedsc": "Une canalisation rouillée qui dégouline un goudron noir. Vous ne voulez pas regarder à l’intérieur… Les alentours finiront inondés avec le temps.",
         "plantiation": "Plantiation",
@@ -674,7 +674,7 @@
         "skullcrusher": "Broyeur de crâne",
         "skullcrusherdsc": "Pourrait vous donner la migraine.",
         "gunmine": "Mine-fusil",
-        "gunminedsc": "Connue sous le petit nom de « Pète-orteil »",
+        "gunminedsc": "Connue sous le petit nom de « pète-orteil »",
         "sawblade": "Scie circulaire",
         "sawbladedsc": "Vous rappelle d’horribles souvenirs.",
         "LoreNote": "Page de journal",
@@ -837,7 +837,7 @@
         "impendingdoom": "Mauvais pressentiment",
         "horrified": "HORRIFIÉ",
 
-        "braindamage4dsc": "…",
+        "braindamage4dsc": "...",
         "braindamage3dsc": "tout  ...  est   insensé",
         "braindamage2dsc": "Fort déficit cognitif. Capacité de raisonnement et de satisfaction des besoins primaires limitée. Lésions cérébrales graves.",
         "braindamage1dsc": "Troubles mentaux dus à des lésions cérébrales. Vous vous sentez hautement désorienté…",
@@ -957,9 +957,9 @@
         "deaf4dsc": "Vous n’entendez presque rien. Vous vous sentez très irrité. Votre ouïe mettra un certain temps à s’améliorer.",
         "autopumpdsc": "Constantes vitales maintenues à des niveaux stables par une machine d’assistance vitale. (<>)",
         "encumbered1dsc": "Vous êtes un peu chargé. <> encombré.",
-        "encumbered2dsc": "Transporte trop de choses. Endurance et mobilité diminués. Gain passif de STR/RES. <> encombré.",
-        "encumbered3dsc": "Transporte beaucoup trop de choses. Endurance et mobilité grandement réduites. Gain passif de STR/RES. <> encombré.",
-        "encumbered4dsc": "Pratiquement incapable de bouger. Transporte BEAUCOUP, beaucoup trop de choses. Gain passif de STR/RES. <> encombré.",
+        "encumbered2dsc": "Transporte trop de choses. Endurance et mobilité diminués. Gain passif de STR./RES. <> encombré.",
+        "encumbered3dsc": "Transporte beaucoup trop de choses. Endurance et mobilité grandement réduites. Gain passif de STR./RES. <> encombré.",
+        "encumbered4dsc": "Pratiquement incapable de bouger. Transporte BEAUCOUP, beaucoup trop de choses. Gain passif de STR./RES. <> encombré.",
         "irradiated1dsc": "Irritation cutanée et sentiment de mal être.",
         "irradiated2dsc": "Fiévreux et nauséeux. Votre peau est brûlante et douloureuse. Quelque chose ne va pas. C’est terrifiant.",
         "irradiated3dsc": "Affreusement malade et souffrant. Respirer et réfléchir vous est extrêmement difficile. Vous vous sentez affreux.",
@@ -3450,7 +3450,7 @@
                 "Je ne suis pas une œuvre de charité, bon sang.",
                 "Je ne tolère que les faits rationnels, pas les supplications insensés.",
                 "Non.",
-                "C’est le pire argument que j’ai jamais entendu.",
+                "C’est le pire argument que j’aie jamais entendu.",
                 "Je dois décliner votre demande.",
                 "Négatif.",
                 "Aucune exception, désolé."
@@ -3526,7 +3526,7 @@
                 "Avant de poursuivre, veuillez ranger cette arme sur vous. Alors...",
                 "J’espère que ce n’est pas un braquage. Si ce n’est pas le cas, rangez votre arme... Bref...",
                 "Éloignez cette arme de moi, il n’y a pas de fusillade en cours. Bon alors...",
-                "Est-ce que vous ESSAYEZ de m’intimider ou bien est-ce que vous trouvez juste que cette arme a l’air chouette..?"
+                "Essayez-vous de m’intimider ou bien est-ce que vous trouvez juste que cette arme a l’air chouette..?"
             ],
             "tradermeetimpairedspeech": [
                 "Qu’est-ce que tu dis..? Je ne te comprends pas.",
@@ -3534,7 +3534,7 @@
                 "Je comprends à peine ce que vous me dites."
             ],
             "traderseehurt": [
-                "On dirait que vous êtes blessé et que vous saignez... Vous pouvez prendre un bandage si vous voulez.",
+                "Il semble que vous êtes blessé et vous saignez... Vous pouvez prendre un bandage si vous voulez.",
                 "Beurk ! Essayez de ne pas mettre du sang partout sur mon sol. Prenez un bandage et servez-vous en si vous en trouvez un, les miens sont gratuits.",
                 "Ça n’a pas l’air d’aller... Vous pouvez prendre un bandage gratuitement si vous en trouvez un sur moi."
             ],
@@ -3550,7 +3550,7 @@
             "tradermeetnormal": [
                 "Mmm... Sa...lut....",
                 "Bien-venu... a-mi...",
-                "A-mi... Cou...cou... Toi as-soir...",
+                "A-mi... Cou-cou... Toi as-soir...",
                 "A...lut... a-mi... Gen-til...",
                 "Viens... i-ci... a-mi...",
                 "Viens... a-mi..."
@@ -3573,7 +3573,7 @@
             ],
             "traderwakegreet": [
                 "A-mi... Ré-veil sieste...",
-                "Fi-ni dor-mir... Cou... cou !... De-bout...",
+                "Fi-ni dor-mir... Cou-cou !... De-bout...",
                 "Ré-vé-il... Bon... jour...",
                 "De-bout... A-mi...",
                 "Fait jour... A-mi...",
