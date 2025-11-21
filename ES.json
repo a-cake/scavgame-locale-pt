@@ -1,6 +1,6 @@
 {
     "name": "Español",
-    "description": "Una versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones hechas por la comunidad en el repositorio local (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), aunque estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas.",
+    "description": "Una versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), aunque estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas.",
     "main": {
     "bandage": "Vendaje",
     "bandagedsc": "Un rollo de vendas con ligadura, usado para detener el sangrado, estabilizar fracturas y ayudar a sanar la piel. No ayuda a sanar el músculo.",
@@ -390,8 +390,8 @@
     "browncapdsc": "No se está seguro de qué tipo de hongo es exactamente. Por lo que sabes, podría hacer cualquier cosa, desde curar heridas hasta matarte en el acto.",
     "sneakers": "Zapatillas",
     "sneakersdsc": "Unas zapatillas blancas, que no están diseñadas para cubrir las patas. Si logras escurrir tus pies dentro, te protegen de los cristales rotos.",
-    "frigiantfruit": "Fruta granfría",
-    "frigiantfruitdsc": "Una muy fría, dura y cristalina fruta. Delicioso, pero tiene tendencia a enfriarte mucho. Considera no consumirla en el frío intenso.",
+    "frigiantfruit": "Fruta frigia",
+    "frigiantfruitdsc": "Una fruta muy fría, dura y cristalina. Delicioso, pero tiene tendencia a enfriarte mucho. Considera no consumirla en el frío intenso.",
     "purpleherb": "Hierba púrpura",
     "purpleherbdsc": "Una hoja seca, de color púrpura y de textura áspera. Comúnmente utilizado como ayuda para ciertas dolencias: ayuda contra las enfermedades, ayuda ligeramente con la pérdida de audición y puede disminuir las hemorragias internas. Úselo con precaución: tiene tendencia a aumentar considerablemente la temperatura corporal del consumidor.",
     "bulbskin": "Piel de bulbo",
@@ -529,7 +529,7 @@
     "drillpoddscfixed": "Utilizado para transportar personas a largas distancias por tierra firme.\n\nAgáchate dentro de él para saltar 2 capas hacia abajo. Puede causar algo de pérdida de audición, ya que la insonorización se ha desgastado.",
     "drillpodbroken": "Módulo de perforación roto",
     "drillpodbrokendsc": "Esta roto, no se puede reparar...",
-    "frigiant": "Granfría",
+    "frigiant": "Frigilanta",
     "frigiantdsc": "Una planta helada y vidriosa. De ella cuelga un bulbo esférico.",
     "snowstrider": "Caminante helado",
     "snowstriderdsc": "Una criatura grande y esponjosa que busca alimento en las regiones frías de este sistema de cuevas. Su grueso pelaje la mantiene caliente.",
@@ -1259,7 +1259,7 @@
     "containermaxweight": "Capacidad",
     "containermaxweightperitem": "Peso máximo/objeto",
     "conditionloss": "% deterioro por minuto",
-    "decayonlyif": "solo si ",
+    "decayonlyif": "Solo si ",
     "decayonlyworn": "está deteriorado",
     "decayonlymoving": "se mueve",
     "decayonlyhasitems": "tiene objetos",
@@ -1330,7 +1330,7 @@
     "crafttipdsc": "Activa el menú de creación de objetos",
     "craftsearchrecipes": "Buscar recetas...",
     "craftingredients": "Ingredientes",
-    "craftingredientsdsc": "Los objetos (<>) marcados como favoritos no serán usados para crear objetos",
+    "craftingredientsdsc": "Los objetos marcados como favoritos (<>) no serán usados en la creación de objetos",
     "craftinfo": "Info",
     "craftnotmadebefore": "<sprite index=25>Aún no has creado esto.",
     "craftnotmadebeforetip": "Crear nuevas recetas te da experiencia en INT y tu estado de ánimo mejora un poco.",
@@ -1338,9 +1338,9 @@
     "craftanytool": "Cualquier herramienta con",
     "craftexample": ", como <color=#AAAAAA><><color=#666666>",
     "craftanyliquid": "Cualquier líquido con",
-    "craftitemquality": "- (<1>) <2> calidad",
-    "craftliquidquality": "- Total (<1>) <2> calidad",
-    "craftcondition": "- Al menos <>% condición",
+    "craftitemquality": "- (<1>) cualidad de <2>",
+    "craftliquidquality": "- Cualidad total: (<1>) en <2>",
+    "craftcondition": "- Al menos <>% de condición",
     "craftml": "- Al menos <> ml",
     "craftinfocondition": "Condición: ",
     "craftinfovolume": "Volumen: ",
@@ -1367,16 +1367,16 @@
     "cqcanvas": "Lienzo",
     "cqnails": "Clavos",
     "cqwater": "Agua",
-    "cqhammering": "Martilleantes",
-    "cqcutting": "Cortantes",
-    "cqrippable": "Desgarrables",
+    "cqhammering": "Contundente",
+    "cqcutting": "Cortante",
+    "cqrippable": "Desgarrable",
     "cqdisinfectant": "Antiséptico",
     "cqblood": "Sangre",
     "cqopiate": "Opio",
     "cqdressing": "Vendas",
     "cqproduce": "Frutas y verduras",
     "cqmeat": "Carne",
-    "cqfirestarter": "Encendedor",
+    "cqfirestarter": "Prende-fuegos",
     "cqheatsource": "Fuente de calor",
     "cqflammable": "Flamable",
     "cqflour": "Harina",
@@ -1553,7 +1553,7 @@
     "indifferent": "Indiferente:",
     "wantskeep": "Prefiere quedárselo:",
     "wantstradetip": "Precios bajos y alta ganancia de reputación",
-    "indifferenttip": "Precios normales y reputación",
+    "indifferenttip": "Precios y ganancia de reputación normales",
     "wantskeeptip": "Precios incrementados sin ganancia de reputación",
     "costs": "<sprite index=9>Coste ",
     "weighs": "<sprite index=0>Valor ",
@@ -1622,7 +1622,7 @@
         "healthchipradalert2": "PROTOCOLO DE\nCASTIGO ACTIVO",
         "healthchipradalert3": "ACELERA\nEL RITMO",
         "startlorenote": "Año 2XXX \n<>\nLa humanidad ha progresado tecnológicamente de manera significativa.\n<>\nUna corporación comenzó a investigar en bioingeniería, combinando ADN animal y humano.\n<>\nEsto condujo a la creación de la especie experimento, junto con docenas de derivaciones posteriores.\n<>\nDespués de años de pruebas privadas poco éticas en laboratorios, pusieron la mira en algo más grande.\n<>\nSabían de un planeta gris con una flora y fauna próspera y una ruta de viaje espacial asequible.\n<>\nPronto, se enviaron miles de ejemplares, edificios y cargamentos diversos.\n<>\nAunque la mayor parte se envió correctamente, una gran cantidad de cargamento se envió por error a la extensa red de cuevas del planeta debido a un error de calibración.\n<>\nEsto incluye una pieza de tecnología experimental importante enviada por error, que ahora se encuentra en lo más profundo de los sistemas subterráneos, sin una forma fácil de recuperarla.\n<>\nSin embargo, los científicos vieron esto como una oportunidad para realizar más investigaciones comportamentales, enviando miles de especímenes para recuperar la tecnología perdida.\n<>\nLas posibilidades de que funcionara eran bajas, pero el envío es barato y sus recursos abundantes.\n<>\nEres un espécimen desafortunado.\nLa resistencia no es una opción.",
-        "jsonthing": "Agregué esto para dar sus comentarios de lo que quieran decir cuando editen xd. Tmb para coincidir el número de líneas y que sea más fácil sin que teman a que se modificó algo que no querían xd, traducción hecha por Zilat"
+        "jsonthing": "Agregué esto para dar sus comentarios de lo que quieran decir cuando editen xd. Tmb para coincidir con el número de líneas y que sea más fácil sin que teman a que se modificó algo que no querían xd, traducción hecha por Zilat"
   },
   "character": [
     {
@@ -2133,19 +2133,19 @@
         "Me destrocé mi <limb>.",
         "¿Mi <limb> debería sentirse así?",
         "Algo no está bien con mi <limb>...",
-        "¡Ough! Mi <limb> se siente raro!",
+        "¡Ough! ¡Mi <limb> duele muy mal!",
         "Mi <limb> se siente rarísimo.",
         "Mi <limb> no funciona bien."
       ],
       "limbinfected": [
-        "Se inflamó mi <limb>...",
+        "Se me inflamó mi <limb>...",
         "Mi <limb> se siente muy extraño.",
         "Creo que tengo algo...",
         "Algo le ocurre a mi <limb>.",
         "Mi <limb> se siente caliente, muy raro.",
         "Mi <limb> se siente... mal.",
         "Mi <limb> duele al tacto.",
-        "¡Creo que mi <limb> está infectado!",
+        "¡Creo que mi <limb> se infectó con algo!",
         "Mi <limb> se siente muy raro.",
         "Hay algo que no está bien con mi <limb>...",
         "¡Mi <limb> duele y se siente raro!",
@@ -3105,8 +3105,8 @@
           "¡Hora de un baño!",
           "Estoy muy seguro que las cápsulas salvavidas tienen duchas ahí dentro... Podría utilizar una.",
           "¿Cómo es que estoy así de sucio?",
-          "Dios, estoy CUBIERTO en mugre!",
-          "Mi pelaje es tan asqueroso!",
+          "¡Dios, estoy CUBIERTO en mugre!",
+          "¡Mi pelaje es tan asqueroso!",
           "¡Eww! Estoy cubierto en suciedad.",
           "Tengo hollín en mi pelaje.",
           "Me siento sucio. Necesitaría una ducha, o algo...",
@@ -3293,7 +3293,7 @@
           "'Mano, ¿qué onda? ¿Por qué harías eso? Vete de aquí.",
           "¿...De verdad creíste que no vería eso?. Hijueputa. ¡Vete de aquí!",
           "¡Ey! ¡¿Qué te pasa?! ¡Lo necesitaba! ¡Vete de aquí, maldito!",
-          "¡Ahh! ¡LADRÓN! ¡Váyase aquí!",
+          "¡Ahh! ¡LADRÓN! ¡Largo, YA!",
           "Amigo. Okey... Okey así qu-. Okey... Yo... Eh... Por favor, vete."
       ],
       "traderwakegreet": [
@@ -3308,7 +3308,7 @@
           "¡...Espera un momento! Aleja esa arma, 'mano... En todo caso.",
           "¡Hey! ¿Qué hay del arma? Quita eso, por favor. ... Está bien.",
           "Espero que no estés usando esa arma, Jaja.",
-          "Ey, No tengo un arma, así que aleja la tuya, amigo."
+          "Ey, no tengo un arma, así que aleja la tuya, amigo."
       ],
       "tradermeetimpairedspeech": [
           "¿...Eh? ¿Qué? ¿Hay algo en tu boca? No te entiendo...",
@@ -3323,7 +3323,7 @@
       "swingresponse": [
         "¡LO SIENTO!",
         "¡DÉJAME!",
-        "AGH!",
+        "¡AGH!",
         "¡PARA!",
         "¡MALDITO!",
         "¡Detente!",
@@ -3421,7 +3421,7 @@
           "Saludos, despertaste.",
           "¡Adivinen quién despertó!",
           "Hey dormilón. ¡Bienvenido de nuevo!",
-          "Estuviste durmiendo como un cachorro, jaja..."
+          "Estuviste durmiendo como un cachorro, ja, ja..."
       ],
       "tradergiveitem": [
           "Gracias.",
@@ -3453,7 +3453,7 @@
           "No.",
           "Ese fue el peor argumento que he escuchado.",
           "Tengo que rechazar tu propuesta.",
-          "Nop, Negativo.",
+          "Nop, negativo.",
           "Sin excepciones, perdona."
       ],
       "traderbuy": [
@@ -3477,7 +3477,7 @@
       ],
       "traderbuyfailmaxvalue": [
           "Suficiente emoción de intercambios por hoy. Ya has comprado mucho. Muchísimo.",
-          "No deseo ni quiero intercambiar todas nuestras posesiones por completo. Demos esto por terminado. ¿Quieres?"
+          "No deseo, ni quiero intercambiar todas nuestras posesiones por completo. Demos esto por terminado. ¿Quieres?"
       ],
       "traderthreatensuccess": [
           "No es de mi interés salir lastimado. Toma lo que sea y vete.",
