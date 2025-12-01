@@ -231,7 +231,7 @@
         "wooddiggingtool": "Grabwerkzeug aus Holz",
         "wooddiggingtooldsc": "Ein Stück geschärftes Holz an einem Stock. Kaum besser im Graben als Krallen.",
         "machete": "Machete",
-        "machetedsc": "Eine große, breite Metallklinge. Gut für den Nahkampf. Du fühlst dich unwohl, während du Sie hältst.",
+        "machetedsc": "Eine große, breite Metallklinge. Gut für den Nahkampf. Du fühlst dich unwohl, während du sie hältst.",
         "crudecleaver": "Einfaches Hackbeil",
         "crudecleaverdsc": "Ein zusammengehautes Hackbeil. Gut im Crafting. Du fühlst dich unsicher, während du es hältst",
         "sickle": "Metallsichel",
@@ -265,7 +265,7 @@
         "tutorialradio": "Trainingsfunkgerät",
         "tutorialradiodsc": "Normalerweise erhältst du so ein Gerät für die Trainingseinheiten. Es ist nicht klar, ob die Nachrichten live oder aufgezeichnet sind. Es hat einen Knopf, den du drücken kannst.",
         "mp3player": "MP3-Player",
-        "mp3playerdsc": "Überraschenderweise funktioniert es immer noch. Hat einen kleinen Speicher der mit einigen Liedern geladen ist. Du kannst sie zum Spaß abspielen.",
+        "mp3playerdsc": "Überraschenderweise funktioniert er immer noch. Hat einen kleinen Speicher der mit einigen Liedern geladen ist. Du kannst sie zum Spaß abspielen.",
         "mushpear": "Breibirne",
         "mushpeardsc": "Ein blauer Pflanzenteil, der zur Wasserverteilung dient. Kaum essbar, mit einer seltsamen gewichtsabsorbierenden Eigenschaft und einem abstoßenden Geschmack. Verringert beim Verzehr die Körpermasse. Scheint Spuren von Opiaten zu enthalten.",
         "mushtail": "Breischweif",
@@ -2390,7 +2390,7 @@
                 "V-vielleicht... Vielleicht beende ich es das nächste Mal... Hahaha..."
             ],
             "angeronitem": [
-                "UGH! Ich HASSE dieses ding! Grhh..."
+                "UGH! Ich HASSE dieses Ding! Grhh..."
             ],
             "suicide": [
                 "Auf Wiedersehen. Auf FUCKING WIEDERSEHEN. Ich hab GENUG!!! SCHEISS AUF ALLES HIER!",
@@ -3257,7 +3257,7 @@
                 "Erst bezahlen!"
             ],
              "traderbuyfailmaxvalue": [
-                "Tut mir leid, das ist alles was ich derzeit Handeln wollte.",
+                "Tut mir leid, das ist alles was ich derzeit handeln wollte.",
                 "Außer Vorrat! Sorry! Du hast schon bereits so viel gekauft..."
             ],
             "traderwarning": [
@@ -3610,7 +3610,7 @@
                 "Du-ne gibt...",
                 "Dune... Za-hlt zur-ück...",
                 "Fre-und gab... einmal... Dune gibt auch...",
-                "Du... n-imm Ding! F-eund gut..."
+                "Du... n-imm Ding! F-reund gut..."
             ],
             "traderbuyfail": [
                 "Grrrr!",
