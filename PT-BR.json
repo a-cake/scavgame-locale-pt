@@ -1,6 +1,6 @@
 {
     "name": "Português Brasileiro",
-    "description": "Tradução brasileira não oficial criada por fãs. Ela esta sujeita á não estar completamente atualizada para a ultima versão do jogo e/ou estar fora dos padrão de qualidade.\n\n<color=\"white\">Mantida por: a cake, woforu e goatwithagun (cabradeartilharia)</color>\n\n<color=\"white\">Atualizada para: V5 Pre-testing 5</color>.",
+    "description": "Tradução brasileira não oficial criada por fãs. Ela pode estar imcompleta para a ultima versão do jogo e/ou estar fora dos padrão de qualidade.\n\n<color=\"white\">Mantida por: a cake, woforu e goatwithagun (cabradeartilharia)</color>\n\n<color=\"white\">Atualizada para: V5 Pre-testing 5</color>.",
     "main": {
         "bandage": "Bandagem",
         "bandagedsc": "Um rolo de gaze com uma atadura, usado para estancar sangramentos, estabilizar fraturas e ajudar na cicatrização da pele. Não muda a saúde muscular.",
@@ -61,7 +61,7 @@
         "roselight": "Rosa luz",
         "roselightdsc": "Uma luz amarela de longo alcance que veio de uma rosa de areia. Apodrece rápido mas pode ser útil para ver o quão grande uma queda é. Também revela infecções escondidas quando usada em um membro corporal.",
         "splint": "Tala",
-        "splintdsc": "Um dispositivo rígido feito para ajudar contra fraturas. Ajuda a curar fraturas e dislocações. Usa-la em um membro saudável o deixará imobilizado, reduzindo suas capacidades.",
+        "splintdsc": "Um dispositivo rígido feito para ajudar contra fraturas. Ajuda a curar fraturas e dislocações. Usá-la em um membro saudável o deixará imobilizado, reduzindo suas capacidades.",
         "bloodbag": "Bolsa de sangue",
         "bloodbagdsc": "Uma bolsa de plástico de 750 ml, com um auto-injetor. Injeta 375 ml quando usado no painél de saúde. Use no inventário para tirar sangue.",
         "bloodsac": "Saco de sangue",
@@ -86,8 +86,8 @@
         "gravbagdsc": "Um contêiner muito experimental que utiliza antigravidade para reduzir o seu peso total. Possui tendências explosivas quando está com pouca energia.",
         "legpouch": "Bolso de perna",
         "legpouchdsc": "Uma pequena bolsa de couro com correias para ir envolta da sua coxa.",
-		"materialpouch": "Bolsa de Materiais",
-        "materialpouchdsc": "Uma bolsa grande e resistente que pode ser presa a sua coxa, contem diversos bolsos menores para guardar material. Possui alta redução de carga, mas só guarda itens pequenos",
+		"materialpouch": "Bolsa de materiais",
+        "materialpouchdsc": "Uma bolsa grande e resistente que pode ser presa a sua coxa, contendo diversos bolsos menores para guardar material. Possui grande espaço de carga, mas só guarda itens pequenos.",
         "purse": "Bolsa",
         "pursedsc": "Uma bolsa de tamanho médio usada para carregar itens pessoais. Também é estilosa.",
         "pouch": "Bolso",
@@ -265,7 +265,7 @@
         "tutorialradio": "Rádio de treinamento",
         "tutorialradiodsc": "Você é normalmente dado um para sessões de treinamento. Sem certeza se as mensagens são ao vivo ou são pré-gravadas. Tem um botão que você pode apertar.",
         "mp3player": "Tocador de MP3",
-        "mp3playerdsc": "Surpreendentemente, ainda funciona. Tem baixo espaço de armazenamento e está com algumas musicas salvas. Você pode tocar uma delas para se entreter.",
+        "mp3playerdsc": "Surpreendentemente, ainda funciona. Tem enorme espaço de armazenamento e está com algumas músicas salvas. Você pode tocar uma delas para se entreter.",
         "mushpear": "Pera-gumelo",
         "mushpeardsc": "Uma parte azul de uma planta-gumelo, feita para distribuir água. Mal é comestível, e tem propriedades de absorção de peso estranhas. Diminui o seu peso quando for comida. O gosto é ruim e parece ter concentrações de ópio.",
         "mushtail": "Rabo-gumelo",
@@ -289,7 +289,7 @@
         "scarf": "Cachecol",
         "scarfdsc": "Vermelho, quentinho e felpudo, providência um pouco de insulamento contra o frio. Faz você se sentir como um mercenário...",
         "blueprint": "Diagrama",
-        "blueprintdsc": "Possui o passo-a-passo para a criação de algum objeto. Tem um tipo de chip eletrônico preso nisto... Use para aprender uma receita e ganhar experiência em INT.",
+        "blueprintdsc": "Possui o passo-a-passo para a criação de algum objeto. Tem um tipo de chip eletrônico preso nisso... Use para aprender uma receita e ganhar experiência em INT.",
         "safetyglasses": "Óculos de proteção",
         "safetyglassesdsc": "Um par forte de óculos de plástico. Oferece minúscula proteção para a sua cabeça.",
         "autozoomgoggles": "Óculos de zoom automático",
@@ -316,8 +316,8 @@
         "spacedraindsc": "Usando uma avançada tecnologia de teleportação, esse dispositivo pode drenar líquidos ao seu redor quando usado. Ninguém sabe para onde os líquidos vão, mas isso não é problema seu. Recarrega automaticamente.",
         "hoodie": "Moletom",
         "hoodiedsc": "Um moletom preto muito grande que te mantém quentinho e tem um bolso pequeno.",
-        "metabolismchip": "Chipe de metabolismo",
-        "metabolismchipdsc": "Um chipe que aumenta seu metabolismo um pouquinho, fazendo seus membros se regenerarem muito mais rápido, em troca de usar a sua saciação da fome.",
+        "metabolismchip": "Chip de metabolismo",
+        "metabolismchipdsc": "Um chip que aumenta seu metabolismo um pouquinho, fazendo seus membros se regenerarem muito mais rápido, em troca de usar a sua saciação da fome.",
         "xalorissponge": "Esponja de Xaloris",
         "xalorisspongedsc": "Um contêiner de esporos arrancado de um Xaloris. Pode ser usado em seus membros corporais para reduzir infecções ou comido pelo seu valor nutricional. Os esporos podem afetar seu sistema imunológico.",
         "jetpack": "Mochila a jato",
@@ -376,9 +376,9 @@
         "scubadivinggeardsc": "Pode ser usado para deixar você respirar debaixo d'água sem repercussões. Também deixa você pegar seu fôlego assim, te faz nadar mais rápido em líquidos e te seca mais rápido. As boias não foram feitas com essa coisa.",
         "filterstraw": "Canudo com filtro",
         "filterstrawdsc": "Pode ser usado para beber água do chão com segurança e reduz o impacto na saúde de outros líquidos quando segurados na mão principal. Também funciona quando beber de garrafas.",
-        "wrench": "Chave Inglesa",
+        "wrench": "Chave inglesa",
         "wrenchdsc": "Uma ferramenta que providencia uma vantagem mecânica na torção de objetos. Pode ser usada para realocar membros deslocados, e é mais efetiva que suas mãos. Não pergunte o quão efetivo isso seria na vida real.",
-        "makeshiftwrench": "Chave Inglesa improvisada",
+        "makeshiftwrench": "Chave inglesa improvisada",
         "makeshiftwrenchdsc": "Uma ferramenta bruta que parece servir mais para bater do que para girar parafusos. Não vai ajudar com deslocamentos, mas é útil em criações.",
         "bruisekit": "Kit de hematomas",
         "bruisekitdsc": "Uma combinação de drogas e outras medicinas, feita para ajudar a curar músculos. Aumenta a saúde da pele e do músculo, também ajudando muito contra deslocações. Não afeta sangramentos.",
@@ -563,7 +563,7 @@
         "lifepodheaterdsc": "Ficará esquentando essa cápsula até o fim dos tempos.",
         "barbedwirefence": "Cerca farpada",
         "barbedwirefencedsc": "Não toque nas partes cutucantes.",
-        "beartrap": "Maquinária antiga",
+        "beartrap": "Maquinaria antiga",
         "beartrapdsc": "Possui um par de mandíbulas com dentes pontudos.",
         "bioterminal": "Bio-terminal",
         "bioterminaldsc": "Um terminal de computador com uma placa for baixo dele em que está escrito: \"Insira amostra de DNA humano para continuar...\"",
@@ -584,15 +584,15 @@
         "corpsedsc": "",
         "glassshards": "Cacos de vidro",
         "glassshardsdsc": "",
-        "sandvine": "Vinha de areia",
-        "sandvinedsc": "Uma vinha longa e firme. Você poderia usar elas para escalar, mas talvez seja um pouco dificil se ela for muito fina.",
-        "shadecrawler": "Rastejante Sombrio",
+        "sandvine": "Vinha arenosa",
+        "sandvinedsc": "Uma vinha longa e firme. Você poderia usar elas para escalar, mas talvez seja um pouco difícil se ela for muito fina.",
+        "shadecrawler": "Rastejante sombrio",
         "shadecrawlerdsc": "",
         "wallbiter": "Mordedor de parede",
         "wallbiterdsc": "Uma besta de seis pernas, peluda e preocupantemente grande. Você consegue ver dentes afiados saindo da \"boca\". Parece estar movendo erraticamente.",
         "thornbackyoung": "Espinh-aranha",
         "thornbackyoungdsc": "Uma espinh-aranha jovem, peluda e muito agressiva. Elas adoram cavar por ai e matar tudo que vive.",
-        "thornbackelder": "Espinh-aranha ancião",
+        "thornbackelder": "Espinh-aranha anciã",
         "thornbackelderdsc": "FUDEU",
         "cavetick": "Carrapato de caverna",
         "cavetickdsc": "",
@@ -706,14 +706,12 @@
 		"ceilingrye": "Ceiling rye",
 
         "ceilingryedsc": "Oddly thin patch of grass with oblong sacks hanging at the ends. It looks like they're filled with grain of some kind.",
+
 		
-        "grabberplant": "Tentacle-plant",
-
-        "grabberplantdsc": "It appears to be feeling around the environment with its tip.",
-
-        "grabbershroom": "Grabber-shroom",
-
-        "grabbershroomdsc": "You struggle to understand how fungus can do this."
+        "grabberplant": "Plantáculo",
+        "grabberplantdsc": "Parece que sente o ambiente com a ponta.",
+        "grabbershroom": "Arrasta-gumelo",
+        "grabbershroomdsc": "Você não consegue entender como fungos conseguem fazer isso."
     },
     "moodles": {
         "braindamage4": "Em coma",
@@ -793,7 +791,7 @@
         "thirst4": "Desidratação severa",
 		"overhydrated1": "Hidratado",
         "overhydrated2": "Hiperidratado",
-        "overhydrated3": "Intoxicação Hídrica",
+        "overhydrated3": "Intoxicação hídrica",
         "sick1": "Enjoado",
         "sick2": "Nauseado",
         "sick3": "Doente",
@@ -829,7 +827,7 @@
         "happy1": "Satisfeito",
         "happy2": "Animado",
         "happy3": "Alegre",
-        "happy4": "Euforico",
+        "happy4": "Eufórico",
         "impairedspeech": "Fala debilitada",
         "deaf2": "Surdez leve",
         "deaf3": "Surdez moderada",
@@ -944,13 +942,9 @@
         "thirst2dsc": "Pouco volume de água no corpo. Sedento.",
         "thirst3dsc": "Corpo secando, desesperado por água. Mente consumida pela sede.",
         "thirst4dsc": "Sangue ficando perigosamente viscoso devido a falta de fluidos. Insuficiência cardíaca iminente.",
-
-		"overhydrated1dsc": "A sua sede esta completamente satisfeita - você não vai precisar beber agua por um tempo. Taxa de sede dobrada.",
-
-        "overhydrated2dsc": "Você bebeu mais do que você precisava. Movemento levemente afetado. Taxa de sede dobrada.",
-
-        "overhydrated3dsc": "Ingestão de agua excessiva. As suas células estão inchando, levando a um aumento na pressão intracraniana, dificultando a passagem de sangue para o celebro. A sua cabeça doi... Taxa de sede dobrada.",
-		
+		"overhydrated1dsc": "A sua sede está completamente aniquilada - você não vai precisar beber água por um tempo. Taxa de sede dobrada.",
+        "overhydrated2dsc": "Você bebeu muito mais do que você deveria. Movemento levemente afetado. Taxa de sede dobrada.",
+        "overhydrated3dsc": "Ingestão de água excessiva. As suas células estão inchando, levando a um aumento na pressão intracraniana, dificultando a passagem de sangue para o cérebro. A sua cabeça dói... Taxa de sede dobrada.",
         "sick1dsc": "Sensação desconfortável. Levemente doente.",
         "sick2dsc": "Confuso, com estômago incomodado. Propenso a vomitar.",
         "sick3dsc": "Letárgico, cançado e com desconforto geral. Alta probabilidade de vomitar.",
@@ -1016,14 +1010,13 @@
         "rippedeyesdsc": "Seus dois olhos foram arrancados. A única forma de navegar será com o seu tato e audição. Pelo menos não precisará mais de uma fonte de luz...",
         "lowimmunitydsc": "Seu sistema imunológico está severamente enfraquecido, seja pela sujeira, fome, sede, ou outro motivo. Infecções são muito mais perigosas. Cuide-se melhor.",
         "highimmunitydsc": "Seu sistema imunológico está com toda a potência, provavelmente devido aos antibióticos. Infecções são muito menos perigosas e podem até regredir por conta própria se sua imunidade estiver próxima dos 200%.",
-        "amputationdsc": "Uma das extremidades de seu corpo foi dismembrada. Traumatizante! Obviamente, qualquer função que o membro arrancado exercia foi permanente perdida.",
-        "clawdamage1dsc": "Suas garras estão desgastadas devido ao uso continuo, dano reduzido. Dê um tempo para suas mãos ou use uma ferramenta.",
-        "clawdamage2dsc": "Suas garras estão severamente danificadas pelo uso excessivo, alta redução no dano. Você pode acabar ferindo as mãos se continuar sem uma ferramenta.",
+		"amputationdsc": "Uma das extremidades de seu corpo foi dismembrada. Traumatizante! Obviamente, qualquer função que o membro arrancado exercia foi permanente perdida.",
+        "amputationdsc": "Um de seus membros corporais foi cortado. E é claro, qualquer ação com ele também se foi. Traumatizante!", # isso TÁ melhor não me @ por causa isso
+		"clawdamage1dsc": "Suas garras estão desgastadas devido ao uso continuo, dano reduzido. Dê um tempo para suas mãos ou use uma ferramenta.",
+        "clawdamage2dsc": "Suas garras estão severamente danificadas pelo uso excessivo, alta redução no dano. Você pode acabar ferindo suas mãos se continuar sem uma ferramenta.",
         "keratinboosterdsc": "Suas garras crescem três vezes mais rápido. (<>)",
-		
-		"impendingdoomdsc": "Derrepente, por algum motivo, você começa a sentir uma intensa sensação de medo. O seu pelo esta completamente arrepiado. É que nem se natureza ao seu redor, derrepente, se calou...",
-
-        "horrifieddsc": "NÃO DA PRA FOCAR. NÃO DA PRA PENSAR DIREITO. NADA MAIS IMPORTA. CORRA OU LUTE POR SUA VIDA!"
+		"impendingdoomdsc": "Por algum motivo, você está sentindo uma intensa sensação de medo. O seu pelo tá extremamente arrepiado. É como se a natureza ao seu redor, de repente, se calou...",
+        "horrifieddsc": "NÃO DA PRA FOCAR. NÃO DA PRA PENSAR DIREITO. NADA MAIS IMPORTA. LUTE POR SUA VIDA OU CORRA!"
     },
     "other": {
 		"fullmouthchars": "mnoae",
@@ -1054,41 +1047,29 @@
         "layermodifier7": "(Chuvoso)",
         "layermodifier8": "(Infestado)",
         "layermodifier9": "(Ionizado)",
-        "layermodifier10": "(Erupção Solar)",
+        "layermodifier10": "(Erupção solar)",
         "layermodifier0dsc": "Esse lugar parece estar um pouco nebuloso do que o esperado",
         "layermodifier1dsc": "O ar por aqui parece esta mais quente do que o esperado.",
         "layermodifier2dsc": "O ar por aqui parece esta muito mais quente do que o esperado!",
         "layermodifier3dsc": "O ar por aqui parece esta mais frio do que o esperado.",
         "layermodifier4dsc": "O ar por aqui esta congelante!",
         "layermodifier5dsc": "O terreno por aqui esta mais alagado do que o comum",
-        "layermodifier6dsc": "Você provavelmente não vai encontrar nenhuma poça de agua exposta por aqui.",
-        "layermodifier7dsc": "Agua por aqui esta pingando de todas as direções...",
+        "layermodifier6dsc": "Você provavelmente não vai encontrar nenhuma poça de água exposta por aqui.",
+        "layermodifier7dsc": "Água por aqui esta pingando de todas as direções...",
         "layermodifier8dsc": "Esse lugar parece ter alta atividade de insetos",
         "layermodifier9dsc": "Lixo radioativo foi despejado por aqui.",
         "layermodifier10dsc": "Uma forte erupção solar desabilitou o seu chip temporariamente.",
-		
         "genclearingworld": "Limpando o campo de jogo...",
-
-        "geninstantiatingchunks": "Craindo uma nova area...",
-
+        "geninstantiatingchunks": "Criando uma nova area...",
         "genpreprocessing": "Corrigindo as cores...",
-
-        "gencreatingbackground": "Arumando o plano de fundo...",
-
+        "gencreatingbackground": "Arrumando o plano de fundo...",
         "gencreatingterrain": "Criando o terreno...",
-
-        "gencreatingstructures": "Lançando carga aleatoria para o planeta...",
-
-        "genplacingplayer": "Procurando por um lugar seguro...",
-
-        "gengeneratingborders": "Definindo as bordas caverna...",
-
+        "gencreatingstructures": "Lançando a tecnologia para o planeta...",
+        "genplacingplayer": "Procurando um lugar seguro...",
+        "gengeneratingborders": "Definindo as bordas da caverna...",
         "genplacingentities": "Cultivando plantas e escondendo armadilhas...",
-
-        "gencreatingcolliders": "Fazendo as paredes serem tangiveis...",
-
+        "gencreatingcolliders": "Fazendo as paredes tangíveis...",
         "keybindnotset": "Tecla não definida",
-		
         "strength": "Força",
         "strengthdsc": "Seu nível geral de massa muscular.\n\nAfeta o seu dano de ataque, força de arremesso e a velocidade da sua mão nos minigames.\nAumenta sua capacidade de carga quando combinado com Resiliência.\n\nMelhorada por fazer ataques físicos, carregar peso demais e fazer exercício físico.",
         "resilience": "Resiliência",
@@ -1280,26 +1261,14 @@
         "ThighBShort": "a minha perna",
         "CrusBShort": "a minha perna",
         "FootBShort": "a minha pata",
-
-
         "experiment": "Experimento",
-		
-		"experimenttraderdsc": "Uma pessoa de estatura baixa com á estranha aparência de um cachorro e rato, com 3 extrusões na parte traseira de sua cabeça, que apesar de seu formato espinhoso, são relativamente macias. A cabeça dele parece ter o mesmo formado de a de um roedor. Apesar de ser um pouco nervoso socialmente, eles não possuem nenhuma característica peculiar no contexto de trocas. Não é muito difícil deles confiarem em você para um abraço.",
+		"experimenttraderdsc": "Uma pessoa de estatura baixa com á estranha aparência de um cachorro e rato, com 3 extrusões na parte traseira de sua cabeça, que apesar de seu formato espinhoso, são relativamente macias. A cabeça dele parece ter o formato daquela de um roedor. Apesar de ser um pouco nervoso socialmente, eles não possuem nenhuma característica peculiar no contexto de trocas. Não é muito difícil deles confiarem em você para um abraço.",
+        "milky": "Leitoso",
+        "milkytraderdsc": "Uma criatura branca e peluda, de estatura relativamente baixa quando comparada a sua, com um focinho bem plano e curto e chifres brancos em sua cabeça. Julgando pelo par de barbatanas presentes em suas costas, eles provavelmente devem possuir alguma característica aquática. Eles provavelmente vão estar carregado com si alguma arma para compensar as suas frágeis características físicas. Eles parecem ser bem inteligentes e um pouco arrogantes. Eles não são muito afetuosos, então talvez seja mais difícil conseguir um abraço deles.",
+        "dune": "Duno",
+        "dunetraderdsc": "Alto, largo e amedrontador, com mais músculos do que cérebro. Os corpos deles são recobertos por barbatanas de estranha aparência. Possui 6 extrusões, de formato espinhoso, na parte lateral de sua cabeça e uma boca assustadoramente enorme, recoberta por grandes dentes afiados em todos os cantos. Eles parecem ter brânquias ao redor de seu tronco. Apesar de não serem diretamente agressivos, eles provavelmente só pensam somente em comer. Não devem se importar muito com o que você os oferecer de bugiganga; Você vai ter que pensar em outras maneiras de ganhar o respeito deles.",
 
-        "milky": "Milky",
-
-
-        "milkytraderdsc": "Uma criatura branca e peluda, de estatura relativamente baixa quando comparada a sua, com um focinho bem plano e curto e chifres brancos em sua cabeça. Julgando pelo par de barbatanas presentes em suas costas, eles provavelmente devem possuir alguma característica aquática. Eles provavelmente vão estar carregado com si algum tipo de arma para compensar as suas frágeis características físicas. Eles parecem ser bem inteligentes, um pouco arrogantes. Eles não são muito do tipo afetuoso, talvez seja mais difícil dele confiar o bastante em você para um abraço.",
-
-
-        "dune": "Dune",
-
-
-        "dunetraderdsc": "Alto, largo e amedrontador, com força muscular no lugar de inteligência. Os corpos deles são recobertos por barbatanas de estranha aparência. Possui 6 extrusões, de formato espinhoso, na parte lateral de sua cabeça e uma boca assustadoramente enorme, recoberta por grandes dentes afiados em todos os cantos. Eles parecem ter brânquias ao redor de seu torso. Apesar de não serem agressivos, eles provavelmente pensam somente em comer, provavelmente, eles não vão se importar muito com o que você os oferecer de refeição; Você vai ter que pensar melhor em outras maneiras de ganhar respeito deles.",
-
-
-        "Shelly": "Shelly",
-
+        "Shelly": "SHEEEEELLLLYYYY!!!!!!",
 		
         "clicktocontinue": "Clique para continuar...",
 		"favouriteditem": "Itens marcados como favorito ficarão destacados e não serão usados em criações.",
@@ -1310,37 +1279,25 @@
         "middleback": "Costas centrais",
         "lowerback": "Costas inferiores",
         "volumewarning": "AVISO DE VOLUME",
-        "volumewarningtext": "Esta camada pode conter sons MUITO altos.\nConsidere abaixar um pouco o volume. Ninguém quer perder a audição.",
-        "runsettings": "Ajustes de tentativa",
-        "looatmount": "Loot",
+        "volumewarningtext": "Está camada pode conter sons MUITO altos.\nConsidere abaixar um pouco o volume. Ninguém quer perder a audição.",
+        "runsettings": "Ajustes de expedição",
+        "looatmount": "Itens",
         "trapamount": "Armadilhas",
-        "lootdepthmultiplier": "Loot por camada",
+        "lootdepthmultiplier": "Itens por camada",
         "trapdepthincrease": "Armadilhas por camada",
         "radlinedisable": "Desabilitar a linha de radiação",
         "unchipped": "Desabilitar o chipe",
-		
-		"looatmountdsc": "Porcentagem da quantia de loot\n\nAfeta a quantida de loot (itens), como drop capsules ou caixas que são gerados(as) em cada camada.\n\nPorcentagens muito altas podem impactar a performance do jogo.",
-
-
-        "trapamountdsc": "Porcentagem da quantia de armadilhas\n\nAfeta a quantidade de armadilhas, como armadilha de espinho ou inimigos are que são gerados(as) em cada camada\n\nPorcentagens muito altas podem impactar a performance do jogo.",
-
-
-        "lootdepthmultiplierdsc": "A quantidade de loot é multiplicada por esse valor a cada camamda que você passa por\n\nEm outras palavras, se você definir este valor para, por exemplo, 50%, a quantidade de loot iria ser dividida pela a metada por camada",
-
-
-        "trapdepthincreasedsc": "Esse valor é incrementado á porcentagem de armadilhas a cada camamda que você passa por\n\nEm outras palavras, se você definer este valor para, por exemplo, 50%, a quantia de armadilhas iria aumentar de 100% -> 150% -> 200% -> 250%, e assim por diante",
-
-
-        "radlinedisabledsc": "Desabilita a linha de radiação, uma contramedida integrada em seu chipe com o intuito de forçar você a descer mais rapido\n\nEsse modo não é recomendado para iniciantes.",
-
-
-        "unchippeddsc": "Desabilita o seu chipe de saude e limita o seu campo de visão drasticamente, forçando você a se esforçar mais em entender os perigos a diante e tomar mais cuidado com as suas ações\n\nEsse modo não é recomendado para iniciantes, mas ele pode raramente aparecer como um mutador de camada",
-		
-        "startrun": "Começar tentativa",
+		"looatmountdsc": "Porcentagem inicial da quantidade de itens\n\nAfeta a quantidade de itens, incluindo cápsulas de lançamento ou caixas que são geradas em cada camada\n\nPorcentagens muito altas podem impactar a performance do jogo.",
+        "trapamountdsc": "Porcentagem inicial da quantidade de armadilhas\n\nAfeta a quantidade de armadilhas, como maquinarias velhas ou inimigos que são gerados em cada camada\n\nPorcentagens muito altas podem impactar a performance do jogo.",
+        "lootdepthmultiplierdsc": "A quantidade de itens é multiplicada por esse valor a toda camada que você passar\n\nPor exemplo, se você definir este valor para 50%, a quantidade de itens irá ser cortada pela metade por camada",
+        "trapdepthincreasedsc": "O valor incrementado á porcentagem de armadilhas a toda camada que você passar\n\nPor exemplo, se você definer este valor para 50%, a quantidade de armadilhas irá ser de 100% -> 150% -> 200% -> 250%, e assim por diante",
+        "radlinedisabledsc": "Desabilita a linha de radiação, uma contramedida integrada em seu chip com o intuito de fazer você descer mais rápido\n\nNão recomendado para iniciantes",
+        "unchippeddsc": "Desabilita o seu chip de saúde e limita o seu campo de visão drasticamente, forçando você a se esforçar mais em entender os perigos a diante e tomar mais cuidado com as suas ações\n\nNão recomendado para iniciantes, mas pode raramente aparecer como um modificador de camada",
+        "startrun": "Começar expedição",
 		"startrundsc": "Desça para as profundezas das cavernas. Lembre-se de passar pelo treinamento básico primeiro!",
         "quit": "Sair",
         "resettodefault": "Redefinir para o padrão",
-        "resettodefaultdsc": "Redefine todas as configurações da tentativa para os valores padrões.",
+        "resettodefaultdsc": "Redefine todas as configurações da expedição para os valores padrões.",
         "mainmenu": "Menu\nPrincipal",
         "screenbrightness": "Brilho da tela",
         "gamma": "Gama",
@@ -1378,20 +1335,18 @@
         "youdescription": "<sprite index=20>Inventário",
         "wet": "(Molhado)",
         "bandageMinigameGuide": "Clique e arraste a bandagem ao redor do membro para enfaixar.\nVocê não precisa usar toda a bandagem.",
-        "syringeMinigameGuide": "Empurre a ponta da seringa para injetar. Lembre-se de verificar o rotulo de dosagem.",
+        "syringeMinigameGuide": "Empurre a ponta da seringa para injetar. Lembre-se de verificar o rótulo de dosagem.",
         "lockpickMinigameGuide": "Clique em qualquer parte do arco para tentar arrombar a fechadura.\nQuanto mais perto do ponto certo, mais a tranca vai girar.\nCuidado para não quebrar suas garras.",
         "lifepodMinigameGuide": "Combine o código para abrir.",
-        "shrapnelMinigameGuide": "Puxe os estilhaços lentamente. Ir rápido causará dor. \nPinças removem o limite da velocidade.",
-        "dislocationMinigameGuide": "Bata no osso até que ele fique na posição correta para corrigir a deslocação. \nUsar uma chave inglesa causaria menos dor.",
-
-        "amputationMinigameGuide": "Corte atraves do membro para amputar-lo. Lembre-se de estancar o sangramento depois.",
-
+        "shrapnelMinigameGuide": "Puxe os estilhaços lentamente. Ir rápido causará dor.\nPinças removem o limite da velocidade.",
+        "dislocationMinigameGuide": "Bata no osso até que ele fique na posição correta para corrigir a deslocação.\nUsar uma chave inglesa causaria menos dor.",
+        "amputationMinigameGuide": "Corte através do membro para amputá-lo. Lembre-se de estancar o sangramento depois.",
         "minigameExitGuide": "Pressione BDM/ESC para sair",
         "saveexit": "Salvar e sair",
-        "saveexitdsc": "Salvar progresso e fazer uma pausa.\nA tentativa será retomada no começo da próxima camada.",
+        "saveexitdsc": "Salvar progresso e fazer uma pausa.\nA expedição será retomada no começo da próxima camada.",
         "savecontinue": "Continuar",
-        "savecontinuedsc": "Continuar tentativa.\nVocê só pode salvar e retomar a tentativa durante transições de camada. Morrer ou sair do jogo durante uma camada apagará o progresso.",
-		"savecontinuemenudsc": "Continuar uma expedição em andamento.\n\nAVISO: Morrer ou sair durante o progresso da camada apagará seu progresso.",
+        "savecontinuedsc": "Continue sua expedição.\nVocê só pode salvar e retomar a expedição durante transições de camada. Morrer ou sair do jogo durante uma camada apagará o progresso.",
+		"savecontinuemenudsc": "Continue uma expedição em andamento.\n\nAVISO: Morrer ou sair durante o progresso da camada apagará seu progresso.",
         "carryingtip": "Sobrecarga",
         "tradergivebuttontip": "Arraste items aqui para entregar ao negociador",
         "drainliquid": "Drenar líquido",
@@ -1414,121 +1369,66 @@
         "watchweight": "peso ",
         "watchweightlost": "perdido",
         "watchweightgained": "ganho",
-        "watchruntime": "tempo da tentativa: ",
+        "watchruntime": "tempo da expedição: ",
         "watchtemperature": "temperatura: ",
         "mp3play": "tocando agora: ",
         "medstationcheer": "Obrigado por utilizar nossos serviços!",
         "discretionwarning": "Este jogo contêm representações de violência, auto-mutilação e miséria generalizada\n<color=\"grey\">Clique esquerdo para continuar",
         "healthpaneltip": "Painel de saúde (R)",
         "crafttipname": "Criar (C)",
-
-		
 		"crafttipdsc": "Abre/Fecha o menu de fabriação",
-
         "craftsearchrecipes": "Pesquisar receitas...",
-
         "craftingredients": "Ingredientes",
-
         "craftingredientsdsc": "Items marcados como favorito (<>) não seram usados na fabriação de itens",
-
         "craftinfo": "Informações",
-
         "craftnotmadebefore": "<sprite index=25>Você ainda não fabricou este item.",
-
-        "craftnotmadebeforetip": "Ao fabricar novos items, você ganha experiencia para INT e um leve aumento no seu humor.",
-
+        "craftnotmadebeforetip": "Ao fabricar novos items, você ganha experiência para INT e um leve aumento no seu humor.",
         "craftanyitem": "Qualquer item com",
-
         "craftanytool": "Qualquer ferramenta como",
-
         "craftexample": ", como <color=#AAAAAA><><color=#666666>",
-
         "craftanyliquid": "Qualquer liquido com",
-
         "craftitemquality": "- (<1>) da qualidade <2>",
-
         "craftliquidquality": "- Um total de (<1>) da qualidade <2>",
-
         "craftcondition": "- Com condição de pelo menos <>%",
-
         "craftml": "- Pelo menos <>mL",
-
         "craftinfocondition": "Condição: ",
-
         "craftinfovolume": "Volume: ",
-
         "craftinfoamount": "Quantidade: ",
-
         "craftinfoint": "INT necessaria: <1> (<2>)",
-
         "craftminorfail": "50% de chance de falhar levemente",
-
         "craftmajorfail": "50% de chance de falha extrema",
-
         "craftcriticalfail": "50% de chance de falhar catastróficamente",
-
         "craftcreate": "Criar",
-
         "craftclearfilter": "Remover filtros",
-
         "craftbacktotop": "Voltar para o topo da lista",
-
         "craftpin": "Fixar receita",
-
-        "craftpindsc": "Fixa esta receita no canto superior esquerdo da tela, permitindo a vizulização a lista de ingredientes enquanto explora.",
-
+        "craftpindsc": "Fixa esta receita no canto superior esquerdo da tela, permitindo a visulização da lista de ingredientes enquanto explora.",
         "craftingcategoryall": "Tudo",
-
         "craftingcategorymaterials": "Materiais",
-
         "craftingcategorytools": "Ferramentas",
-
         "craftingcategorymedicine": "Medicamentos",
-
         "craftingcategoryutilities": "Utilidades",
-
         "craftingcategoryfood": "Comidas",
-
         "cqfoliage": "Folhagem",
-
         "cqcube": "Cubo",
-
         "cqpanel": "Painel",
-
         "cqrod": "Haste",
-
         "cqcanvas": "Canvas",
-
         "cqnails": "Prego",
-
-        "cqwater": "Agua",
-
+        "cqwater": "Água",
         "cqhammering": "Martelante",
-
         "cqcutting": "Cortante",
-
-        "cqrippable": "Rasgavel",
-
+        "cqrippable": "Rasgável",
         "cqdisinfectant": "Antisséptico",
-
         "cqblood": "Sangue",
-
         "cqopiate": "Opiáceo",
-
         "cqdressing": "Bandagem",
-
         "cqproduce": "Cultivo",
-
         "cqmeat": "Carne",
-
-        "cqfirestarter": "Incendiario",
-
-        "cqheatsource": "Fonte de Calor",
-
-        "cqflammable": "Inflamável",
-
+        "cqfirestarter": "Incendiário",
+        "cqheatsource": "Fonte de calor",
+        "cqflammable": "Inflamável"
         "cqflour": "Farinha",
-		
         "handswitchtip": "Trocar de mão principal",
         "handswitchdsc": "Troque sua mão principal entre Esquerda/Direita\nUse isso para cavar com sua outra mão se a principal estiver quebrada\nSeu braço esquerdo é um pouco mais fraco do que o direito",
 		"handswitchwarning": "<color=\"orange\">AVISO\n</color>Você tem menos destreza com sua mão esquerda",
@@ -1656,7 +1556,7 @@
         "hpopiate": "Quantidade de opioides",
         "keybinds": "Teclas",
         "custommusic": "Playlist de musicas",
-        "custommusicdsc": "Abre a pasta da playlist de musicas do Tocador MP3.\nVocê pode colocar arquivos .mp3/.ogg/.wav lá e eles iram aparecer na lista de musicas do Tocador MP3.\nOutros formatos de arquivos de audio não são suportados.",
+        "custommusicdsc": "Abre a pasta da playlist de musicas do item tocador de MP3.\nVocê pode colocar arquivos .mp3/.ogg/.wav lá e eles aparecerão na lista de musicas do tocador de MP3.\nOutros formatos de arquivos de audio não são suportados.",
         "layer": "Camada",
         "toggleheatmode": "Trocar modo de ar",
         "activateshower": "Ativar chuveiro",
@@ -1681,7 +1581,7 @@
         "insertscrap": "Inserir sucata",
         "open": "Abrir",
         "lockpick": "Arrombar",
-        "learnedrecipe": "Aprendeu receita para r1.\nGained <color=\"green\">35 INT exp.",
+        "learnedrecipe": "Aprendeu receita para r1.\nGanhou <color=\"green\">35 XP de INT.",
         "learnedrecipefail": "Há uma receita para r1, mas você ja conhece...",
         "hasbattery": "Com bateria (<>)\n<sprite index=17 tint=1>Utilize uma ferramenta para remover a bateria.",
         "nobattery": "Sem bateria (Max. <>)",
@@ -1693,7 +1593,7 @@
         "unknownutility": "Algum tipo de dispositivo...",
         "unknowncontainer": "Algum tipo de mochila...",
         "unknowntool": "Algum tipo de ferramenta...",
-        "unknownobjectdsc": "Você não consegue reconhecer o que é isso ou faz.",
+        "unknownobjectdsc": "Você não consegue reconhecer o que isso é ou faz.",
         "unknownobjectwarning": "Você não é esperto o bastante para reconhecer isso. (INT <> necessária)",
         "small": "Pequena",
         "medium": "Média",
@@ -1715,22 +1615,25 @@
         "reputationtip": "Reputação",
         "reputationtipdsc": "Afeta preços de itens e o comportamento do sobrevivente com você. Afetado por seu estado geral e por interagir com o sobrevivente.",
         "valuegiventip": "Valor oferecido",
-        "valuegiventipdsc": "É o quanto que o sobrevivente tem que te pagar de volta.\n\nO valor máximo que você pode chegar é de 60 o sobrevivente não aceitará mais itens após isso.",
+        "valuegiventipdsc": "É o quanto que o sobrevivente tem que te pagar de volta.\n\nO valor máximo que você pode chegar é de 60. O sobrevivente não aceitará mais itens após isso.",
         "traderpurchase": "Comprar item",
         "tradingblocked": "Item comprando muito recentemente",
         "valuegiven": "<sprite index=9>Valor oferecido: ",
         "theirinventory": "Inventário dele",
         "yourinventory": "Seu inventário",
         "haggle": "Pechinchar",
-        "haggledsc": "Tente negociar preços mais baixos com o sobrevivente. Pode afetar negativamente a sua reputação com ele se ele não concordar. Dá experiência para INT e aumento pequeno de reputação se ele concordar.",
-		"haggledune": "Mordida amigavel",
-        "haggledunedsc": "Deixe o sobrevivente morder uma pequena parte das extremidades do seu corpo em troca de reputação e valor. Ele provavelmente vai ser cuidadoso o bastante para não causar danos sérios.",
+        "haggledsc": "...Para tentar negociar preços menores. Pode afetar positivamente ou negativamente sua reputação com ele. Experiência para INT caso conseguir.",
+		"haggledune": "Mordida amigável",
+        "haggledunedsc": "Esse botão deixará o sobrevivente morder uma partezinha das extremidades do seu corpo em troca de reputação e valor. Ele deve ser cuidadoso o bastante para não causar danos letais.",
         "hug": "Abraçar",
-        "hugdsc": "Tente abraçar sobrivente. Talvez deixe ele mais assustado se ele não te confiar o bastante.",
+        "hugdsc": "Tente(?) abraçar sobr ||i|| vente. Talvez deixe(?) ele mais assustado se ele não te confiar o bastante.", # SE VAI TROCAR A FRASE TODA PELO MENOS ACERTA A GRAMATICA RAAHHH
+		"hugdsc": "...Para melhorar essa horrível primeira impressão... Ou só assustar eles de vez.",
         "threaten": "Ameaçar",
-        "threatendsc": "Tente ameaçar o sobrevivente para roubar um ou mais itens de graça. Pode dar muito errado.",
-        "rest": "Descansar",
+        "threatendsc": "Tente ameaçar o sobrevivente para roubar um ou mais itens de graça. Pode dar muito errado.", # foi mal ai mas a outra tem mais estilo
+		"threatendsc": "...O sobrevivente para roubar alguns itens. Pode dar MUITA merda.",
+        "rest": "Sonecar",
         "restdsc": "Tire uma soneca junto ao sobrevivente para construir confiança e te ajudar á ter um sono mais comfortavel. As condições padrões de sono ainda seram aplicas.",
+		"restdsc": "...Para construir afeto com o sobrevivente e dormir melhor. Condições regulares para dormir aplicadas.",
         "exit": "Sair",
         "free": "<color=\"orange\">GRÁTIS!",
         "deceased": "Falecido",
@@ -1763,13 +1666,13 @@
         "moodrange6": "Alegre",
         "moodrange7": "Animado",
         "moodrange8": "Radiante",
-        "moodrange9": "Euforico",
-        "moodrange10": "Extremamente Euforico",
+        "moodrange9": "Eufórico",
+        "moodrange10": "Extremamente eufórico",
         "moodrangewiped": "Vazio",
-        "moodrangeyethopeful": ", porém, esperançoso...",
-         "wiki": "Wiki (somente em inglês)",
-        "discord": "Servidor do Discord (somente em inglês)",
-        "translations": "Repo das traduções",
+        "moodrangeyethopeful": ", porém esperançoso...",
+        "wiki": "Wiki (somente em inglês)",
+        "discord": "Servidor do Discord (somente em inglês e... Polonês???)",
+        "translations": "Central das traduções",
         "healthchipcriticalalert1": "SINAIS VITAIS\nCRÍTICOS",
         "healthchipcriticalalert2": "TERMINAÇÃO\nIMINENTE",
         "healthchipcriticalalert3": "PROCURE ATENÇÃO\nMÉDICA",
@@ -2281,12 +2184,12 @@
                 "Não consigo mexer <limb>!",
                 "<limb> dói...",
                 "Acho que eu machuquei <limb>.",
-                "Preciso de ver um medico.",
+                "Preciso de um medico.",
                 "Acho que ferrei com <limb>.",
                 "<limb> tá tão dolorido(a)...",
                 "<limb> tá fudido(a).",
                 "Eu realmente detonei <limb>.",
-                "É para eu sentir <limb> desse jeito?",
+                "É pra eu sentir <limb> desse jeito?",
                 "Tem algo errado com <limb>...",
                 "Ai! <limb> tá estranho(a)!",
                 "Tem algo estranho com <limb>.",
@@ -2298,25 +2201,25 @@
                 "Eu acho que tô doente...",
                 "Tem algo muito errado com <limb>.",
                 "<limb> tá estranhamente quente.",
-                "<limb> parece... nada bom.",
-                "Doi quando eu toco <limb>.",
-                "Acho que <limb> tá infeccionado(a)!",
+                "<limb> parece... Nada bom.",
+                "Dói quando eu toco <limb>...",
+                "Acho que <limb> tá infectado(a)!",
                 "<limb> anda meio(a) estranho(a).",
                 "Tem algo de errado com <limb>...",
-                "<limb> dói e ta com uma cor estranha!",
+                "<limb> dói e tá com uma cor estranha!",
                 "Uugh... <limb> parece bem ruim."
             ],
             "limbskin": [
-                "<limb> parece ta dilacerado(a)!",
+                "<limb> parece tá dilacerado(a)!",
                 "<limb> tá machucado(a)...",
                 "Era pra <limb> tá desse jeito?",
                 "Preciso cuidar do(a) <limb>!",
-                "Eu sinto a <limb> meio(a) exposto(a)... eu acho que vou acabar pegando alguma infecção nele(a)...",
+                "Eu sinto a <limb> meio(a) exposto(a)... Acho que vou acabar pegando uma infecção...",
                 "Eu realmente estraguei meu pelo todo...",
-                "Eu preciso tomar conta do(a) <limb>... esse(a) coiso(a) tá bem feio(a).",
+                "Eu preciso tomar conta do(a) <limb>... Éeh... A coisa tá feia.",
                 "<limb> tá completamente destruída.",
                 "Meu pelo do(a) <limb> tá todo feio.",
-                "Eu realmente acabei com <limb> .. Aaaii...",
+                "Eu realmente acabei com <limb>... Aaaii...",
                 "<limb> tá muito dolorido... Aai.",
                 "<limb> tá todo(a) arranhado(a)...",
                 "Eu sinto que <limb> vai infeccionar...",
@@ -2324,7 +2227,7 @@
                 "<limb> ta todo(a) ferido(a)...",
                 "<limb> não tá nada legal.",
                 "<limb> tá todo(a) ensanguento(a)...",
-                "Santo Deus! Parece que eu fiz um erro em meus calculos e agora <limb> está completamente amarelada! Oh meu Deus! O que eu devo fazer agora!"
+                "Oh céus! Acredito que eu cometi um grave erro nos meus cálculos e agora encontro meu própio membro corporal nomeado <limb> coberto completamente na viscosa cor amarela! Santa misericórdia! O que eu poderei fazer agora, neste momento de pânico?!"
             ],
             "sepsis": [
                 "Meu deus... Me sinto muito ruim...",
@@ -3104,9 +3007,7 @@
                 "Oogh!",
                 "Ghh!",
                 "Isso... Dói!",
-				
                 "<limb>... Aiiii...",
-				
                 "Aii! Chghh...",
                 "Fffhhh... doendo...",
                 "Tá doendo!",
@@ -3117,47 +3018,28 @@
                 "Auughh!",
                 "Ugh...",
                 "Sentindo dor...",
-				
                 "<limb> tá doendo...",
-				
-                "Aii! Meu/minha <limb>!",
-				
-                "Droga do/a <limb>!!",
-				
+
+				"Aii! <limb>!",
+                "Droga de <limb>!!",
                 "<limb> tá sofrendo...",
-				
-                "<limb>... fudido/a...",
-				
-                "Caralho de <limb>... só dói!",
-				
+                "<limb>... fudido(a)...",
+                "Caralho de <limb>... Só dói!",
                 "<limb> tá doendo!",
-				
-                "Oogh... O/a <limb>... Dói...",
-				
-                "O/a <limb> tá doendo muito...",
-				
+                "Oogh... O(a) <limb>... Dói...",
+                "O(a) <limb> tá doendo muito...",
                 "Uughh... <limb> dóii...",
-				
                 "Aaghh! Cacete de <limb>!",
-				
-                "Droga... Esse/a <limb>!",
-				
-                "Meu/minha <limb>...",
-				
+                "Droga... Esse(a) <limb>!",
+                "<limb>... Porra..!",
                 "Essa droga de <limb> só dói...",
-				
-                "<limb> só dói... sacanagem...",
-				
-                "Tem algo muito errado no/a <limb>.",
-				
+
+				"<limb> só dói... Sacanagem...",
+                "Tem algo muito errado com <limb>.",
                 "Preciso de algo pra aliviar a dor...",
-				
-                "Vamos com calma... O/a <limb> tá gritando de dor.",
-				
+				"Vamos com calma... <limb> tá gritando de dor.",
                 "Porra- Pera... <limb>... Awh...",
-				
-                "<limb>... tão... dolorido/a..."
-				
+                "<limb>... tão... dolorido(a)..."
             ],
             "hitgroundhard": [
                 "Agh!",
@@ -3317,7 +3199,7 @@
             "drillend": [
                 "...Demorou um pouco.",
                 "Essa coisa não era isolada contra som.",
-                "Foi um passeio bem longo..."
+                "Foi um passeio bem longo...",
             ],
             "loud": [
                 "PORRA! Isso foi alto...",
@@ -3613,11 +3495,8 @@
                 "Farei bom uso disto."
             ],
 			"tradergiveitemrefuse": [
-
-                "This is enough for now. I have no more space for these trinkets.",
-
-                "You may stop gifting me things, I'd prefer not giving out everything else on me."
-
+                "Já chega por enquanto. Eu não tenho mais espaço para essas bugigangas.",
+                "Você já pode para de me dar coisas, seria melhor se eu não desse tudo que tenho comigo."
             ],
             "traderhagglesuccess": [
                 "Tá bom.",
@@ -3659,11 +3538,8 @@
                 "Que insultante."
             ],
 			"traderbuyfailmaxvalue": [
-
-                "Enough trading for today. You've bought out a lot already.",
-
-                "I don't wish to thoroughly swap our possessions. Let's call it a day."
-
+                "Chega de trocas por hoje. Você já levou muita coisa.",
+                "Eu não desejo trocar todas as nossas posessões. Vamos parar por hoje."
             ],
             "traderthreatensuccess": [
                 "Não é meu interesse ser machucado. Pegue tanto faz e saia.",
@@ -4110,7 +3986,7 @@
         ],
         [
             {
-                "Item1": "ugh. é tao quente aqui. preciso mesmo espacear meus movimentos e ser cuidadoso pra nao acabar caindo duro do calor. descobri que mergulhar nas piscinas da'agua ajuda... talvez ate as marrons se eu estiver desesperado.",
+                "Item1": "ugh. é tao quente aqui. preciso mesmo espacear meus movimentos e ser cuidadoso pra nao acabar caindo duro do calor. descobri que mergulhar nas piscinas d'agua ajuda... talvez ate as marrons se eu estiver desesperado.",
                 "Item2": ""
             }
         ],
