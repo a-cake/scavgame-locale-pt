@@ -1,6 +1,6 @@
 {
     "name": "Português Brasileiro",
-    "description": "Tradução brasileira não oficial criada por fãs. Ela pode estar imcompleta para a ultima versão do jogo e/ou estar fora dos padrão de qualidade.\n\n<color=\"white\">Mantida por: a cake, woforu e goatwithagun (cabradeartilharia)</color>\n\n<color=\"white\">Atualizada para: V5 Pre-testing 5</color>.",
+    "description": "Tradução brasileira não oficial criada por fãs. Ela pode estar incompleta para a ultima versão do jogo e/ou estar fora dos padrões de qualidade.\n\n<color=\"white\">Mantida por: a cake, woforu e goatwithagun (cabradeartilharia)</color>\n\n<color=\"white\">Atualizada para: V5 Pre-testing 5</color>.",
     "main": {
         "bandage": "Bandagem",
         "bandagedsc": "Um rolo de gaze com uma atadura, usado para estancar sangramentos, estabilizar fraturas e ajudar na cicatrização da pele. Não muda a saúde muscular.",
@@ -488,50 +488,28 @@
         "autoinjectordsc": "Foi uma maravilha medicinal quando inventado, esse pequeno dispositivo consegue encontrar automaticamente uma veia ou artéria para dispensar a dosagem necessária de algum medicamento. Usado em criações medicinais.",
         "keratinbooster": "Impulsionador de queratina",
         "keratinboosterdsc": "Um frasco contendo hormônio de crescimento modificado que prioriza o aumento da queratina. Faz suas garras crescerem mais rápido por algum tempo.",
-
-		"drillrepairkit": "Drill repair kit",
-
-        "drillrepairkitdsc": "A small bundle of spare parts, made to repair Drill Pods. You could use one of these to get a pod back into a working state.",
-
-        "campfire": "Campfire",
-
-        "campfiredsc": "A lit campfire. Warm and cozy, you'll heat up when next to it. Used as a heat source in a variety of food recipes.",
-
-        "firestarter": "Firestarter",
-
-        "firestarterdsc": "A device to start a fire by friction between a rapidly rotating wooden rod and a cavity on a stationary wood piece. In layman's terms, stick rotatey, fire starty. Can be used up to 3 times before burning out.",
-
-        "charcoal": "Charcoal",
-
-        "charcoaldsc": "Small, light piece of charcoal. Can be used as a frammable ingredient for crafting.",
-
-        "ryebulb": "Rye bulb",
-
-        "ryebulbdsc": "A thin sack filled with grain. You could pound it down into a flour if you had a hammering tool.",
-
-        "ryeflour": "Rye flour",
-
-        "ryeflourdsc": "A powder mainly used in making baked goods. You'll probably need some water and a heat source to work with it.",
-
-        "bread": "Bread",
-
-        "breaddsc": "A loaf of bread, made of flour and water. About the simplest thing you could eat, though not repulsive and will last for a long time.",
-
+		"drillrepairkit": "Kit de reparos de cavadeira",
+        "drillrepairkitdsc": "Um pequeno amontoado de partes de Cavadeira sobressalentes. Você pode usar isso para reparar uma daquelas maquinas.",
+        "campfire": "Fogueira",
+        "campfiredsc": "Uma fogueira acesa, quentinha e aconchegante, sua temperatura vai aumentar perto dela. Usada como fonte de calor em diversas receitas.",
+        "firestarter": "Broca de fogo",
+        "firestarterdsc": "Um instrumento usado para começar fogo, utilizando a fricção entre uma haste de madeira rotacionando rapidamente, posicionada em um buraco de um pedaço fixo também de madeira. Simplificando - pau gira, fogo começa. Pode ser usado até 3 vezes.",
+        "charcoal": "Carvão",
+        "charcoaldsc": "Um pedaço de carvão pequeno e leve. Inflamável, pode ser usado em criações.",
+        "ryebulb": "Bolsa de grãos",
+        "ryebulbdsc": "Uma bolsinha fina cheia de grãos. Você pode transforma-la em farinha com alguma ferramenta capaz de martelar.",
+        "ryeflour": "Farinha",
+        "ryeflourdsc": "Um pó usado na produção de diversos alimentos. Você vai precisar de água e uma fonte de calor para trabalhar com isso.",
+        "bread": "Pão",
+        "breaddsc": "Um pedaço de pão, feito com farinha e água. É a coisa mais simples que você pode comer, não é repulsiva e vai durar um bom tempo.",
         "pemmican": "Pemmican",
-
-        "pemmicandsc": "A mixture of fat, dried meat, and dehydrated fruit. Lasts a long time and is very calorie-dense. Tastes neutral.",
-
-        "torch": "Torch",
-
-        "torchdsc": "Extremely primitive lightsource. While it lights up the way pretty well, it will be put out by liquids. You can relight it with a bit of fat and a flame source.",
-
-        "lighter": "Lighter",
-
-        "lighterdsc": "A generic flip top lighter. Can be used as a flame source for many crafting recipes, such as lighting campfires or torches. Lasts many, many uses.",
-
-        "minibarrel": "Mini-barrel",
-
-        "minibarreldsc": "A small, industrial barrel made for storing liquids. Extremely heavy and impractical to use."
+        "pemmicandsc": "Uma mistura de gordura, carne seca e frutas. Duradouro e denso em calorias. Não tem muito gosto.",
+        "torch": "Tocha",
+        "torchdsc": "Uma fonte de luz extremamente primitiva. Produz uma boa quantidade de luz, mas pode ser apagada por líquidos. Pode reacende-la utilizando gordura e fogo. ",
+        "lighter": "Isqueiro",
+        "lighterdsc": "Um isqueiro genérico tipo flip. Pode ser usado em criações devido a sua chama, como tochas ou fogueiras. É bem durável.",
+        "minibarrel": "Mini-barril",
+        "minibarreldsc": "Um pequeno barril industrial feito para armazenar líquidos. Absurdamente pesado e impratico de carregar.  "
     },
     "buildings": {
         "animalcorpse": "Corpo de animal",
@@ -701,13 +679,8 @@
         "sawbladedsc": "Serrarma! ...Te traz memórias aterrorizantes.",
         "LoreNote": "Nota escrita",
         "LoreNotedsc": "Deixada aqui por outro sobrevivente.",
-
-		
-		"ceilingrye": "Ceiling rye",
-
-        "ceilingryedsc": "Oddly thin patch of grass with oblong sacks hanging at the ends. It looks like they're filled with grain of some kind.",
-
-		
+		"ceilingrye": "Trigo de teto",
+        "ceilingryedsc": "Um estranho tufo de grama com bolsinhas penduradas nas suas pontas. Parecem estar cheias com algum tipo de grão.",
         "grabberplant": "Plantáculo",
         "grabberplantdsc": "Parece que sente o ambiente com a ponta.",
         "grabbershroom": "Arrasta-gumelo",
@@ -861,10 +834,7 @@
         "clawdamage1": "Garras cegas",
         "clawdamage2": "Garras quebradas",
         "keratinbooster": "Crescimento impulsionado",
-
-		
 		"impendingdoom": "Sensação de aniquilação iminente",
-		
         "horrified": "HORRORIZADO",
 
         "braindamage4dsc": "...",
@@ -1011,7 +981,7 @@
         "lowimmunitydsc": "Seu sistema imunológico está severamente enfraquecido, seja pela sujeira, fome, sede, ou outro motivo. Infecções são muito mais perigosas. Cuide-se melhor.",
         "highimmunitydsc": "Seu sistema imunológico está com toda a potência, provavelmente devido aos antibióticos. Infecções são muito menos perigosas e podem até regredir por conta própria se sua imunidade estiver próxima dos 200%.",
 		"amputationdsc": "Uma das extremidades de seu corpo foi dismembrada. Traumatizante! Obviamente, qualquer função que o membro arrancado exercia foi permanente perdida.",
-        "amputationdsc": "Um de seus membros corporais foi cortado. E é claro, qualquer ação com ele também se foi. Traumatizante!", # isso TÁ melhor não me @ por causa isso
+        "amputationdsc": "Um de seus membros corporais foi cortado. E é claro, qualquer ação com ele também se foi. Traumatizante!",
 		"clawdamage1dsc": "Suas garras estão desgastadas devido ao uso continuo, dano reduzido. Dê um tempo para suas mãos ou use uma ferramenta.",
         "clawdamage2dsc": "Suas garras estão severamente danificadas pelo uso excessivo, alta redução no dano. Você pode acabar ferindo suas mãos se continuar sem uma ferramenta.",
         "keratinboosterdsc": "Suas garras crescem três vezes mais rápido. (<>)",
@@ -1020,9 +990,7 @@
     },
     "other": {
 		"fullmouthchars": "mnoae",
-		
         "underwaterchars": "blug",
-		
         "layertitletutorial": "Terra\nLaboratório de treinamento",
         "layertitle1": "Terras de cascalho",
         "layertitle2": "Terras de cascalho profundas",
@@ -1076,7 +1044,7 @@
         "resiliencedsc": "Seu nível geral de vigor físico e fortitude mental.\n\nAumenta a regeneração de estâmina e diminui os efeitos negativos da dor.\nAumenta capacidade de carga quando combinada com Força.\n\nMelhorada por estar com dor, matando criaturas, carregar peso demais, pular, aterrizando de alturas e fazer exercício físico.",
         "intelligence": "Inteligência",
         "intelligencedsc": "Seu nível de conhecimento geral.\n\nAfeta quais objetos você pode reconhecer e criar, e abilidade de negociação.\n\nMelhorada por fazer novas receitas, ler diagramas, trocas com sobreviventes e passar por camadas.",
-        "currentlevel": "Nível de abilidade",
+        "currentlevel": "Nível de habilidade",
         "skillup": "A sua <> aumentou!\n(<1> -> <2>)",
         "experienceatstart": "Experiência",
         "experienceatend": "Experiência até o próximo nível",
@@ -1195,12 +1163,8 @@
         "cerealdsc": "Leite e cereal. Saborosos e devem te saciar. Infelizmente não é exatamente um arroz e feijão, mas devem bastar.",
         "coffee": "Café",
         "coffeedsc": "Uma bebida que foi preparada com grãos de café torrados. Gostoso e estimulante, mas tóxico para as suas espécies, devido a cafeína. Sem açúcar.",
-
-
-        "biochem": "Bio-chem fluid",
-
-        "biochemdsc": "Advanced chemical compound that greatly promotes chemical reactions and is able to mend certain materials together, or even melt them. Very commonly used in crafting.",
-		
+        "biochem": "Fluido bioquímico",
+        "biochemdsc": "Um composto químico complexo que promove reações químicas, capaz de derreter ou juntar certos materiais. Muito comumente usado em criações. ",
         "groundwater": "Água do chão",
         "groundwaterdsc": "Uma água meio suja. Dá pra beber de boa, mas é muito nojento.",
         "water": "Água",
@@ -1213,23 +1177,14 @@
         "oildsc": "Alcatrão grosso e escuro. É difícil de se movimentar nele. Infelizmente não dá pra digerir.",
         "sap": "Seiva de árvore",
         "sapdsc": "Uma seiva grossa e gostosa, produzidas pelas árvores dessa selva. Muito açucarada.",
-
-		"fat": "Fat",
-
-        "fatdsc": "Liquid animal fat, gotten from flesh. Can be eaten, though not particularly pleasant. Can be processed into soap.",
-
-        "soap": "Soap",
-
-        "soapdsc": "Soap made from animal fat. Can be used in the health panel to clean dirt off of you, and slightly disinfect wounds.",
-
-        "producejuice": "Produce juice",
-
-        "producejuicedsc": "A bunch of fruit, vegetables and whatever else you could find, mashed up and mixed with water. It tastes... interesting.",
-
-        "refinedjuice": "Refined juice",
-
-        "refinedjuicedsc": "Cooked through, better mixed and mashed produce juice. Very tasty and nutricious!",
-		
+		"fat": "Gordura",
+        "fatdsc": "Gordura animal adquirida de alguma carne. É comestível, mas nada agradável. Pode ser usado na produção de sabão.",
+        "soap": "Sabão",
+        "soapdsc": "Sabão feito com gordura animal. Pode ser usado no painel de saúde para limpar sujeira e desinfectar feridas.",
+        "producejuice": "Suco de cultivos",
+        "producejuicedsc": "Um punhado de frutas, vegetais e outras coisas que você achou, esmagadas e misturas com água. Tem um gosto... interessante.",
+        "refinedjuice": "Suco refinado",
+        "refinedjuicedsc": "Suco dos cultivos deste planeta, foi propriamente misturado e cozido. Delicioso e nutritivo!",
         "liquiddescription": "Agache e fique parado para beber",
         "Head": "Cabeca",
         "UpTorso": "Torax",
@@ -1266,10 +1221,8 @@
         "milky": "Leitoso",
         "milkytraderdsc": "Uma criatura branca e peluda, de estatura relativamente baixa quando comparada a sua, com um focinho bem plano e curto e chifres brancos em sua cabeça. Julgando pelo par de barbatanas presentes em suas costas, eles provavelmente devem possuir alguma característica aquática. Eles provavelmente vão estar carregado com si alguma arma para compensar as suas frágeis características físicas. Eles parecem ser bem inteligentes e um pouco arrogantes. Eles não são muito afetuosos, então talvez seja mais difícil conseguir um abraço deles.",
         "dune": "Duno",
-        "dunetraderdsc": "Alto, largo e amedrontador, com mais músculos do que cérebro. Os corpos deles são recobertos por barbatanas de estranha aparência. Possui 6 extrusões, de formato espinhoso, na parte lateral de sua cabeça e uma boca assustadoramente enorme, recoberta por grandes dentes afiados em todos os cantos. Eles parecem ter brânquias ao redor de seu tronco. Apesar de não serem diretamente agressivos, eles provavelmente só pensam somente em comer. Não devem se importar muito com o que você os oferecer de bugiganga; Você vai ter que pensar em outras maneiras de ganhar o respeito deles.",
-
+        "dunetraderdsc": "Alto, largo e amedrontador, com mais músculos do que cérebro. Os corpos deles são recobertos por barbatanas de estranha aparência. Possui 6 extrusões, de formato espinhoso, na parte lateral de sua cabeça e uma boca assustadoramente enorme, recoberta por grandes dentes afiados em todos os cantos. Eles parecem ter brânquias ao redor de seu tronco. Apesar de não serem diretamente agressivos, eles provavelmente pensam somente em comer. Não devem se importar muito com o que você os oferecer de bugiganga; Você vai ter que pensar em outras maneiras de ganhar o respeito deles.",
         "Shelly": "SHEEEEELLLLYYYY!!!!!!",
-		
         "clicktocontinue": "Clique para continuar...",
 		"favouriteditem": "Itens marcados como favorito ficarão destacados e não serão usados em criações.",
         "mainhand": "Mão principal",
@@ -1427,7 +1380,7 @@
         "cqmeat": "Carne",
         "cqfirestarter": "Incendiário",
         "cqheatsource": "Fonte de calor",
-        "cqflammable": "Inflamável"
+        "cqflammable": "Inflamável",
         "cqflour": "Farinha",
         "handswitchtip": "Trocar de mão principal",
         "handswitchdsc": "Troque sua mão principal entre Esquerda/Direita\nUse isso para cavar com sua outra mão se a principal estiver quebrada\nSeu braço esquerdo é um pouco mais fraco do que o direito",
@@ -1626,10 +1579,10 @@
 		"haggledune": "Mordida amigável",
         "haggledunedsc": "Esse botão deixará o sobrevivente morder uma partezinha das extremidades do seu corpo em troca de reputação e valor. Ele deve ser cuidadoso o bastante para não causar danos letais.",
         "hug": "Abraçar",
-        "hugdsc": "Tente(?) abraçar sobr ||i|| vente. Talvez deixe(?) ele mais assustado se ele não te confiar o bastante.", # SE VAI TROCAR A FRASE TODA PELO MENOS ACERTA A GRAMATICA RAAHHH
+        "hugdsc": "Tente abraçar o sobrevivente. Talvez deixe ele mais assustado se ele não te confiar o bastante.",
 		"hugdsc": "...Para melhorar essa horrível primeira impressão... Ou só assustar eles de vez.",
         "threaten": "Ameaçar",
-        "threatendsc": "Tente ameaçar o sobrevivente para roubar um ou mais itens de graça. Pode dar muito errado.", # foi mal ai mas a outra tem mais estilo
+        "threatendsc": "Tente ameaçar o sobrevivente para roubar um ou mais itens de graça. Pode dar muito errado.",
 		"threatendsc": "...O sobrevivente para roubar alguns itens. Pode dar MUITA merda.",
         "rest": "Sonecar",
         "restdsc": "Tire uma soneca junto ao sobrevivente para construir confiança e te ajudar á ter um sono mais comfortavel. As condições padrões de sono ainda seram aplicas.",
@@ -3611,281 +3564,163 @@
 		},
         {
             "tradermeetnormal": [
-                "Mmm... Hell-o....",
-
-                "Well-come... Fri-end...",
-
-                "F-riend... Hell-o... Have s-it...",
-
-                "H-i-y... Fr-iend... Per-son...",
-
-                "Come... He-re... Fri-end...",
-
-                "Here... Fri-end..."
-
+                "Mmm... Oo-lá....",
+                "Bem-vindo... A-migo...",
+                "A-migo... O-lá... Fi-que a von-tade...",
+                "Oi-i... Pes-soa... Ami-ga-a...",
+                "Po-de vir... Ami-go...",
+                "Aqu-ii... Amigo..."
             ],
             "tradermeetgood": [
-                "GGack! H-i!",
-
-                "Mmmm... Fri-end... Well-come to... Safe...",
-
-                "Fri-end! Hel-lo...! How is...",
-
-                "Dune find... Go-od fri-end!...",
-
-                "Hel-loo!... Frie-nd... App-ro-ach...",
-
-                "Ne-w fri-end?.. Dune ha-ppy..."
-
+                "GGack! Ooi-ii!",
+                "Mmmm... Amii-go... Be-em-vindo a... Segu-rança...",
+                "U-um a-migoo! O-lá...! Como vo-cê...",
+                "Duna acha... A-mi-go bom!...",
+                "OOo-lááá!... Amig-ooo... Apro-xima...",
+                "No-ovo a-mig-o?.. Duna fe-liiz..."
             ],
             "tradermeetbad": [
-                "Grrr... Per-son...",
-
-                "Nggghhrr... Hel-lo... Per-son...",
-
-                "Grrrrr... Fri-end... No look tas-ty...",
-
-                "Grrrr... Bad per-son!.. Grrr...",
-
-                "Grrrpmh.. Bad!... Not fri-end...",
-
-                "Dune dis-li-ke... This fri-end!..."
-
+                "Grrr... Pe-ssoa...",
+                "Nggghhrr... O-lá... Ser...",
+                "Grrrrr... Ami-go... Nã-o pare-ce gos-toso...",
+                "Grrrr... Pess-oa ruim!.. Grrr...",
+                "Grrrpmh.. Pé-ssimo!... Não a-migo...",
+                "Duna des-gos-ta... Des-te amig-o!..."
             ],
             "traderwakegreet": [
-                "Frien-d... Wake from nap...",
-
-                "No mo-re slee-p... Hel-lo..! Wake...",
-
-                "Awake... Goo-d mor-ning...",
-
-                "Wake... Fri-end...",
-
-                "Wa-ke up.. Friend...",
-
-                "Fri-end slee-p... Wake... Dune gr-eet!"
-
+                "Amig-o... Acor-dado do so-no...",
+                "Dor-mir não ma-is... O-lá..! Aco-rde...",
+                "Ah-a-acor-dado... Bom di-a...",
+                "Acor-de... A-migo...",
+                "Le-vante... Amigo...",
+                "Ami-go sono-lento... A-corda... Duna cum-pri-menta!"
             ],
             "tradergiveitem": [
-                "Dune will ta-ke.",
-
-                "Accept thin-g..!",
-
-                "Dune ta-ke thing..!",
-
-                "Than-k... Fri-end...",
-
-                "Du-ne nee-d...",
-
-                "Goo-d... Tha-nk...",
-
-                "Fri-end gi-ves... Good..."
-
+                "D-una vai ace-itar.",
+                "Acei-ta co-isa..!",
+                "Duna p-ega coi-sa..!",
+                "Agra-deço... A-migo...",
+                "Du-na v-ai preci-sar...",
+                "Bom... Obri-gado...",
+                "Ami-go dá... Bo-om..."
             ],
             "tradergiveitemrefuse": [
-                "No more take!",
-
-                "Is eno-ugh...",
-
-                "Fri-end.. Not.. Get it.. En-ough...",
-
-                "Dune n-ot... Take mo-re!",
-
-                "No! Dune ha-ve eno-ugh..."
-
+                "Pe-go n-não mais!",
+                "É bas-tante...",
+                "Amigo.. Nã-o.. Du-na ter.. Sufi-ci-ente...",
+                "Duna n-ão... Pe-ga mais!",
+                "Nãh-! Duna tem bas-tantee..."
             ],
             "traderbite": [
-                "Good... Enjoy tast-e. Like fri-end more!",
-
-                "Yes... Than-k for... Du-ne din-ner...",
-
-                "Hmmhhm... Than-k... Good tas-te... Grab any-thing..!",
-
-                "Eat good... Fri-end good...",
-
-                "Dune lo-ves fri-end taste...",
-
-                "Go-od fri-end... Ate we-ll..."
-
+                "Bom... Gosto sa-bor. Gos-to a-migo mais!",
+                "S-sim... Obri-gado pe-la... Re-feição à Duna...",
+                "Hmmhhm... Agra-deço... Bom go-sto... Pegue qual-quer coi-sa..!",
+                "Co-mer bem... A-migo bom...",
+                "Duna ama sa-bor ami-go...",
+                "Ami-go bom... Satis-fatór-io..."
             ],
             "traderbuy": [
-                "Have thing. Friend des-erve!",
-
-                "Take thi-ng! As rew-ard...",
-
-                "Dune gi-ve back gif-t! Fri-end have...",
-
-                "Du-ne give...",
-
-                "Dune... Pa-y ba-ck...",
-
-                "Fri-end give... Once... Dune give too...",
-
-                "You... Ta-ke thing! Fri-end good..."
+                "Te-nha coisa. A-migo me-reçe!",
+                "P-egue c-oisa! Sua recom-pensa...",
+                "Duna dá pre-sente d-e vo-lta! Tem ami-go...",
+                "Du-na dar...",
+                "Duna... Pa-ga de v-olta...",
+                "A-mi-go dar... Duna d-ar tam-bem...",
+                "Vo-cê... Pe-gue coisa! A-migo bom..."
             ],
             "traderbuyfail": [
                 "Grrrr!",
-
-                "No! Ggrhhr...",
-
-                "No! Gi-ve own!",
-
-                "Grrrr... Dune need thi-ng too!",
-
-                "Du-ne not gif-t... Giv-e now!... Grrrr...",
-
-                "Fri-end gi-ve fir-st..."
-
+                "Nãah! Ggrhhr...",
+                "Não! Dê s-eus!",
+                "Grrrr... Duna pre-cisa coisa tam-bem!",
+                "Du-na nã-o presen-tear... Dar ago-ra!... Grrrr...",
+                "Ami-go dar pri-meiro..."
             ],
             "traderbuyfailmaxvalue": [
-                "Gave enough! Go a-way now!",
-
-                "Dune give so mu-ch... Too much... Fri-end stop...",
-
-                "Dune not give... Big...",
-
-                "Grrr... Du-ne kee-p big! Grrrmph...",
-
-                "Dune ke-ep... Dune nee-d... Mo-re..."
-
+                "D-ei su-fici-ente! Vai em-bora agora!",
+                "Duna en-trega de-mais... Ami-go para...",
+                "Duna n-ão dar... Muu-ito...",
+                "Grrr... Du-na man-ter gran-de! Grrrmph...",
+                "Duna mã-nter... D-una pre-cisa... Ma-is..."
             ],
             "traderthreatensuccess": [
-                "Not need eff-ort... Take thing... Me-an...",
-
-                "Dune not take up com-bat... Take thi-ng and leave... Ggrhhr...",
-
-                "Fri-end gr-eat.. Hunter! Dune... Fear... Y-ou take...",
-
-                "Dune weak-er... Dune give... Up... Ta-ke and lea-ve...",
-
-                "Don't hu-rt Dune... Ta-ke thi-ng... Lea-ve...",
-
-                "Dune all-ow evil fri-end take thi-ng... But Dune ha-te fri-end..."
-
+                "Nã-o pre-cisa es-forço... Pegue c-oisa... Mal-vado...",
+                "Duna não ga-rantir com-bate... Pe-gue coisa e s-aia... Ggrhhr...",
+                "A-migo grande CAÇA-DOR! Duna... Te-me... Vo-cê pega...",
+                "Duna fraco-te... Duna desis-te... P-egue e saia...",
+                "Nã-o ma-chu-que Duna... Pegue coi-sas... Sai-a...",
+                "Duna per-mite a-migo vil pegar cois-as... Mas D-una od-eia amigo..."
             ],
             "traderwarning": [
-                "Go aw-ay! Or bit-e! Now!",
-
-                "Mnnnhh... Pre-y is ask for it...",
-
-                "Gghhrr! LEAVE... AW-AY...",
-
-                "Go... Away! Fa-r...",
-
-                "Dune hate fri-end!",
-
-                "Dune not let fri-end in!... Out!...",
-
-                "Dune want fri-end out!... No-w!..."
-
+                "SA-IA! Ou Mor-dida! A-gora!",
+                "Mnnnhh... Pre-sa ta pe-dindo p-or isso...",
+                "Gghhrr! VA-I... EMBORA...",
+                "F-ique... lon-ge! B-em longe...",
+                "Du-na DE-TESTA amigo!",
+                "Duna nã-o quer ami-go den-tro!... Sai!...",
+                "Duna qué-rr a-migo fora daq-ui!... Agora!..."
             ],
             "tradercombat": [
                 "Nggrrrrr! Grrrrrrr! GAAAAHHH!",
-
                 "GGHHRRAHHH!",
-
                 "GNNGHRHHRRRRR!",
-
-                "FRI-END REGRET CHO0I-CE!",
-
+                "AMI-GO NÃ-O GOSTAR DO QUE ESCO-LHEU!",
                 "NGGHHRRR...",
-
-                "GRRRR! DUNE HATE!",
-
-                "NGHHRRRR... NO MO-RE FRI-END!",
-
-                "DUNE HA-TE EVIL FRI-END! GRRRR!",
-
-                "DUNE... FIND... E-NE-MY! M-ON-STER!"
-
+                "GRRRR! DUNA O-DEIA!",
+                "NGHHRRRR... S-EM M-AIS AMIGO!",
+                "DUNA ODEIA A-MI-GO MA-LVADO! GRRRR!",
+                "DUNA... A-CHOU... INI-MIGO! M-ONS-TRO!"
             ],
             "traderhugsuccess": [
-                "Why is fri-end touch...",
-
-                "Wh-at is fri-end doing..?",
-
-                "Gnhghr..? Why fri-end touch..?",
-
-                "Why tou-ch..? Du-ne not get...",
-
-                "Uhh... Grr... Du-ne not get... Dune allow...",
-
-                "Fri-end... Why?... Okay...",
-
-                "Dune not know... Why fri-end... Fri-end can do...",
-
-                "Dune and fri-end clo-se?... Wh-at..."
-
+                "P-or que a-migo tocar...",
+                "O que ami-go ta faz-endo..?",
+                "Gnhghr..? Por-que ami-go tocando..?",
+                "Po-r que encos-tar..? Du-na não ent-ende...",
+                "Uhh... Grr... Du-na não sa-ber... Duna d-eixa...",
+                "A-mi-go... O q-ue?... Hmm...",
+                "Duna não s-abe... P-or que a-migo... Po-de faz-er amigo...",
+                "Duna e am-igo pró-xi-mos?... O q-ue..."
             ],
             "traderhugfail": [
-                "GRRR! Away! Ggrrn...",
-
-                "Ngghrr! No! Aw-ay!",
-
-                "No! Dune not let...",
-
-                "Dune dis-like fri-end close...",
-
-                "Grrr! No! Ngghr...",
-
-                "Fri-end do not app-ro-ach! Grrr... Dune dis-like..."
-
+                "GRRR! Longe! Ggrrn...",
+                "Ngghrr! Nã-o! Dis-tante!",
+                "Nãã-o! Duna n-ão dei-xa...",
+                "Duna não go-sta ami-go p-erto...",
+                "Grrr! Não! Ngghr...",
+                "Ami-go não apro-xima! Grrr... Duna des-gos-ta..."
             ],
             "traderseegun": [
-                "What friend hold..? St-op!",
-
-                "Du-ne not com-fort with boom-stick...",
-
-                "N-no... Dune fear... loud rod...",
-
-                "Fri-end... Dune f-ear you... Lo-ud sti-ck...",
-
-                "Why fri-end ho-ld... thing of pain?...",
-
-                "Dune... Fear in-st-ant... Hurt thing...",
-
-                "Why fri-end ho-ld... Click-boom... Dune... Dislike...",
-
-                "Dune fear... Fee-mee-jee?... Pain... Not get...",
-
-                "Un-fair fi-ghter... Dune... Dislike... Gu-n..."
+                "O que a-migo segu-ra..? Pa-re!",
+                "Du-na não confor-tavel com pau-de-fogo...",
+                "N-não... Duna m-me-do... metal baru-lhento...",
+                "A-migo... Duna teme su-ua... V-va-ra baru-lhenta...",
+                "Po-r que amigo se-gura... coisa de dor?...",
+                "Du-na... teme co-isa... de d-dor ins-tantâ-nea...",
+                "Por q-ue amigo se-gura... Clique-boom... Duna... Desgosta...",
+                "Duna t-eme... Éfe-eme-jota?... Dor... Não enten-der...",
+                "Luta-dor injus-to... Duna... Odeia... Ar-ma..."
             ],
             "tradermeetimpairedspeech": [
-                "Dune not under-stand... Word bet-ter! Fri-end word bad...",
-
-                "What is fri-end say..? Voice is muf-fle...",
-
-                "Dune word ba-d... Fri-end word bad... Bad bad!...",
-
-                "Du-ne hard talk... Fri-end talk... ba-d...",
-
-                "Dune no-t unde-r-stand... You...",
-
-                "Du-ne tro-uble hear fri-end!"
-
+                "Duna não compre-ende... Pala-vras melho-res! Pala-vras de ami-go ruins...",
+                "O que a-migo diz-er..? Voz abaf-ada...",
+                "Con-versa de Du-na ruim... Conver-sa de ami-go ruim... T-tudo ter-rível!...",
+                "Du-na con-versar mal... Amigo fa-lar... pior...",
+                "Duna não enten-de... V-ocê...",
+                "Du-na com pro-blemas ou-vir amigo!"
             ],
             "traderseehurt": [
-                "Fri-end hurt... Ngghhgrr... Take fix thin-g... Free...",
-
-                "Why hurt?.. Dune can... gi-ve li-fe thing... Free...",
-
-                "Fri-end i-nj-ure... Dune give thing-help... Free...",
-
-                "Th-is fri-end bo-dy bad... Dune ca-n gift fix...",
-
-                "Fri-end feel pain... Dune gift help..."
-
+                "Ami-go machu-cado... Ngghhgrr... Pe-gue coisa pa-ra repa-ros... De gr-aça...",
+                "P-or que ma-chucado?.. Du-na pode dar... coi-sa de vida... Sem pr-eço...",
+                "Amigo fer-ido... Duna dar item-ajuda... G-rá-tis...",
+                "Cor-po de amigo... mau... Duna pre-senteia r-re-paro...",
+                "A-migo sente d-or... Presen-te de Du-na aju-da..."
             ],
             "traderlightbreak": [
-                "NNGGHHRR! Why fri-end steal! Go away! GGrrhhhhhh... BAD..!",
-
-                "GRRR! EVIL! GE-T OUT!",
-
-                "BAD! Grrrr... Fri-end bad... Bad! Lea-ve!",
-
-                "Dune NOT SEE! BAD FRI-END! GO AWAY... AW-AY!",
-
-                "Fri-end steal! Not fri-end..."
+                "NNGGHHRR! P-or que ami-go ro-ubar! Vá emb-ora! GGrrhhhhhh... MAL-VADO..!",
+                "GRRR! MAL-DOSO! VÁ EM-BORA!",
+                "RUIM! Grrrr... Amigo ru-im... Ruim! S-aia!",
+                "Duna NÃO VÊ! PÉSS-IMO AMIGO! SS-AI... FORA!",
+                "Amig-o ro-uba! Não amigo..."
             ]
         }
     ],
