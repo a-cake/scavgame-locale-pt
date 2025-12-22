@@ -1,6 +1,6 @@
 {
     "name": "Español",
-    "description": "Una versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), aunque estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas.",
+    "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), aunque estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas.",
     "main": {
     "bandage": "Vendaje",
     "bandagedsc": "Un rollo de vendas con ligadura, usado para detener el sangrado, estabilizar fracturas y ayudar a sanar la piel. No ayuda a sanar el músculo.",
@@ -521,7 +521,7 @@
     "torch": "Antorcha",
     "torchdsc": "Una fuente de luz extremadamente primitiva. Aunque ilumine el camino de forma efectiva, cualquier exposición a los líquidos lo extinguirá. Puedes volver a encenderlo con un poco de grasa y una llama.",
     "lighter": "Mechero",
-    "lighterdsc": "Un mechero genérico con una tapa abatible. Puede ser usada como fuente de llama para crear varios objetos, como iluminar fogatas o antorchas. Se puede usar muchas veces.",
+    "lighterdsc": "Un mechero genérico con una tapa abatible. Puede ser usada como fuente de llama para crear varios objetos, como iluminar fogatas. Se puede usar muchas veces.",
     "present": "Regalo",
     "presentdsc": "Una caja decorada con papel que parece tener algo adentro. Úsalo para desenvolverlo.",
     "minibarrel": "Minibarril",
@@ -1068,6 +1068,7 @@
     "experienceatstart": "Experiencia inicial del nivel",
     "experienceatend": "Experiencia requerida para ascender de nivel",
     "currentexperience": "Experiencia de habilidad actual",
+    "missiontime": "Tiempo restante",
     "air": "Aire",
     "lightrock": "Roca blanda",
     "gravel": "Grava",
@@ -1308,6 +1309,7 @@
     "bodyinsulation": "Aislamiento corporal: ",
     "youdescription": "<sprite index=20>Inventario",
     "wet": "Mojado:",
+    "missionhurry": "APÚRATE",
     "bandageMinigameGuide": "Haga clic y arrastre el vendaje alrededor de la extremidad a vendar.\nNo necesitas usar todo el vendaje.",
     "syringeMinigameGuide": "Presione la jeringa para inyectar. Asegúrese de verificar la dosis.",
     "lockpickMinigameGuide": "Haz clic en cualquier parte del arco para intentar abrir la cerradura.\nCuanto más cerca estés del punto, más girará.\nTen cuidado de no romperte las garras.",
