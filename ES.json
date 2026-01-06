@@ -202,8 +202,8 @@
     "glowplantfruitdsc": "Bioluminiscente y no comestible. Tiene toxinas moderadamente peligrosas en su interior; contrarrestando infecciones. Su jugo promueve reacciones químicas, siendo útil para crear objetos.",
     "flashlight": "Linterna",
     "flashlightdsc": "Ilumina un gran área frente a ti, pero pierde batería lentamente. Úsalo para alternar entre modos.",
-    "emergencylight": "Luz de emergencia",
-    "emergencylightdsc": "Una linterna pequeña de emergencia de un solo uso. Probablemente quieras encontrar una nueva fuente de luz antes de que se agote. Úsalo para activarlo.",
+    "emergencylight": "Linterna de emergencia",
+    "emergencylightdsc": "Una linterna pequeña de emergencia de un solo uso. Probablemente quieras encontrar una nueva fuente de luz antes de que se agote. Úsalo para encenderlo.",
     "lantern": "Farol",
     "lanterndsc": "Un farol sencillo de madera y vidrio con un cristal amarillo brillante en su interior.",
     "lightbulb": "Bombilla",
@@ -1005,7 +1005,7 @@
     "clawdamage2dsc": "Tus garras están muy dañadas por su uso excesivo. El daño que inflinges se reduce aún más. Te podrías lastimar tus manos si sigues usándolas sin una herramienta.",
     "keratinboosterdsc": "Tus garras se regeneran tres veces más rápido. (<>)",
     "impendingdoomdsc": "Sientes un miedo repentino y abrumador. Tu piel está erizada. Como si la naturaleza a tu alrededor se silenciara de repente...",
-    "horrifieddsc": "NO PUEDES CONCENTRARTE. NI PENSAR. NADA IMPORTA. ¡ES PELEAR O HUIR!"
+    "horrifieddsc": "NO PUEDES CONCENTRARTE. NO PUEDES PENSAR. NADA IMPORTA. ¡ES PELEAR O HUIR!"
   },
   "other": {
     "fullmouthchars": "amaero",
