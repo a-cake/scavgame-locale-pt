@@ -202,10 +202,10 @@
         "alcoholdsc": "Garrafa de vidro de 400 ml.",
         "foliage": "Folhagem",
         "foliagedsc": "Planta alienígena genérica. Não muito comestível e tem um gosto ruim. Pode te deixar doente e apodrece rápido. Frequentemente usado em criações",
+        "foliagemeal": "Salada folhada",
+        "foliagemealdsc": "Uma comida preparada, feita de folhas crocantes e molhos estranhos. Apodrecerá rápido e não tem gordura, mas te enchera o bastante.",
         "dryfoliage": "Folhagem seca",
         "dryfoliagedsc": "Parece um pouco melhor comer quando está seca. Pode te deixar um pouco enjoado.",
-		"foliagemeal": "Salada folhada",
-        "foliagemealdsc": "Uma comida preparada, feita de folhas crocantes e molhos estranhos. Apodrecerá rápido e não tem gordura, mas te enchera o bastante.",
         "glowplantfruit": "Fruta de brilha-planta",
         "glowplantfruitdsc": "Bioluminescente e incomestível. Tem toxinas meio perigosas dentro, capazes de combater infecções. Seus sucos promovem reações químicas, úteis em algumas criações.",
         "flashlight": "Lanterna",
@@ -368,6 +368,8 @@
         "carcasssplintdsc": "Um tubo longo e duro feito de algumas carcaças grudadas juntas. Pode ser usada como uma tala improvisada para lidar com fraturas.",
         "terrainscanner": "Scanner de terreno",
         "terrainscannerdsc": "Mostra um mapa em baixa qualidade do terreno abaixo. Terreno é destacado em verde, construções sólidas são vermelhas. Vai até 24 metros de profundidade.",
+        "sleepingbag": "Sleeping bag",
+        "sleepingbagdsc": "An insulated covering for a person to sleep in. Use to sleep in it, bumping the sleeping quality up a tier (capped at Good) and giving you some insulation for the night. Normal sleep restrictions apply.",
 		"liquidcentrifuge": "Centrífuga líquida",
         "liquidcentrifugedsc": "Uma centrífuga á mão que pode ineficientemente dividir uma mistura em seus componentes. O processo é meio complicado e resultará em dois terços do volume de líquido total a serem perdidos. Recarrega em um minuto.",
         "epda": "ADP-E",
@@ -510,6 +512,10 @@
         "flimsyknifedsc": "Uma faca pequena, cega e relativamente frágil. Pode ser usada em criações mais simples. Não servirá para quase nada em combate.\n\n<color=\"red\">Pode ser usada no painel de saude para amputar membros severamente infectados.",
         "craftingbottle": "Garrafa improvisada",
         "craftingbottledsc": "Uma tentativa de garrafa feita com qualquer coisa que estava ao seu redor. Não pode ser enchida e irá se desfazer em alguns minutos ou assim que estiver vazia. É melhor passar seu conteúdo para outro lugar antes que ela se vá e leve-o junto.",
+    
+        "nondescriptcan": "Nondescript can",
+        "nondescriptcandsc": "A bland, unlabeled can of... something. It doesn't look or smell like anything in particular. Might be good, might be not.",
+
         "canteen": "Cantil",
         "canteendsc": "Uma garrafa simples e pequena, feita de pedaços plásticos colados e amarrados juntos por um corda. Pode conter 300ml.",
         "lcdscreen": "Tela LCD",
@@ -1024,7 +1030,6 @@
         "rippedeyesdsc": "Seus dois olhos foram arrancados. A única forma de navegar será com o seu tato e audição. Pelo menos não precisará mais de uma fonte de luz...",
         "lowimmunitydsc": "Seu sistema imunológico está severamente enfraquecido, seja pela sujeira, fome, sede, ou outro motivo. Infecções são muito mais perigosas. Cuide-se melhor.",
         "highimmunitydsc": "Seu sistema imunológico está com toda a potência, provavelmente devido aos antibióticos. Infecções são muito menos perigosas e podem até regredir por conta própria se sua imunidade estiver próxima dos 200%.",
-		"amputationdsc": "Uma das extremidades de seu corpo foi dismembrada. Traumatizante! Obviamente, qualquer função que o membro arrancado exercia foi permanente perdida.",
         "amputationdsc": "Um de seus membros corporais foi cortado. E é claro, qualquer ação com ele também se foi. Traumatizante!",
 		"clawdamage1dsc": "Suas garras estão desgastadas devido ao uso continuo, dano reduzido. Dê um tempo para suas mãos ou use uma ferramenta.",
         "clawdamage2dsc": "Suas garras estão severamente danificadas pelo uso excessivo, alta redução no dano. Você pode acabar ferindo suas mãos se continuar sem uma ferramenta.",
@@ -1150,7 +1155,6 @@
         "bleachdsc": "Produto químico usado para remover a cor da fibra, ou desinfetar. Pode ser usado para desinfetar feridas. Beber isso é *totalmente* seguro.",
         "energydrink": "Energético",
         "energydrinkdsc": "Um líquido gostoso e cafeinado para te dar um pouco de estâmina e energia. Um pouco tóxico para suas espécies, beba com moderação.",
-		
 		"sportsdrink": "Bebida esportiva",
         "sportsdrinkdsc": "Um drinque eletrolítico sem cafeína. Eficiente em matar a sede, com gosto bom e vai te dar um pequeno impulso de energia.",
         "oliveoil": "Óleo de oliva",
@@ -1335,6 +1339,8 @@
         "quit": "Sair",
         "resettodefault": "Redefinir para o padrão",
         "resettodefaultdsc": "Redefine todas as configurações da expedição para os valores padrões.",
+        "back": "Voltar",
+        "descend": "Descender",
         "mainmenu": "Menu\nPrincipal",
         "screenbrightness": "Brilho da tela",
         "gamma": "Gama",
@@ -1592,6 +1598,9 @@
         "hplimbbleed": "Sangramento no membro",
         "hpopiate": "Quantidade de opioides",
         "keybinds": "Teclas",
+
+        "keybindsdsc": "Open the keybinds file. Remember to save any changes!",
+
         "custommusic": "Playlist de musicas",
         "custommusicdsc": "Abre a pasta da playlist de musicas do item tocador de MP3.\nVocê pode colocar arquivos .mp3/.ogg/.wav lá e eles aparecerão na lista de musicas do tocador de MP3.\nOutros formatos de arquivos de audio não são suportados.",
         "layer": "Camada",
@@ -1613,8 +1622,6 @@
         "alerttoounhappy": "Deprimido demais para usar medicamentos não-opióides!",
         "alertlimbmissing": "<1> está faltando, deixando <2> inutilizável!",
 		"alertsellcontainer": "Esvazie o contêiner antes de vender!",
-        "resetkeybinds": "Redefinir para padrão",
-        "reloadbinds": "Atualizar teclas\n(Aplicar mudanças)",
         "insertsample": "Inserir amostra",
         "tradeinteract": "Negociar",
         "read": "Ler",
@@ -1624,7 +1631,6 @@
 		"insertbattery": "Inserir bateria da mão principal",
         "lockpick": "Arrombar",
         "learnedrecipe": "Aprendeu receita para r1.\nGanhou <color=\"green\">35 XP de INT.",
-        "learnedrecipefail": "Há uma receita para r1, mas você ja conhece...",
         "hasbattery": "Com bateria (<>)\n<sprite index=17 tint=1>Utilize uma ferramenta para remover a bateria.",
         "nobattery": "Sem bateria (Max. <>)",
         "unknownobject": "Algo...",
@@ -3056,7 +3062,6 @@
                 "Ugh...",
                 "Sentindo dor...",
                 "<limb> tá doendo...",
-
 				"Aii! <limb>!",
                 "Droga de <limb>!!",
                 "<limb> tá sofrendo...",
@@ -3070,7 +3075,6 @@
                 "Droga... Esse(a) <limb>!",
                 "<limb>... Porra..!",
                 "Essa droga de <limb> só dói...",
-
 				"<limb> só dói... Sacanagem...",
                 "Tem algo muito errado com <limb>.",
                 "Preciso de algo pra aliviar a dor...",
@@ -3236,7 +3240,7 @@
             "drillend": [
                 "...Demorou um pouco.",
                 "Essa coisa não era isolada contra som.",
-                "Foi um passeio bem longo...",
+                "Foi um passeio bem longo..."
             ],
             "loud": [
                 "PORRA! Isso foi alto...",
@@ -3356,7 +3360,6 @@
 			 "traderbuyfailmaxvalue": [
 
                 "Sorry, that's all I'm willing to trade for now.",
-
                 "Out of stock! Sorry! You've bought so much already..."
 
             ],
@@ -3883,69 +3886,61 @@
                 "Item2": "Sprites/noteDrawings/milky",
                 "Item3": "milky"
             },
-
-
-
-			
             {
-                "Item1": "I was performing a self check-up following a painful incident when I noticed a dark, nodular bump on my skin. It appeared irregular in shape and was oddly multicoloured and variegated. I estimated its diameter to be approximately eight millimetres. Upon further inspection, I found several more in various locations on my body. I corresponded with a younger friend and they seemed to have none, but my older friend had many more. Should I keep track of the evolution of this potential malignancy?",
+                "Item1": "Estava fazendo um autoexame após um incidente doloroso quando notei uma protuberância escura e nodular na minha pele. Parecia ter um formato irregular e uma coloração multicolorida e variegada. Estimei seu diâmetro em aproximadamente oito milímetros. Ao examiná-la melhor, encontrei várias outras em diferentes partes do meu corpo. Conversei com uma amiga mais jovem e ela não tinha nenhuma, mas minha amiga mais velha tinha muitas. Devo acompanhar a evolução dessa possível malignidade?",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "i didnt want to do it. they had a chest drain. what could i do? drown in my own blood? all i had was a stick of dynamite... if only i could be home, even just listening to the training radio, i would give anything. its not my fault. its not my fault.",
+                "Item1": "eu nao queria fazer isso. Eles tinham um dreno toracico. O que eu poderia fazer? Afogar-me em meu próprio sangue? Tudo o que eu tinha era uma banana de dinamite... Se eu estivesse em casa, escutando meu radio de treinamento, eu faria qualquer coisa. Isso nao é minha culpa. Isso nao é minha culpa",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i love this place! i still meet new creatures, they are so sweet! there are so many cool things here! i will never go back to the lab, long live the cave!",
+                "Item1": "eu adoro este lugar! eu ainda conheci novas criaturas, elas sao bem agradaveis! tem tantas coisas legais por aqui! eu nunca mais boto a pata naquele laboratorio, vida longa a caverna!",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "dune love tasting friend .  all friend taste different .  dark fur friend is stiff .  light fur friend is chewy .  what dune me taste like ?",
+                "Item1": "Duno amar amigo saboroso .  Todo gosto de amigo diferente .  Amigo de pelo preto duro .  Amigo de pelo branco comestível .  Qual o gosto de eu Duno ?",
                 "Item2": "",
                 "Item3": "dune"
             },
             {
-                "Item1": "hugging others makes me happier... but some of survivors refuse hugs, i think they can be appeased somehow. also sleeping next to them is much better than on the cold floor alone.",
+                "Item1": "abraçar os outros me alegra... mas alguns sobreviventes rejeitam abraços, acho que eles podem ser apaziguados de alguma forma. dormir junto com eles é muito melhor do que dormir sozinho no chao gelado.",
                 "Item2": "",
                 "Item3": "experiment"
             },
 			{
-                "Item1": "To anyone who finds this, they can and will control you, even in this hell. With no previous alert I started to hear a loud alarm inside me, I could see a message saying \"DEPTH UNSATISFACTORY\" with red flashing lights materializing in the corner of my vision.\n\nI started running, panicked, without knowing why they would do this. Only after I went into another region of this cave network it stopped. They know how much time you are spending here, they know that you'll be frightened, and they want you to die. This is all a mass genocide.",
+                "Item1": "Para qualquer um que encontrar isto, ele podem e VÃO controlar você. Sem um único aviso prévio, eu escutei um alarme alto vindo de dentro de mim, Eu apenas podia ver a mensagem \"PROFUNDIDADE INSATISFATÓRIA\" com flashes vermelhos piscando nos cantos da minha visão.\n\nComecei a correr, em pânico, sem entender por que fariam aquilo. Só depois que entrei em outra região dessa rede de cavernas é que parou. Eles sabem quanto tempo você passa aqui, sabem que você estará com medo e querem que você morra. Isso tudo é um genocídio em massa.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "i found a weapon. a firearm. gosh... im not used to operating this thing... i shouldve been more careful during the training sessions... i have zero idea of how ive even been sent here, being this unprepared, instead of getting culled. i almost shot someone by accident. i shouldve turned on the gun safety... who am i to know. the others tend to really panic when they see you holding a weapon in hand. so maybe it would be best to put it inside of something, so that they dont see it. they think youd shoot them, they dont know your intentions. well, id think the same if someone were to point a gun at me.",
+                "Item1": "encontrei uma arma. uma arma de fogo. nossa... nao estou acostumado a manusear isso... deveria ter sido mais cuidadoso durante os treinamentos... nao faço a mínima ideia de como fui parar aqui, tão despreparado, em vez de ser eliminado. quase atirei em alguém sem querer. deveria ter travado a arma... quem sou eu para saber? os outros tendem a entrar em panico quando veem voce com uma arma na mao. entao talvez seja melhor esconde-la dentro de alguma coisa, para que não a vejam. eles acham que voce atiraria neles, nao sabem das suas intençoes. bem, eu pensaria o mesmo se alguem apontasse uma arma para mim.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "im so mad at myself for acting like a dumbass with the others up there... now all of the survivors i find chase me away from their pods... man, if you knew how hard they were swearing... they tried to scratch me... and im just saying to myself: \"okay, im sorry. for fucks sake, do you realize that currently every life matters? theres no room for hurting and killing each other.\". i wish i was a better person... its my own fault.",
+                "Item1": "estou com tanta raiva de mim mesmo por ter agido como um merda com os outros la em cima... agora todos os sobreviventes que encontro me perseguem para longe de suas capsulas... cara, se voce soubesse o quanto eles xingaram... eles tentaram me arranhar... e eu so consigo pensar: \"ta, me desculpem. pelo amor de deus, vocês se dao conta de que agora toda vida importa? nao ha espaço para machucar e matar uns aos outros.\" Eu queria ser uma pessoa melhor... a culpa e minha.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "It's full of all kinds of critters that constantly roam around everywhere. I'm a bit of a pacifist, so I try running away from them, rather than fighting them, as I don't know who's gonna kill whom first... After all, the wounds they leave in me hurt like hell... I don't know anymore... Do our captors even know what we're going through down here?",
+                "Item1": "Está cheio de todo tipo de bicho que fica vagando por todos os lados. Sou meio pacifista, então tento fugir deles em vez de lutar, porque não sei quem vai matar quem primeiro... Afinal, os ferimentos que eles me causam doem demais... Não sei mais o que fazer... Será que nossos captores têm noção do que estamos passando aqui embaixo?",
                 "Item2": "",
                 "Item3": "milky"
             },
 			{
-                "Item1": "I'm feeling lonely... so I decided to distract myself:\nI found some kind of miniature fax that I was able to crush open, and I pulled its paper sheets out. Then I took a stick, and squeezed one of the glowy fruits onto it. It turned out like a brush and drawing canvas! If only you know... I started drawing alternate realities where we're free and live peacefully together; without those scientist scumbags... I felt so happy, and cried for a bit.\nBut now I have to go: feeling peckish! Maybe if we meet each other, I'll draw you, too...? I got really good at using the \"brush\". I'll try teaching the others to draw, too...",
+                "Item1": "Estou me sentindo sozinho... então decidi me distrair:\nEncontrei uma espécie de fax em miniatura que consegui esmagar e tirei as folhas de papel. Depois peguei um palito e espremi uma das frutas brilhantes nele. Virou um pincel e uma tela de desenho! Se você soubesse... Comecei a desenhar realidades alternativas onde somos livres e vivemos em paz juntos; sem aqueles cientistas escrotos... Fiquei tão feliz que chorei um pouco.\nMas agora preciso ir: estou com fome! Talvez se nos encontrarmos, eu desenhe você também...? Fiquei muito boa em usar o \"pincel\". Vou tentar ensinar os outros a desenhar também...",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "(There are colorful graphics on the paper, and it doesn't appear to be handwritten)\n<>\nSoup! Try our Specialty Pot - just put the meat and ingredients in and simmer. Don't worry. You'll agree it's worth its weight in flavor. Can be stored for up to 737 years!",
+                "Item1": "(Há gráficos coloridos no papel e não parece ser manuscrito)\n<>\nSopa! Experimente nossa Panela Especial - basta colocar a carne e os ingredientes e deixar cozinhar em fogo baixo. Não se preocupe. Você vai concordar que o sabor vale cada centavo. Pode ser armazenada por até 737 anos!",
                 "Item2": "",
                 "Item3": ""
             }
-
-
-			
-			
         ],
         [
             {
@@ -3953,15 +3948,11 @@
                 "Item2": "Sprites/noteDrawings/spider",
                 "Item3": "experiment"
             },
-
-			
             {
-                "Item1": "things are going good for me. tasty food in my belly and maybe a mushtail or two makes me happy. the traders smile back at me too! i just hate seeing myself bleed, it scares me",
+                "Item1": "as coisas estao dando certo comigo. comida gostosa na minha barriga e talvez um ou dois rabo-gumelos me alegram. as pessoas por aqui sorriem de volta! só odeio me ver sangrando, isso me assusta",
                 "Item2": "",
                 "Item3": "experiment"
             },
-
-			
             {
                 "Item1": "as luzes vermelhas que piscam sao armadilhas de espinho. cuidado com elas. por favor. por favor. eu vi de longe alguem andando em uma, e eu só ouvi um grito e silencio depois. fiquem seguros",
                 "Item2": "",
@@ -3987,25 +3978,21 @@
                 "Item2": "Sprites/noteDrawings/glowplant",
                 "Item3": "experiment"
             },
-
-			
             {
-                "Item1": "light is valuable resource here, especially as it gets darker the further we go. dont want to accidentally step on a trap. with the carcass of a spider and pieces of glowplant, i can fashion a headlamp so my hands remain free. in a pinch lightbulbs in the pods seem to run on a depleted battery, and can be broken off with relative ease, much to the aggression of the pods owner",
+                "Item1": "Luz é algo muito valioso por aqui, especialmente quando vai escurecendo quando avançamos. Não quero pisar acidentalmente em uma armadilha. Com carcaça de aranha e um pouco de brilha-planta, posso improvisar uma lanterna de cabeça e deixar minhas mãos livres. Em caso de emergência, as lâmpadas dessas cápsulas parecem funcionar com uma bateria descarregada e podem ser quebradas com relativa facilidade, para o azar do dono da cápsula.",
                 "Item2": "Sprites/noteDrawings/lightbulb",
                 "Item3": "experiment"
             },
             {
-                "Item1": "theres a lot of pods out here just like the one i woke up in. i got in one through the window but i stepped on the broken glass. had to be really careful, but i pulled it out of my paw. need to make sure i clear the shards next time.",
+                "Item1": "tem varias cápsulas por ai iguais a essa em que acordei. consegui entrar em uma pela janela, mas acabei pisando nos cacos de vidro. tive que tomar cuidado, mas consegui tirar os cacos da minha pata. tenho que me lembrar de limpar os cacos na proxima vez.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "Humans do strange things. You should never trust them to be nice.\nBut you can trust them to keep you alive.<>\nI broke my arm once, and they put it in a “cast.” I did not like it. It was heavy and stopped my arm from moving at all. It seemed they made it worse on purpose, and they made me wear it for a long time.<>\nThey removed it one day, and my arm was fine.<>\nThe humans made it worse, so it could get better.<>\n\nI think they did something similar to Jumper's head.\nJumper used to scream and cry a lot. One time they hurt themselves, and the humans took them away.<>\nJumper is back now. They don't cry anymore. They don't talk. They look sleepy all the time. Their head is like my arm used to be. I can't see any “casts” around it, and their behavior worries me, but at least they don't hurt themselves anymore. I hope the humans undo whatever they did once Jumper's head is fixed.<>\n\nI miss them.",
+                "Item1": "Os cientistas fazem coisas estranhas. Você jamais deverá acreditar que eles são legais.\nMas podes acreditar que eles o manterão vivo.<>\nUma vez quebrei o braço e eles o \"moldaram\". Não gostei nem um pouco. Era pesado e impediu meu braço de se mexer. Parecia que eles fizeram com um propósito pior, e me fizeram usar aquilo por muito tempo<>\nUm dia eles tiraram e meu braço tinha melhorado.<>\nOs cientistas deixaram pior, e então ficou melhor.<>\n\nAcho que eles fizeram algo parecido com a cabeça do Jumper.\nJumper vivia gritando e chorando muito. Um dia ele se machucou, e os cientistas o levaram<>\nJumper voltou. Ele não chorava mais. Ele não falava mais. Ele parecia dormir o tempo todo. Sua cabeça está como meu braço estava. Não consigo ver nenhum \"molde\" ao redor, e seu comportamento me preocupa, ao menos ele não tenta se machucar mais. Espero que os cientistas desfaçam o que fizeram assim que a cabeça do Jumper estiver consertada.<>\n\nEu sinto falta dele...",
                 "Item2": "",
                 "Item3": "milky"
             }
-
-			
         ],
         [
             {
@@ -4038,7 +4025,6 @@
                 "Item2": "",
                 "Item3": "milky"
             },
-
 			
             {
                 "Item1": "glowing woter taste bed",
@@ -4055,18 +4041,14 @@
                 "Item2": "",
                 "Item3": "milky"
 			}
-			
         ],
+
         [
             {
                 "Item1": "ugh. é tao quente aqui. preciso mesmo espacear meus movimentos e ser cuidadoso pra nao acabar caindo duro do calor. descobri que mergulhar nas piscinas d'agua ajuda... talvez ate as marrons se eu estiver desesperado.",
                 "Item2": "",
                 "Item3": "experiment"
             },
-
-
-
-			
 			{
                 "Item1": "i cant anymore. why.\neveryone is dead\ni cant.\ni want this to stop\ni cant\ni want freedom\nwhy\ncant i. i dont want to see any more of this. i've seen too many bad things. im so sick.\nmy leg is fucked. blown up by a mine\nmy hand, the right one, is also killing me really hard\ni want to put everything to an end\neverything is misery\ni cannot anymore\nin a bit ill claw my artery out and turn into another corpse for you to have a glance at - as long as they hadnt eaten me by the time you get here.\n\nthank you for everything. goodbye",
                 "Item2": "",
@@ -4107,8 +4089,6 @@
                 "Item2": "",
                 "Item3": "experiment"
             }
-
-			
         ],
         [
             {
@@ -4116,7 +4096,6 @@
 				"Item2": "",
                 "Item3": "milky"
             },
-
 			
             {
                  "Item1": "Something is wrong with the environment here. In the air, I can feel it- those dilapidated fuel cells make my fur stand on end. My skin flakes when I pass them, and my body burns. Even when I can't see them, I can feel that uneasy sensation building in the air around them. I've had to use my rope spool and even claw through the rocks here to find routes around them, but even then, there are purple stones that seem to carry the same effect, just in different doses.",
@@ -4144,7 +4123,6 @@
                 "Item3": "experiment"
             }
         ],
-
 		
         [
             {
@@ -4152,7 +4130,6 @@
                 "Item2": "",
                 "Item3": "dune"
             },
-
 			
             {
                 "Item1": "DUNE FIND NEW FRIEND<>\nDUNE EXCITED WHEN FRIEND NEAR<>\nFIREND IS LIKE DUNE.<>\nFRIEND BIG AND STRONG.<>\nDUNE BIG AND STRONG<>\nFRIEND CAN DIG QUICK.<>\nDUNE CAN DIG QUICK<>\nFRIEND BITE DUNE ARM OFF.<>\nDUNE BITE FRIEND ARM OFF<>\nFRIEND LEAVE.<>\nDUNE LOOKING<>\nWILL FIND AGAIN",
@@ -4170,8 +4147,6 @@
                 "Item3": "milky"
             }
         ],
-
-
 		
         [
             {
@@ -4179,7 +4154,6 @@
                 "Item2": "Sprites/noteDrawings/xaloris",
                 "Item3": "experiment"
             },
-			
 			
             {
                 "Item1": "dune cold. dig warm not warm enough. dune eat fur friend. eat raw! dune has fur. fur warm for dune. dune full and warm. dune happy not cold.",
@@ -4192,7 +4166,6 @@
                 "Item3": "experiment"
             }
         ],
-
 		
         [
             {
@@ -4200,9 +4173,6 @@
                 "Item2": "",
                 "Item3": "milky"
 			},
-
-
-			
 			
             {
                 "Item1": "I dont know what hit me but I cant feel my leg anymore, all I can see is a tangled mess of muscle bone and blood\nmy body is screaming for the agony to end \nthe only thing I have is this blue device on my chest. I was told by the trader I bought it from that it should only be used in emergencies.\nThe pain is not unbearable anymore, but the light is blinking now. I dont know how long I have left. will the darkness return when this thing runs out? I dont want to fade away...",
@@ -4210,8 +4180,6 @@
                 "Item3": "milky"
             }
         ],
-
-
 		
         [
             {
