@@ -22,7 +22,7 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
 | [日本語 (JP)](/ja-JP.json)   | [marui-neko](https://github.com/marui-neko)        |
 
 ## Maintainers
-* [Azurian](https://github.com/clemtomera), [UCRD](https://github.com/wucrd)
+* [Azurian](https://github.com/clemtomera)
 
 ## Owner
 * [Orsoniks](https://github.com/Orsoniks)
