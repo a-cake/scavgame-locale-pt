@@ -210,6 +210,8 @@
         "sodacandsc": "Uma latinha de refrigerante de 500 ml.",
         "alcohol": "Garrafa de álcool",
         "alcoholdsc": "Garrafa de vidro de 400 ml.",
+        "exposedcore": "Núcleo exposto",
+        "exposedcoredsc": "Os restos dormentes de algo que um dia já foi animado. Talvez você consiga comer isso, absorvendo o resto da energia dele na forma de nutrientes e água. <i>Parece estar lentamente se transformando em outra coisa...",
         "foliage": "Folhagem",
         "foliagedsc": "Planta alienígena genérica. Não muito comestível e tem um gosto ruim. Pode te deixar doente e apodrece rápido. Frequentemente usado em criações",
         "foliagemeal": "Salada folhada",
@@ -383,7 +385,7 @@
         "liquidcentrifuge": "Centrífuga de líquido",
         "liquidcentrifugedsc": "Uma centrífuga de mão que pode ineficientemente dividir uma mistura em seus componentes. O processo é meio complicado e resultará em um terço do volume de líquido total a ser perdido. Recarrega em um minuto.",
         "epda": "ADP-E",
-        "epdadsc": "Assistente digital pessoal eletrônico, acidentalmente deixado pra trás por um dos seus captores. Se você enfiar uma bateria nele, provavelmente daria para xeretar um pouquinho.",
+        "epdadsc": "Assistente digital pessoal eletrônico, acidentalmente deixado pra trás por um dos seus captores. Se você enfiar uma bateria nele, provavelmente daria para xeretar um pouquinho e aprender algo novo.",
         "bloodcoagulant": "Seringa de procoagulante",
         "bloodcoagulantdsc": "Uma seringa de 100 ml que injeta fluidos por via intravenosa. Dosagem de ~34 ml.",
 		"combatpen": "Autoinjetor de combate",
@@ -672,6 +674,18 @@
         "reinforceddoordsc": "Provavelmente pode ser aberta com algo.",
         "ReliefCrystal": "Cristal de alívio",
         "ReliefCrystaldsc": "Parece avermelhado e afiado.",
+        "crystalmini": "Cristal",
+        "crystalminidsc": "Um cristal bioluminescente minúsculo.",
+        "crystalsmall": "Cristal",
+        "crystalsmalldsc": "Um cristal bioluminescente pequeno.",
+        "crystalmedium": "Cristal",
+        "crystalmediumdsc": "Um cristal bioluminescente.",
+        "crystalbig": "Cristal",
+        "crystalbigdsc": "Um cristal bioluminescente grande.",
+        "crystalmassive": "Cristal",
+        "crystalmassivedsc": "Um cristal bioluminescente gigantesco.",
+        "crystalenemy": "Manifestação",
+        "crystalenemydsc": "Uma expressão de intenção maligna, de algo muito, muito além da sua compreensão física limitada.",
         "sandrose": "Rosa do deserto",
         "sandrosedsc": "Uma flor estranhamente linda com algumas grandes formas ovais crescendo nisso.",
         "scrapeater": "Come-sucata",
@@ -1294,7 +1308,7 @@
         "sodiumnitroprusside": "Nitroprusseto de sódio",
         "sodiumnitroprussidedsc": "Um medicamento usado para diminuir a pressão sanguínea, útil para evitar uma crise hipertensiva. Só funciona intravenosamente. 10ml por minuto.",
         "vasopressin": "Vasopressina",
-        "vasopressindsc": "Um hormônio usado para aumentar a pressão sanguínea, útil para evitar uma hipotensão letal. Só funciona intravenosamente. 10ml por minuto.",
+        "vasopressindsc": "Um hormônio usado para aumentar a pressão sanguínea, útil para evitar uma hipotensão letal. Funciona melhor intravenosamente. 10ml por minuto.",
         "amiodarone": "Amiodarona",
         "amiodaronedsc": "Uma medicação antiarrítmica usada para tratar e prevenir fibrilação. Diminuirá a maioria das arritmias lentamente, causando danos internos leves no processo. Só funciona intravenosamente. 20ml por minuto.",
         "chocolatemilk": "Leite achocolatado",
@@ -1375,35 +1389,204 @@
         "upperback": "Costas superiores",
         "middleback": "Costas centrais",
         "lowerback": "Costas inferiores",
-        "volumewarning": "AVISO DE VOLUME",
-        "volumewarningtext": "Está camada pode conter sons MUITO altos.\nConsidere abaixar um pouco o volume. Ninguém quer perder a audição.",
-        "runsettings": "Ajustes de expedição",
-        "looatmount": "Itens",
-        "trapamount": "Armadilhas",
-        "lootdepthmultiplier": "Itens por camada",
-        "trapdepthincrease": "Armadilhas por camada",
-        "radlinedisable": "Desabilitar a linha de radiação",
-        "unchipped": "Desabilitar o chipe",
-		"looatmountdsc": "Porcentagem inicial da quantidade de itens\n\nAfeta a quantidade de itens, incluindo cápsulas de lançamento ou caixas que são geradas em cada camada\n\nPorcentagens muito altas podem impactar a performance do jogo.",
-        "trapamountdsc": "Porcentagem inicial da quantidade de armadilhas\n\nAfeta a quantidade de armadilhas, como maquinarias velhas ou inimigos que são gerados em cada camada\n\nPorcentagens muito altas podem impactar a performance do jogo.",
-        "lootdepthmultiplierdsc": "A quantidade de itens é multiplicada por esse valor a toda camada que você passar\n\nPor exemplo, se você definir este valor para 50%, a quantidade de itens irá ser cortada pela metade por camada",
-        "trapdepthincreasedsc": "O valor incrementado á porcentagem de armadilhas a toda camada que você passar\n\nPor exemplo, se você definer este valor para 50%, a quantidade de armadilhas irá ser de 100% -> 150% -> 200% -> 250%, e assim por diante",
-        "radlinedisabledsc": "Se ligado, desabilita o tempo limite por camada",
-        "unchippeddsc": "Desabilita o seu chip de saúde e limita o seu campo de visão drasticamente, forçando você a se esforçar mais em entender os perigos a diante e tomar mais cuidado com as suas ações\n\nNão recomendado para iniciantes, mas pode raramente aparecer como um modificador de camada",
-        "startrun": "Começar expedição",
+        "startrun": "Começar",
 		"startrundsc": "Desça para as profundezas das cavernas.",
+        "presetnormal": "Normal",
+        "presetnormaldsc": "A experiencia padrão. Você será punido por erros. Conhecimento e noção situacional são recompensados. Tempo é essencial. Sua morte é praticamente garantida.",
+        "presetrelaxed": "Relaxante",
+        "presetrelaxeddsc": "Uma descida mais lenta e perdoável. Ainda há punição por erros, mas é tudo mais evitavel. Você tem mais tempo para explorar e entender os seus arredores.",
+        "presetparadise": "Paraíso",
+        "presetparadisedsc": "Inegável que essas cavernas são melhores que os laboratórios. Quase não há punição por erros, recursos e rostos amigos são abundantes. Poucas armadilhas e muito tempo.",
+        "presetdesolate": "Desolação",
+        "presetdesolatedsc": "Sozinho na escuridão. Pouquíssimos recursos, armadilhas por todo o lugar. Sobreviventes são uma raridade, mas aqueles que você encontrar terão muito o que compartilhar.",
+        "presetunchipped": "Sem chip",
+        "presetunchippeddsc": "A falta do chip tambem retira o limite de tempo que os outros possuem, contudo fazer o diagnóstico próprio se torna mais difícil. Será que vale a pena no final de tudo?.",
+            "presetendless": "Endless",
+        "presetendlessdsc": "There is no escape; This is your death sentence. How far can you make it, with hazards multiplying before you?\n\n[NOTE: Unavailable at this stage, as the game is currently endless either way]",
+        "runsettings": "Run settings",
+        "runsettingsdsc": "Choose a playstyle from the presets below. You can tweak them in the custom settings panel to the right.",
+        "customsettings": "Custom settings",
+        "customsettingsdsc": "Configure specific run settings",
+        "runsetunchipped": "Unchipped",
+        "runsetunchippeddsc": "Disables your health panel, forcing you to put more effort into figuring what specific ailments you have. Enables line of sight.",
+        "runsetbaselootdensity": "Loot density",
+        "runsetbaselootdensitydsc": "How much loot appears in every layer. Affects things like drop capsules, lifepods, crates",
+        "runsetlootmultiplier": "Distance loot multiplier",
+        "runsetlootmultiplierdsc": "Loot density is multiplied by this for each layer you cross\n\nIn other words, if you set it to e.g. 0.5x, the amount of loot would be halved every time you descend a layer",
+        "runsetbasetrapdensity": "Trap density",
+        "runsetbasetrapdensitydsc": "How many traps appeas in every layer. Affects things like mechanical traps, enemies, other hazards.",
+        "runsettrapincrease": "Distance trap increase",
+        "runsettrapincreasedsc": "This number is added to the trap density for each layer you cross\n\nIn other words, if you set it to e.g. 0.5x, the trap amount would go from 1x -> 1.5x -> 2x and so on",
+        "runsettimelimit": "Layer time limit",
+        "runsettimelimitdsc": "In minutes, how long can you stay in every layer before punishment",
+        "runsetstartingsupplies": "Starting supplies",
+            "runsetstartingsuppliesdsc": "What items you start out with",
+        "runsetstartingsuppliesnone": "Nothing",
+        "runsetstartingsupplieslight": "Flashlight",
+        "runsetstartingsuppliesfull": "Full kit",
+        "runsetxpgain": "Experience gain",
+        "runsetxpgaindsc": "Multiplier for how much skill experience you gain",
+        "runsetmetabolismrate": "Metabolism rate",
+        "runsetmetabolismratedsc": "How fast your hunger/thirst/sickness/weight drains.",
+        "runsethealingrate": "Healing rate",
+        "runsethealingratedsc": "How fast your injuries heal. Affects muscle/skin regeneration, blood clotting, blood regen, fractures, dislocations and brain damage",
+        "runsetfracturepain": "Fracture pain rate",
+        "runsetfracturepaindsc": "How much limbs hurt when used while dislocated/fractured",
+        "runsetbleedrate": "Bleeding rate",
+        "runsetbleedratedsc": "How quickly your blood volume lowers from bleeding wounds",
+        "runsetinfectionspeed": "Infection speed",
+        "runsetinfectionspeeddsc": "How fast infections progress/decrease and how fast they kill. Also affects how long antiseptics last",
+        "runsetinfectionchance": "Infection chance",
+        "runsetinfectionchancedsc": "How likely you are to catch infections from wounds",
+        "runsetfibrillationrate": "Fibrillation rate",
+        "runsetfibrillationratedsc": "How fast heart rhythm fibrillation progresses. Higher number = die faster",
+        "runsetbonuslimbarmor": "Bonus limb armor",
+        "runsetbonuslimbarmordsc": "How much more damage resistances your limbs innately have. A value of 1 will halve all received damage",
+        "runsetstaminaregen": "Stamina regeneration",
+        "runsetstaminaregendsc": "How fast your stamina regenerates after being used",
+        "runsetattackdamage": "Attack damage",
+        "runsetattackdamagedsc": "How much damage you do with your swings",
+        "runsetstrokes": "Enable strokes",
+        "runsetstrokesdsc": "Determines if you can get a stroke during hypertensive crisis",
+        "runsetbraindamagefx": "Brain damage effects",
+        "runsetbraindamagefxdsc": "Determines if brain damage causes periodic fits",
+        "runsetinfinitelaststand": "Infinite last stands",
+        "runsetinfinitelaststanddsc": "Determines if you can roll for last stand more than once during a run",
+        "runsetmoodnormalizationrate": "Mood normalization rate",
+        "runsetmoodnormalizationratedsc": "How fast your mood crawls towards 0. Higher values will make it harder to remain sad or happy.",
+        "runsetforcesleep": "Force sleep",
+        "runsetforcesleepdsc": "Should the player be forced unconscious when their energy reaches 0",
+            "runsetlowmoodevents": "Low mood events",
+        "runsetlowmoodeventsdsc": "Should the player take special action at critically low mood",
+        "runsetliquidpushing": "Liquid pushing",
+        "runsetliquidpushingdsc": "Determines if moving liquid tiles push the player and objects around",
+        "runsetdisfigurement": "Enable disfigurement",
+        "runsetdisfigurementdsc": "Determines if your character can permanently lose their facial features",
+        "runsetsleepcyclespeed": "Sleep cycle speed",
+        "runsetsleepcyclespeeddsc": "How fast your energy drains when awake and regenerates when asleep",
+        "runsetencumbrancecap": "Encumbrance cap",
+        "runsetencumbrancecapdsc": "How much the player can hold before becoming encumbered",
+        "runsetnosleeprestrictions": "No sleep restrictions",
+        "runsetnosleeprestrictionsdsc": "Can the player always sleep, even when not tired and when in pain/sick/etc?",
+        "runsettraderchance": "Trader chance",
+        "runsettraderchancedsc": "How often traders appear in lifepods",
+        "runsettraderitemamount": "Trader item amount",
+        "runsettraderitemamountdsc": "Multiplier for how many items traders generally spawn with",
+        "runsettraderrepoffset": "Trader reputation offset",
+        "runsettraderrepoffsetdsc": "How much bonus reputation to add/remove when meeting traders",
+        "runsetitemdecayrate": "Item decay rate",
+        "runsetitemdecayratedsc": "How fast things like food, bags and light sources decay",
+        "runsetlayermodifierchance": "Layer modifier chance",
+        "runsetlayermodifierchancedsc": "How likely is a layer modifier to appear, per-layer",
+        "runsettimebetweenearthquakes": "Time between earthquakes",
+        "runsettimebetweenearthquakesdsc": "How long, on average, it will take for an earthquake to appear",
+        "runsetlockpickprecision": "Lockpicking leniency",
+        "runsetlockpickprecisiondsc": "How wide the precision angle is during lockpicking minigames",
+        "runsetambientlight": "Ambient light",
+        "runsetambientlightdsc": "How much should areas without a direct light source be illuminated",
+        "runsetambientlightnone": "Pitch black",
+        "runsetambientlightenough": "Enough to see",
+        "runsetambientlightbright": "Bright",
+        "runsetoreamount": "Ore amount",
+        "runsetoreamountdsc": "How much copper/ilmenite to create in each layer",
+        "runsetminigamehandshake": "Minigame hand shaking",
+        "runsetminigamehandshakedsc": "How much your hand shakes during minigames while in pain",
+        "runsetdebugworld": "Debug world",
+                "runsetdebugworlddsc": "If on, makes the world much smaller to speed up generation. Not made for normal gameplay",
+
         "tutorialwarning": "<size=150%>Antes de ir...\n\n<size=100%>Você não passou pelo percurso básico ainda.\nTem certeza que você quer ir completamente cego?\n\n\n\nSeu fim não é nada menos que garantido.",
         "tutorialwarningyes": "Fazer o treinamento básico",
         "tutorialwarningno": "Sei o que estou fazendo!",
-        "quit": "Sair",
+        "pausereturn": "Retomar",
+        "pausegiveup": "Desistir",
+        "pausegiveup2": "Você tem certeza?",
+        "pausegiveup3": "Você tem certeza ABSOLUTA?",
+        "pausegiveup4": "Você tá MESMO, tão desesperado para morrer?",
+        "pausegiveup5": "DISPOSITIVO EXPLOSIVO INTRACRANIANO ARMADO",
+        "pausegiveup5dsc": "Sua substância cerebral está prestes a se tornar um com o ambiente atual.",
+        "pausegiveupdsc": "Abandonar essa vida",
+        "pauseexit": "Sair",
+        "pausesettings": "Opções",
+        "pausesettingsdsc": "Porque o jogo é muito alto",
         "resettodefault": "Redefinir para o padrão",
-        "resettodefaultdsc": "Redefine todas as configurações da expedição para os valores padrões.",
-        "back": "Voltar",
+        "tabvideo": "Video",
+        "tabaudio": "Áudio",
+        "tabgame": "Gameplay",
+        "tabinput": "Controles",
+        "tablanguage": "Linguagem",
+        "gamesetreswidth": "Resolução: largura",
+        "gamesetreswidthdsc": "",
+        "gamesetresheight": "Resolução: altura",
+        "gamesetresheightdsc": "",
+        "gamesetfullscreen": "Tela cheia",
+            "gamesetfullscreendsc": "Toggle between windowed and borderless",
+        "gamesetvsync": "V-Sync",
+        "gamesetvsyncdsc": "Toggle vertical synchronization, which reduces screen tearing at the cost of input lag. Overrides the max framerate setting if on",
+        "gamesetframerate": "Max framerate",
+        "gamesetframeratedsc": "If above 0, sets how fast the game is allowed to run. A value of 0 means unlimited. Overriden if V-Sync is on",
+            "gamesetpixelate": "Pixelated rendering",
+        "gamesetpixelatedsc": "Toggle downscaled of full resolution rendering. Note that disabling pixelated rendering sacrifices some of the game's intended artstyle.",
+        "gamesetbloom": "Bloom",
+        "gamesetbloomdsc": "Makes bright things look nicer. Also affects lens dirt",
+        "gamesetfilmgrain": "Film grain",
+        "gamesetfilmgraindsc": "How much of the noisy filter you want visible",
+        "gamesetlineofsightcount": "Line of sight resolution",
+        "gamesetlineofsightcountdsc": "How detailed is the line of sight shader, when applicable. Higher values worsen performance",
+        "gamesetscreenshake": "Screenshake",
+        "gamesetscreenshakedsc": "How much to shake the screen after hard falls, explosions, etc.",
+        "gamesetalwaysexpand": "Always expand item descriptions",
+        "gamesetalwaysexpanddsc": "If on, you will always see expanded item descriptions when hovering over an item, without holding the expand key",
+            "gamesetshowhiddenmoodles": "Always show hidden moodles",
+        "gamesetshowhiddenmoodlesdsc": "If on, low importance moodles will always be shown without having to hover over them first",
+        "gamesetitemfloating": "Item floating",
+        "gamesetitemfloatingdsc": "If on, looted items will briefly float in the air",
+        "gamesetclearerrecipes": "Recipe list color contrast",
+        "gamesetclearerrecipesdsc": "If on, the recipe list will be given clearer colors to distinguish between craftable/uncraftable recipes",
+        "gamesetinventoryuseleniency": "Inventory use leniency",
+        "gamesetinventoryuseleniencydsc": "How much you need to wait after opening the inventory before you can use an item. Lower values will let you use items earlier",
+        "gamesetskipintro": "Skip intro",
+        "gamesetskipintrodsc": "Because you've seen the intro text one too many times...",
+        "gamesetrpc": "Rich presence",
+        "gamesetrpcdsc": "Toggle Discord Rich Presence for the game being shown on your profile",
+        "gamesetmastervolume": "Master volume",
+        "gamesetmastervolumedsc": "",
+            "gamesetmusicvolume": "Music volume",
+        "gamesetmusicvolumedsc": "",
+        "gamesetdronevolume": "Drone volume",
+        "gamesetdronevolumedsc": "Volume of situational themes like agony/exhaustion/cave-ins/etc.",
+        "gamesettrackinterval": "Music track interval",
+        "gamesettrackintervaldsc": "In seconds, how long to wait between music tracks before playing one",
+        "gamesetsadnessdistortion": "Sadness music distortion",
+        "gamesetsadnessdistortiondsc": "Whether or not to progressively distort music as your mood lowers",
+        "gamesetautojump": "Auto-jump",
+        "gamesetautojumpdsc": "If on, your character will continuously try to jump as long as the button is held down. This is akin to the legacy jump behaviour",
+        "gamesettogglelabels": "Label view toggle",
+        "gamesettogglelabelsdsc": "If on, item labels will be toggled on/off when the key is pressed, instead of having to be held down",
+        "gamesetjump": "Jump",
+        "gamesetleft": "Move left",
+        "gamesetright": "Move right",
+        "gamesetdown": "Crouch",
+            "gamesetup": "Move up",
+        "gamesetattack": "Swing",
+        "gamesetiteminteract": "Use items/Cancel",
+        "gamesetthrow": "Throw",
+        "gamesetswitchhands": "Switch hands",
+        "gamesetragdoll": "Ragdoll",
+        "gamesetwoundview": "Health panel",
+        "gamesetcraft": "Crafting menu",
+        "gamesetfavourite": "Favorite item",
+        "gamesettoggleinventory": "Toggle inventory",
+        "gamesetspeed1": "Normal speed",
+        "gamesetspeed2": "Fast speed",
+        "gamesetspeed3": "Super fast speed",
+        "gamesetexpanddesc": "Expand item description",
+        "gamesetaltview": "Show item labels",
+        "gamesetbark": "Bark",
+        "gamesetconsole": "Toggle debug console",
+        "gamesetpause": "Pause",
+        "copy": "Copy to clipboard",
+            "paste": "Paste from clipboard",
         "descend": "Descender",
-        "mainmenu": "Menu\nPrincipal",
-        "screenbrightness": "Brilho da tela",
-        "gamma": "Gama",
-        "paneltip": "Aperte ESC para abrir e fechar esse painel",
         "unarmed": "Nada",
         "container": "Contêiner",
         "containermaxweight": "Capacidade",
@@ -1564,6 +1747,8 @@
         "togglehealthmode": "Alterar visão de ferimentos/armaduras",
         "selecttrainingcourse": "Selecione o treinamento desejado.",
         "start": "Começar", 
+        "quit": "Sair",
+        "back": "Voltar",
         "basicscourse": "Treinamento Básico ",
         "firstaidcourse": "Curso de Primeiros Socorros", 
         "craftingcourse": "Curso de Criações",
@@ -1625,10 +1810,10 @@
         "hplimbforce": "Força do membro",
         "hplimbforcedsc": "A capacidade total do membro mover e exercer força.",
         "hpopiate": "Quantidade de opioides",
-        "keybinds": "Teclas",
-        "keybindsdsc": "Abrir o arquivo de atalho das teclas. Lembre-se de salvar as modificações!",
+        "settings": "Opções",
         "custommusic": "Playlist de musicas",
         "custommusicdsc": "Abre a pasta da playlist de musicas do item tocador de MP3.\nVocê pode colocar arquivos .mp3/.ogg/.wav lá e eles aparecerão na lista de musicas do tocador de MP3.\nOutros formatos de arquivos de audio não são suportados.",
+        "credits": "Créditos",
         "layer": "Camada",
         "toggleheatmode": "Trocar modo de ar",
         "activateshower": "Ativar chuveiro",
@@ -1658,8 +1843,8 @@
         "open": "Abrir",
 		"insertbattery": "Inserir bateria da mão principal",
         "lockpick": "Arrombar",
-        "learnedrecipe": "Aprendeu receita para r1.\nGanhou <color=\"green\">30 XP de INT.",
-		"epdalearn": "Ganhou <color=\"green\">50 exp de INT.",
+        "learnedrecipe": "Aprendeu receita para r1.\nGanhou <color=\"green\">25 XP de INT.",
+		"epdalearn": "Ganhou <color=\"green\">35 exp de INT.",
         "hasbattery": "Com bateria (<>)\n<sprite index=17 tint=1>Utilize uma ferramenta para remover a bateria.",
         "nobattery": "Sem bateria (Max. <>)",
         "unknownobject": "Algo...",
@@ -1675,6 +1860,11 @@
         "small": "Pequena",
         "medium": "Média",
         "large": "Grande",
+        "crystaleffect1": "Isso não é normal.",
+        "crystaleffect2": "Você percebe algo estranho com esta coisa.",
+        "crystaleffect3": "Você sente uma energia emanando disto. Você nota algo peculiar ao seu redor.",
+        "crystaleffect4": "Você sente uma energia forte emanando deste. Parece que o espaço está distorcendo ao seu redor.",
+        "crystaleffectmany": "Há algo muito errado acontecendo com ele. Não parece uma boa ideia chegar perto... ou, talvez seja?",
         "lockprecision": "Precisão da tranca: ",
         "degree": "grau",
         "degrees": "graus",
@@ -1710,17 +1900,18 @@
         "tradermovedsc": "...Um pouco pro lado, caso esteja bloqueando algo importante.",
         "exit": "Sair",
         "free": "<color=\"orange\">GRÁTIS!",
-        "deceased": "Falecido",
-        "statusreport": "Relatório de status",
-        "firmware": "Firmware",
-        "depth": "Profundidade",
-        "caloriesconsumed": "Calorias consumidas",
-        "mentalstate": "Estado mental",
-        "timetaken": "Tempo perdido",
-        "missionstatus": "Estado da missão",
-        "missionstatusfailure": "Fracasso total",
-        "casualties": "Vítimas",
-        "unknown": "Desconhecidas",
+        "endscreenstatus": "MSN-RELATÓRIO DE ESTADO DO DISPOSITIVO",
+        "endscreenunresolved": "PENDENTE",
+        "endscreencasualties": "VÍTIMAS:",
+        "endscreenunknown": "DESCONHECIDAS",
+        "endscreenphysical": "ESTADO FÍSICO:",
+        "endscreendeceased": "FALECIDO",
+        "endscreenmental": "ÚLTIMO ESTADO MENTAL GRAVADO:",
+        "endscreendepth": "PROFUNDIDADE:",
+        "endscreendepthres": " METROS EM ",
+        "endscreencalories": "CALORIAS:",
+        "endscreenmainmenu": "RETORNAR AO MENU",
+        "endscreenclipboard": "COPIAR INFORMAÇÃO",
         "moodrange-10": "Suicida",
         "moodrange-9": "Infinito desespero",
         "moodrange-8": "Profundamente miserável",
@@ -1743,7 +1934,7 @@
         "moodrange9": "Eufórico",
         "moodrange10": "Extremamente eufórico",
         "moodrangewiped": "Vazio",
-        "moodrangeyethopeful": ", porém esperançoso...",
+        "moodrangeyethopeful": ", porém esperançoso",
         "wiki": "Wiki (somente em inglês)",
         "discord": "Servidor do Discord (somente em inglês e... Polonês???)",
         "translations": "Central das traduções",
@@ -1763,7 +1954,7 @@
         "tutbasic8": "Que coisinha ágil você é, não é?",        
         "tutbasic9": "Agora, vamos ver como você segura e usa as coisas ao seu redor",        
         "tutbasic10": "Interação com itens são feitas com [CLIQUE DIREITO]. Clique em si mesmo para acessar seu inventário, clique fora para fecha-lo.",        
-        "tutbasic11": "Aqui, algo pra você brincar. [CLIQUE DIREITO] segure e arraste até você mesmo, então solte em um slot para pegar.",        
+        "tutbasic11": "Aqui, algo pra você brincar. [CLIQUE DIREITO] segure e arraste até você mesmo, então solte em um slot para pegar. Você pode segurar [CONTROL] para ver marca dos itens, melhorando sua visibilidade.",        
         "tutbasic12": "Bom. Você pode usar o item direto do inventário. Arraste-o para o centro para usar e continuarmos.",        
         "tutbasic13": "Tem um gosto ótimo, não tem? Você deveria comer tudo agora.",        
         "tutbasic13fail": "Eu queria que você pegasse, não comesse... Credo, foi tudo? De uma vez só..?",        
@@ -1934,7 +2125,7 @@
         "tutclosehealthpanel": "Fechar painel de saúde.",
         "tutopenhealthpanel": "Abrir painel de saúde.",
         "tutnice": "Bom.",
-        "startlorenote": "Ano 2XXX \n<>\nA humanidade progrediu na tecnologia consideravelmente. \n<>\nUma corporação realizou pesquisas em bioengenharia, combinando DNA animal e humano. \n<>\nEssas pesquisas levaram a criação da espécie Experimento, além de suas muitas ramificações futuras. \n<>\nApós anos de testes secretos e antiéticos em laboratório, eles estabeleceram um objetivo maior. \n<>\nDescobriram um planeta cinza prosperando ecologicamente e com uma rota espacial fácil de realizar. \n<>\nLogo, milhares de espécimens, construções e variadas cargas foram enviadas. \n<>\nEmbora a maioria dessas coisas foram enviadas corretamente, uma grande quantidade foi enviada para a expansiva rede de cavernas do planeta devido a um erro de calibração. \n<>\nNeste material enviado estava incluso uma tecnologia experimental muito importante, agora posicionada no fundo do sistema subterrâneo, sem forma fácil de acesso. \n<>\nMesmo assim, foi visto pelos cientistas como uma oportunidade de realizar pesquisas comportamentais enviando milhares de espécimens para recuperar a tecnologia perdida. \n<>\nA viabilidade é minúscula, mas o embarque é barato e seu estoque vivo é abundante. \n<>\nVocê é um desses espécimens sem sorte.\nResistir não é uma opção."
+        "startlorenote": "Ano 2XXX \n<>\nA humanidade havia realizado avanços tecnológicos significantes. Coisas que pareciam impossíveis se tornaram triviais.\n<>\nNo centro disso tudo, uma companhia. Suas pesquisas e progressos evoluindo quase como um milagre, mas com seus segredos firmemente guardados.\n<>\nAnos atras eles desenvolveram uma nova espécie ao combinar DNA animal e humano, essa espécie foi apelidada de:\"Experimento.\"\n<>\nEstes experimentos se tornaram a cobaia perfeita para suas pesquisas, semelhantes o suficiente a humanos, mas de sua autoria para usar da forma que desejassem. Trabalhavam sem descanso em sua criação, distorcendo cada vez mais sua biologia para satisfazer suas necessidades e pesquisas, ao passar dos anos a população dessas criaturas só crescia. \n\nCriaturas que jamais poderiam acessar o mundo exterior. \n<>\nCom o tempo a Terra não pode conter mais suas ambições. Utilizando tecnologia de teletransporte recém desenvolvida eles fazem de um planeta cinza, vibrando com vida, o seu próximo alvo. \n<>\nSem demora, diversos tipos diferentes de carga e lixo foram destinados ao alvo. \n<>\nDevido a dificuldades de calibração, uma parte da carga acabou sendo enviada para o sistema de cavernas do planeta e outra para a superfície, contudo o projeto progrediu sem problemas. \n<>\nIsso é, até um erro desconhecido enviar um pedaço de tecnologia importante para o fundo do sistema de cavernas.\n<>\nSem demora, cientistas desenvolveram um plano. Um plano que não os colocava em uma posição de risco.\n<>\nAs chances de sucesso eram mínimas, mas seu estoque vivo era abundante.\n<>\nVocê é um desses espécime desafortunados.\nResistencia não é uma opção."
     },
     "character": [
         {
@@ -3698,6 +3889,52 @@
                 "T-Tudo vai acabar.. Em b-breve..?",
                 "Para... Para... Para... Por favor... P-para... Não d-desse jeito... Socorro...",
                 "Porra... Porra... Me ajuda... Eu não... Quero m-morrer... H-h.."
+            ],
+            "magicheal": [
+                "...Huh. Eu me sinto... Melhor..?",
+                "Ahh..! ...Huh. Essa sensação... Me sinto bem melhor. Gostei disso."
+            ],
+            "selfdestruct": [
+                "...Ããhhh... ...O que é esse barulho...?",
+                "...Ah... AH. AH NÃO! NÃO NÃO NÃO. ESPERA. POR QUE? O QUE FOI QUE EU FIZ!?",
+                "...A-ah... T-ta bom então... B-bem... A-adeus, eu acho..."
+            ],
+                "vomitresponse": [
+                "Uuuhmm... You good..?"
+            ],
+            "vomitbloodresponse": [
+                "Ack! Did you just... Oh... Hey, you know you just... Threw up blood, right?"
+            ],
+                "hungryresponse": [
+                "There's a bunch of food out there, you know...",
+                "Well, I could give you food in exchange for something..?"
+            ],
+            "thirstyresponse": [
+                "I'd wager you can find some water out...",
+                "Last I heard you can only go for three \"days\" without water, haha..."
+            ],
+                "sadresponse": [
+                "Hey, it's okay... You're still alive and kicking, right..."
+            ],
+            "depressedresponse": [
+                "...Calm down, please... It'll be fine..."
+            ],
+                "selfharmresponse": [
+                "...W-why... Did you..."
+            ],
+            "braindamagedresponse": [
+                "...You don't sound... Very well.",
+                "...What?"
+            ],
+                "hotresponse": [
+                "Turn the heat down, then."
+            ],
+            "coldresponse": [
+                "You know, we do have a heater here..."
+            ],
+                "bleedingresponse": [
+                "It... Does look bad... But, I... I'm sure you can fix it...",
+                "H-hey, calm down. You'll be okay."
             ]
         },
         {
@@ -3866,6 +4103,43 @@
             ],
             "tradermovefail": [
                 "Por que eu me moveria para alguém como você?"
+            ],
+                    "vomitresponse": [
+                "You appear to have returned your stomach contents."
+            ],
+            "vomitbloodresponse": [
+                "...It appears you are bleeding internally. Please direct your mouth away from me for the forseeable future."
+            ],
+                "hungryresponse": [
+                "If you imagine me to satiate your hunger without payment, you would be sorely mistaken.",
+                "I'm not a charity. Find some food, or exhange something with me."
+            ],
+            "thirstyresponse": [
+                "Many pools of drinkable water permeate this place. Make use of them.",
+                "Find thine source of water elsewhere."
+            ],
+                "sadresponse": [
+                "Please, cease your wailings."
+            ],
+            "depressedresponse": [
+                "Spiraling into desparity will not solve any of your problems."
+            ],
+                "selfharmresponse": [
+                "...You really are ill. Stop this."
+            ],
+            "braindamagedresponse": [
+                "You are entirely incoherent.",
+                "I'd wager you have a concussion."
+            ],
+                "hotresponse": [
+                "I may let you use this lifepod's cooler if you behave."
+            ],
+            "coldresponse": [
+                "Exercise. You will warm up in the blink of an eye."
+            ],
+                    "bleedingresponse": [
+                "Please don't bleed all over me.",
+                "I implore you to take care of your wounds."
 			]
 		},
         {
@@ -4033,6 +4307,43 @@
             ],
             "tradermovefail": [
                 "Du-no gos-ta lugar atu-al..."
+            ],
+                    "vomitresponse": [
+                "Fri-end... Throw... Up... Feel si-ck?"
+            ],
+            "vomitbloodresponse": [
+                "Du-ne... Smell blo-od... From... Fri-end... Tas-ty..?"
+            ],
+                "hungryresponse": [
+                "Du-ne understand... Dune hung-ry too!",
+                "Agree... Du-ne need fo-od too!"
+            ],
+            "thirstyresponse": [
+                "Du-ne drink puddle... Feel bet-ter... Friend try?",
+                "Mm-m... Slu-rp time?"
+            ],
+                "sadresponse": [
+                "Fri-end feel bad..? Why?"
+            ],
+            "depressedresponse": [
+                "Fri-end look very bad... Co-me sit with du-ne!"
+            ],
+                "selfharmresponse": [
+                "Why is fri-end hurt? Fri-end evil?"
+            ],
+            "braindamagedresponse": [
+                "Du-ne agree.",
+                ".........?"
+            ],
+                "hotresponse": [
+                "Du-ne never feel hot! Du-ne love heat..."
+            ],
+            "coldresponse": [
+                "Du-ne scared of co-ld... Room is wa-rm! Fri-end stay wi-th dune..."
+            ],
+                    "bleedingresponse": [
+                "Fri-end is hurt. Fri-end need help!",
+                "Fri-end smell like blood. Du-ne like."
 			]
         }
     ],
@@ -4133,72 +4444,66 @@
                 "Item2": "",
                 "Item3": "experiment"
             },
-            
             {
-                "Item1": "dont always trust the barrels of liquid lying around. got my hands on a big minibarrel of what i thought was lemondade, but one bitter sip was enough to tell me that it wasnt. i tried to wash it down with another barrel of water, but the water made me very sick and my hair started falling out",
+                "Item1": "não confie nos barris com liquido dentro. consegui por as mãos em um barril com o que eu achava que era limonada, mas depois de um gole bem azedo eu notei que não era. tentei tirar o gosto com agua de outro barril, mas logo depois fiquei muito doente e meu pelo começou a cair",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "today i found a few weird metal cans that had the label ripped off. i couldnt tell what it was and the liquid was too thick to pour out, but it is surprisingly filling, i feel like i just had a nice steak... i feel so sleepy. im about to drink the next can, i love these cans!\n(The bottom of the paper looks like something with black chunks in it was forcibly ejected onto it.)",
+                "Item1": "hoje encontrei umas latas estranhas com a marca arrancada. não consigo dizer o que comi e o liquido de dentro era denso demais para derramar, mas, me sinto bem cheio, sinto que comi um belo bife... me sinto meio sonolento. ja vou abrir a proxima, to amando essas latas!\n(Parece ter pedaços de alguma coisa preta grudada na parte inferior do papel.)",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "this might be a strange thing to say but I've made my peace with this situation. ive been trying to take care of myself as much as i can and trying to comfort all the others ive met down here. it makes me feel... content? even though I've gotten hurt a lot ive been able to handle it without feeling down.\ni'll try to get as far as i can, and even though i probably wont make it, i know i did my best and helped as many others as i could. that's all any of us can do.\nif you're reading this, don't give up, ok?",
+                "Item1": "isso deve soar estranho, mas tenho me sentido em paz com essa situação. estive tentando cuidar o maximo que posso de mim mesmo e tenho confortado todos os outros que encontrei por aqui. tudo isso tem feito eu me sentir... contente? mesmo me ferindo varias vezes tenho conseguido lidar com tudo sem me sentir pra baixo.\nvou tentar chegar o mais longe possivel, e mesmo que eu não chegue ao fim, eu sei que tentei o meu melhor e ajudei todos que pude. isso é tudo que podemos fazer. \nSe voce esta lendo isso, nao desista, por favor.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i have been seeing more and more of these broken down drop pods recently, kind of like the ones that they sent us down here with except these ones all exploded somehow <>\ninside the wreckages i usually find some type of gun ammunition along with a gross ball of some sort of meat? \n<>\nit looks awful but it might be edible???\nthat dune person i met earlier told me it was good to eat\ni could try having some of it\n<>\n\nate it and vomited my guts out for twenty minutes straight, worst mistake of my life <>\nfor the love of god, dont eat whatever that is",
+                "Item1": "ultimamente tenho visto mais e mais dessas capsulas destruidas, parecem com as mesmas usadas para nos trazer aqui, só que essas explodiram de alguma forma <>\ndentro dos destroços eu normalmente acho algum tipo de munição junto com uma bola nojenta de alguma... carne? \n<>\ntem uma aparencia terrivel mas talvez seja comestivel???\num duno que encontrei mais cedo me falou que era bom para comer \neu poderia provar um pedaço\n<>\n\ncomi um pouco e vomitei minhas tripas por uns 20 minutos, pior decisao que ja fiz <>\npelo amor de deus, não coma seja la o que isso for",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i keep having the same dream. i have huge wings and i can keep flying up and up and up. nothing can stop me. i burst through the ceilings of these caverns and out into the world beyond. it's beautiful out there but i keep flying. i leave everything behind until there's nothing but a huge void. that's when i finally realize. im safe. im free.\n\nevery time i wake up, i cant stop crying. i wish i could keep dreaming forever.\n\n(There is a tear-stained drawing of some very inaccurate wings.)",
+                "Item1": "não paro de ter o mesmo sonho. nele eu tenho asas imensas e começo a voar cada vez mais alto. sem nada para me parar. eu passo pelo teto dessas cavernas e chego no mundo lá fora. é lindo lá fora, mas eu continuo voando. deixo tudo para traz até chegar no ponto onde não há nada além de escuridão. é ai que eu finalmente noto. eu estou seguro. estou livre. \n\ntodas as vezes que eu acordo, eu começo a chorar. como eu desejo conseguir ficar sonhando para sempre.\n\n(Há manchas de lagrima ao lado de um desenho bem estranho de asas.)",
                 "Item2": "Sprites/noteDrawings/wings",
                 "Item3": "experiment"
             },
             {
-                "Item1": "can the scientists really see me here? they always wanted me to say out loud what i was thinking, but here, im just talking to myself. i suppose i have the freedom to stop, but... it feels therapeutic. if i dont make it, maybe at least these notes will.",
+                "Item1": "sera que os cientistas realmente me veem aqui? eles sempre me ordenavam a falar tudo que estivesse pensando em voz alta, mas aqui, parece que estou falando sozinho. acho que sou livre pra parar, mas... é bem terapeutico. se eu não resistir talvez essas notas consigam.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i didnt realize how bad it had gotten until i tried to dig again and my claws just... scraped. no bite to them anymore. ive been clawing through rock nonstop without even thinking about it. i felt naked. turns out flesh isnt meant to replace tools.\n<>\ni kept assuming i needed a pickaxe for everything. but i figured out my machete works just fine for the lighter stuff. dirt, plants, sand, it slices right through. saves my hands a lot of pain.\n<>\nfound a bottle labeled keratin booster. figures they planned for our parts to break down. took a sip. after a while the old layers started flaking off like fur. underneath, they felt sharper. stronger. it was weirdly satisfying watching the worn parts peel away. i like how my claws let me grip the walls better\n<>\ni remembered the humans. they had nails on every finger. all of them. no claws at all. it looked so wrong up close. soft. blunt. freaky how they managed anything with hands like that.\n<>\ni used to think that made them weak.\n<>\nnow i wonder if that was the point.",
+                "Item1": "não percebi o quão ruim estava até o momento que eu tentei cavar de novo, minhas garras elas... só raspavam. não tinha mais força nelas. eu tenho rasgado meu caminho por pedras sem parar ou pensar por um tempo. agora me sinto pelado. parece que a carne nao substitui ferramentas. \n<>\neu pensei que precisaria de uma picareta pra tudo. mas notei que meu facão serve bem pras coisas mais leves. terra, plantas, areia, corta sem esforço. salvando minhas maos da dor. \n<>\nencontrei uma garrafa escrito impulsionador de queratina. parece que eles já esperavam que alguma parte nossa fosse quebrar. tomei um pouco. um tempo depois os pedaços velhos começaram a soltar igual a pelo. por baixo, elas pareciam mais afiadas. mais fortes. foi estranhamente satisfatorio ver os pedaços quebrados caindo. gosto como minhas garras deixam mais facil de me agarrar nas paredes.\n<>\nisso me lembra dos humanos. eles tinham unhas em todos os dedos. todos dedos. nada de garras. tinha uma aparencia tao estranha de perto. macio. sem fio. engraçado pensar como é que eles fazem qualquer coisa com maos como aquelas. \n<>\ncostumava pensar que isso fazia eles parecerem fracos. \n<>\nagora eu me pergunto se esse era o ponto.",
                 "Item2": "",
                 "Item3": "experiment"
             },
-            
             {
                 "Item1": "Está cheio de todo tipo de bicho que fica vagando por todos os lados. Sou meio pacifista, então tento fugir deles em vez de lutar, porque não sei quem vai matar quem primeiro... Afinal, os ferimentos que eles me causam doem demais... Não sei mais o que fazer... Será que nossos captores têm noção do que estamos passando aqui embaixo?",
                 "Item2": "",
                 "Item3": "milky"
             },
-			
             {
-                "Item1": "I took a bad fall. REAL bad. Right into a hole and couldn't climb or dig out of with my injuries. But I made it out with these bits of scrap metal, and want to let others know this, too. \n\nIts the cavern walls! Nothing I've found- even dynamite -seems to be able to penetrate the outer boundaries of the caverns. But they are uneven, and if you stack enough bits of scrap metal on top of each other, you can wedge them in these tiny gaps and make an entire scrap foothold. When I was bleeding out in that dark hole, I used my collected debris to make a sort of staircase to escape and find emergency supplies.\n\nI hope you never wind up in that situation, though. Maybe you could use this trick to protect you from injury in the first place? Who knows what other nasty things are in here with us. \n\nMaybe you'll catch up to me and we can share strategies. \nI hope I'll be there to meet you.",
+                    "Item1": "I took a bad fall. REAL bad. Right into a hole and couldn't climb or dig out of with my injuries. But I made it out with these bits of scrap metal, and want to let others know this, too. \n\nIts the cavern walls! Nothing I've found- even dynamite -seems to be able to penetrate the outer boundaries of the caverns. But they are uneven, and if you stack enough bits of scrap metal on top of each other, you can wedge them in these tiny gaps and make an entire scrap foothold. When I was bleeding out in that dark hole, I used my collected debris to make a sort of staircase to escape and find emergency supplies.\n\nI hope you never wind up in that situation, though. Maybe you could use this trick to protect you from injury in the first place? Who knows what other nasty things are in here with us. \n\nMaybe you'll catch up to me and we can share strategies. \nI hope I'll be there to meet you.",
                 "Item2": "",
                 "Item3": "milky"
             },
-            
             {
                 "Item1": "Estou me sentindo sozinho... então decidi me distrair:\nEncontrei uma espécie de fax em miniatura que consegui esmagar e tirei as folhas de papel. Depois peguei um palito e espremi uma das frutas brilhantes nele. Virou um pincel e uma tela de desenho! Se você soubesse... Comecei a desenhar realidades alternativas onde somos livres e vivemos em paz juntos; sem aqueles cientistas escrotos... Fiquei tão feliz que chorei um pouco.\nMas agora preciso ir: estou com fome! Talvez se nos encontrarmos, eu desenhe você também...? Fiquei muito boa em usar o \"pincel\". Vou tentar ensinar os outros a desenhar também...",
                 "Item2": "",
                 "Item3": "milky"
             },
-            
             {
-                "Item1": "I'm not very strong, so I've been hoping to team up with others. We'd have a much higher chance of survival that way, but nobody I've asked is interested. Everyone is scared and some of us are dangerous. There are so many traps that it's impossible to travel in large groups. I know I'm going to die for a completely stupid reason...\n\nHumans are so cruel. I can't understand it.",
+                    "Item1": "I'm not very strong, so I've been hoping to team up with others. We'd have a much higher chance of survival that way, but nobody I've asked is interested. Everyone is scared and some of us are dangerous. There are so many traps that it's impossible to travel in large groups. I know I'm going to die for a completely stupid reason...\n\nHumans are so cruel. I can't understand it.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "(The note is crumpled up and crushed, as if it was meant to be thrown away.)\n<>\nmy friend they... i think they killed themselves. after another bad fall i tried fixing up their legs but they kept telling me to fuck off. they kept shooing me away like some sort of fly, telling me to leave them alone. i didnt get it. i left to grab some of the plants here to try and bandage them up but... when i came back they had another wound. one on their arm. i still remember what it looked like, it was bad, practically ripped apart. i tried to use the plants i found to fix up the new wound but they kept pushing me away. their eyes were... looked just... empty. i told them to fucking stop and just let me help but they didnt respond. i tried to help a couple more times and theyd shove me away until they just... stopped. i remember seeing their body relax, i think thats when they stopped breathing. i cant get that image out of my head...\n<>\ndid... did i do something wrong? i swear i didnt... what did i do wrong? why did they do that? i... i didnt do anything. i dont understand, i dont want to die... i dont... i...\n<>\n...\n<>\nhaha...\n<>\nits so lonely in here.\n<>\n(You notice faint, dried tear drops and dried blood riddled among the wrinkled up note.)",
+                    "Item1": "(The note is crumpled up and crushed, as if it was meant to be thrown away.)\n<>\nmy friend they... i think they killed themselves. after another bad fall i tried fixing up their legs but they kept telling me off. they kept shooing me away like some sort of fly, telling me to leave them alone. i didnt get it. i left to grab some of the plants here to try and bandage them up but... when i came back they had another wound. one on their arm. i still remember what it looked like, it was bad, practically ripped apart. i tried to use the plants i found to fix up the new wound but they kept pushing me away. their eyes were... looked just... empty. i told them to stop and just let me help but they didnt respond. i tried to help a couple more times and theyd shove me away until they just... stopped. i remember seeing their body relax, i think thats when they stopped breathing. i cant get that image out of my head...\n<>\ndid... did i do something wrong? i swear i didnt... what did i do wrong? why did they do that? i... i didnt do anything. i dont understand, i dont want to die... i dont... i...\n<>\n...\n<>\nhaha...\n<>\nits so lonely in here.\n<>\n(You notice faint, dried tear drops and dried blood riddled among the wrinkled up note.)",
                 "Item2": "",
-                "Item3": "milky"
+                "Item3": "experiment"
             },
-            
             {
                 "Item1": "(Há gráficos coloridos no papel e não parece ser manuscrito)\n<>\nSopa! Experimente nossa Panela Especial - basta colocar a carne e os ingredientes e deixar cozinhar em fogo baixo. Não se preocupe. Você vai concordar que o sabor vale cada centavo. Pode ser armazenada por até 737 anos!",
                 "Item2": "",
@@ -4216,13 +4521,11 @@
                 "Item2": "",
                 "Item3": "experiment"
             },
-            
             {
-                "Item1": "i dont like not knowing what to do. back at home they would always tell me. play this game, be quiet when a human is talking, get stabbed by these pokey things.\nnow im supposed to complete this mission but i dont know how to do it. im thirsty and i hurt my leg but im also really dirty and cold and i have no idea where to go other than down.\ni guess ill try to stop what's going to kill me the fastest. i hope it works.",
+                    "Item1": "i dont like not knowing what to do. back at home they would always tell me. play this game, be quiet when a human is talking, get stabbed by these pokey things.\nnow im supposed to complete this mission but i dont know how to do it. im thirsty and i hurt my leg but im also really dirty and cold and i have no idea where to go other than down.\ni guess ill try to stop what's going to kill me the fastest. i hope it works.",
                 "Item2": "",
                 "Item3": "experiment"
             },
-            
             {
                 "Item1": "as luzes vermelhas que piscam sao armadilhas de espinho. cuidado com elas. por favor. por favor. eu vi de longe alguem andando em uma, e eu só ouvi um grito e silencio depois. fiquem seguros",
                 "Item2": "",
@@ -4259,7 +4562,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "Os cientistas fazem coisas estranhas. Você jamais deverá acreditar que eles são legais.\nMas podes acreditar que eles o manterão vivo.<>\nUma vez quebrei o braço e eles o \"moldaram\". Não gostei nem um pouco. Era pesado e impediu meu braço de se mexer. Parecia que eles fizeram com um propósito pior, e me fizeram usar aquilo por muito tempo<>\nUm dia eles tiraram e meu braço tinha melhorado.<>\nOs cientistas deixaram pior, e então ficou melhor.<>\n\nAcho que eles fizeram algo parecido com a cabeça do Jumper.\nJumper vivia gritando e chorando muito. Um dia ele se machucou, e os cientistas o levaram<>\nJumper voltou. Ele não chorava mais. Ele não falava mais. Ele parecia dormir o tempo todo. Sua cabeça está como meu braço estava. Não consigo ver nenhum \"molde\" ao redor, e seu comportamento me preocupa, ao menos ele não tenta se machucar mais. Espero que os cientistas desfaçam o que fizeram assim que a cabeça do Jumper estiver consertada.<>\n\nEu sinto falta dele...",
+                "Item1": "Os humanos fazem coisas estranhas. Você jamais deverá acreditar que eles são legais.\nMas podes acreditar que eles o manterão vivo.<>\nUma vez quebrei o braço e eles o \"moldaram\". Não gostei nem um pouco. Era pesado e impediu meu braço de se mexer. Parecia que eles fizeram com um propósito pior, e me fizeram usar aquilo por muito tempo<>\nUm dia eles tiraram e meu braço tinha melhorado.<>\nOs cientistas deixaram pior, e então ficou melhor.<>\n\nAcho que eles fizeram algo parecido com a cabeça do Jumper.\nJumper vivia gritando e chorando muito. Um dia ele se machucou, e os cientistas o levaram<>\nJumper voltou. Ele não chorava mais. Ele não falava mais. Ele parecia dormir o tempo todo. Sua cabeça está como meu braço estava. Não consigo ver nenhum \"molde\" ao redor, e seu comportamento me preocupa, ao menos ele não tenta se machucar mais. Espero que os cientistas desfaçam o que fizeram assim que a cabeça do Jumper estiver consertada.<>\n\nEu sinto falta dele...",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -4295,9 +4598,8 @@
                 "Item2": "",
                 "Item3": "milky"
             },
-			
             {
-                "Item1": "Curious, I attempted to traverse in a prone position.\n<>\nThe utility was unexpected. Not only does it allow one to rinse off contaminants in shallow puddles and squeeze through narrow gaps, but remarkably, even crawling over scattered glass shards resulted in no injury.\n<>\nHowever, complacency is dangerous. I misjudged a slight drop and injured myself. \n<>\nScuttling around like that... I must have looked just like one of those \"worms\" I heard about.",
+                    "Item1": "Curious, I attempted to traverse in a prone position.\n<>\nThe utility was unexpected. Not only does it allow one to rinse off contaminants in shallow puddles and squeeze through narrow gaps, but remarkably, even crawling over scattered glass shards resulted in no injury.\n<>\nHowever, complacency is dangerous. I misjudged a slight drop and injured myself. \n<>\nScuttling around like that... I must have looked just like one of those \"worms\" I heard about.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4307,17 +4609,16 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "It hurts me to admit, but the frailty of my kind cannot be denied. Luckily, I have found a wonderful container that outright nullifies the weight of most items, allowing me to carry more supplies than I'd normally be able to.\nIt runs on batteries, and that worries me. I am not sure what will happen once the power runs out, so I'll check it now, to be safe.<>\nI don't want it to become heavy mid-jump. I have an almost dead battery on me.\nTime to see how the bag behaves once its power runs out.\n\n(The rest of the note is unreadable; whatever text was written below is covered up by a copious amount of dried blood.)",
+                    "Item1": "It hurts me to admit, but the frailty of my kind cannot be denied. Luckily, I have found a wonderful container that outright nullifies the weight of most items, allowing me to carry more supplies than I'd normally be able to.\nIt runs on batteries, and that worries me. I am not sure what will happen once the power runs out, so I'll check it now, to be safe.<>\nI don't want it to become heavy mid-jump. I have an almost dead battery on me.\nTime to see how the bag behaves once its power runs out.\n\n(The rest of the note is unreadable; whatever text was written below is covered up by a copious amount of dried blood.)",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "Not even out of this rocky hellscape, and I already feel like death is near,\nAll they gave me was a shitty torch that didnt even last an hour; not even any safety gear to help cushon these falls i've been taking.\n\nFUCK ME, I feel like a ball from one of those gambling machines I would see those humans using!\n\nI think I might be slowly dying, ever since the last fall, I've been feeling pretty heavy headed, I feel tired; but I feel if i sleep, I will die.\n\nGod save me.\nFUCK, man.\nI really don't want to die, not like this..\nThough what even is the point of all this?\nI don't even have a name for myself, just a tag..\nFuck...",
+                    "Item1": "Not even out of this rocky hellscape, and I already feel like death is near,\nAll they gave me was a shitty torch that didnt even last an hour; not even any safety gear to help cushon these falls i've been taking.\n\nFUCK ME, I feel like a ball from one of those gambling machines I would see those humans using!\n\nI think I might be slowly dying, ever since the last fall, I've been feeling pretty heavy headed, I feel tired; but I feel if i sleep, I will die.\n\nGod save me.\nFUCK, man.\nI really don't want to die, not like this..\nThough what even is the point of all this?\nI don't even have a name for myself, just a tag..\nFuck...",
                 "Item2": "",
                 "Item3": "milky"
 			}
         ],
-
         [
             {
                 "Item1": "ugh. é tao quente aqui. preciso mesmo espacear meus movimentos e ser cuidadoso pra nao acabar caindo duro do calor. descobri que mergulhar nas piscinas d'agua ajuda... talvez ate as marrons se eu estiver desesperado.",
@@ -4325,22 +4626,22 @@
                 "Item3": "experiment"
             },
 			{
-                "Item1": "i cant anymore. why.\neveryone is dead\ni cant.\ni want this to stop\ni cant\ni want freedom\nwhy\ncant i. i dont want to see any more of this. i've seen too many bad things. im so sick.\nmy leg is fucked. blown up by a mine\nmy hand, the right one, is also killing me really hard\ni want to put everything to an end\neverything is misery\ni cannot anymore\nin a bit ill claw my artery out and turn into another corpse for you to have a glance at - as long as they hadnt eaten me by the time you get here.\n\nthank you for everything. goodbye",
+                    "Item1": "i cant anymore. why.\neveryone is dead\ni cant.\ni want this to stop\ni cant\ni want freedom\nwhy\ncant i. i dont want to see any more of this. i've seen too many bad things. im so sick.\nmy leg is fucked. blown up by a mine\nmy hand, the right one, is also killing me really hard\ni want to put everything to an end\neverything is misery\ni cannot anymore\nin a bit ill claw my artery out and turn into another corpse for you to have a glance at - as long as they hadnt eaten me by the time you get here.\n\nthank you for everything. goodbye",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "The vines spread around the area are surprisingly climbable. The thin ones less so, but you can use the large ones as natural ladders. Definitely saved me a few fractured legs.",
+                    "Item1": "The vines spread around the area are surprisingly climbable. The thin ones less so, but you can use the large ones as natural ladders. Definitely saved me a few fractured legs.",
                 "Item2": "Sprites/noteDrawings/sandvine",
                 "Item3": "milky"
             },
             {
-                "Item1": "Today I happened upon a door for which unlocking was contingent upon the insertion of some scrap. I did not possess any on my person; however, I was fortunately equipped with a laser-action drill, which made quick work of the surrounding walls. Inside, I obtained an electronic device on which some exquisite music had been stored. I listen to it from time to time.",
+                    "Item1": "Today I happened upon a door for which unlocking was contingent upon the insertion of some scrap. I did not possess any on my person; however, I was fortunately equipped with a laser-action drill, which made quick work of the surrounding walls. Inside, I obtained an electronic device on which some exquisite music had been stored. I listen to it from time to time.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "The oil pools on this planet are definitely unnatural. Trying to understand their origin, I crawled through one of the empty pipes only to find a tough metallic screen that stopped me from progressing.\nThere was a sign behind it that said \"Waste Disposal Source\". I drilled through the pipe to go around the screen, but the pipe stopped abruptly. It has to be connected to something from our old home, but I don't understand how.\n\nThat sign keeps worrying me. Did the humans want to dispose of us too?",
+                    "Item1": "The oil pools on this planet are definitely unnatural. Trying to understand their origin, I crawled through one of the empty pipes only to find a tough metallic screen that stopped me from progressing.\nThere was a sign behind it that said \"Waste Disposal Source\". I drilled through the pipe to go around the screen, but the pipe stopped abruptly. It has to be connected to something from our old home, but I don't understand how.\n\nThat sign keeps worrying me. Did the humans want to dispose of us too?",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4350,133 +4651,219 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "tons of bushes around this place, though i cant say ive seen any that are alive. i think theyre pretty useful for making ropes and cushioning falls, but they also tend to hide traps...",
+                    "Item1": "tons of bushes around this place, though i cant say ive seen any that are alive. i think theyre pretty useful for making ropes and cushioning falls, but they also tend to hide traps...",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "its so hot down here. i feel like i am just rushing from lifepod to lifepod. i don't even want to open the drop capsules, those heat me up too. yet my dune friend stimpy seems to not mind too much. are they just not complaining, or is all that skin cooling them down?",
+                    "Item1": "its so hot down here. i feel like i am just rushing from lifepod to lifepod. i don't even want to open the drop capsules, those heat me up too. yet my dune friend stimpy seems to not mind too much. are they just not complaining, or is all that skin cooling them down?",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "help me    stepped on   exploding plate   im  in so much   pain  help    help me  please   im passi n g    o",
+                    "Item1": "help me    stepped on   exploding plate   im  in so much   pain  help    help me  please   im passi n g    o",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i hear ringing.. my head hurts so, so much, i heard a loud beeping sound as i descended down a bit and then there was that loud banging sound     i dont know where it came from . i can't see that much further but there is something very dangerous in these caves, be careful with big open spaces",
+                    "Item1": "i hear ringing.. my head hurts so, so much, i heard a loud beeping sound as i descended down a bit and then there was that loud banging sound     i dont know where it came from . i can't see that much further but there is something very dangerous in these caves, be careful with big open spaces",
                 "Item2": "",
                 "Item3": "experiment"
             }
         ],
-
         [
             {
                 "Item1": "Parece haver uma grande quantidade de resíduos radioativos nesta área. Embora isso torne difícil nossa exploração, devemos lembrar que podemos receber pequenas doses de radiação ionizante sem muitos problemas, desde que a exposição não dure muito tempo. Ouvi falarem sobre já estarmos cheios de câncer.",
 				"Item2": "",
                 "Item3": "milky"
             },
-			
             {
-                 "Item1": "Something is wrong with the environment here. In the air, I can feel it- those dilapidated fuel cells make my fur stand on end. My skin flakes when I pass them, and my body burns. Even when I can't see them, I can feel that uneasy sensation building in the air around them. I've had to use my rope spool and even claw through the rocks here to find routes around them, but even then, there are purple stones that seem to carry the same effect, just in different doses.",
+                    "Item1": "Something is wrong with the environment here. In the air, I can feel it- those dilapidated fuel cells make my fur stand on end. My skin flakes when I pass them, and my body burns. Even when I can't see them, I can feel that uneasy sensation building in the air around them. I've had to use my rope spool and even claw through the rocks here to find routes around them, but even then, there are purple stones that seem to carry the same effect, just in different doses.",
                 "Item2": "Sprites/noteDrawings/wasteland",
                 "Item3": "milky"
             },
             {
-                "Item1": "one of the others I found fell onto a bunch of those purple rocks. i managed to pull them away but both of our coats are shedding. i don't know what's happening.<>\n\n\n\n\ni ate one of the popping fruits by a life pod… things stopped hurting. but when they bit into one they started throwing up blood just minutes later. they're not breathing. what was different? they looked the same. am i just lucky to be alive? why didn't they get better.",
+                    "Item1": "one of the others I found fell onto a bunch of those purple rocks. i managed to pull them away but both of our coats are shedding. i don't know what's happening.<>\n\n\n\n\ni ate one of the popping fruits by a life pod… things stopped hurting. but when they bit into one they started throwing up blood just minutes later. they're not breathing. what was different? they looked the same. am i just lucky to be alive? why didn't they get better.",
                 "Item2": "Sprites/noteDrawings/wasteland",
                 "Item3": "milky"
             },
             {
-                "Item1": "The button next to the trigger on a pistol is the magazine release, whereas on a shotgun, it's typically the safety. Also, whenever you work the action (like pulling the bolt), it ejects the round in the chamber. Last time I did that, I lost a buckshot - pretty unfortunate.",
+                    "Item1": "The button next to the trigger on a pistol is the magazine release, whereas on a shotgun, it's typically the safety. Also, whenever you work the action (like pulling the bolt), it ejects the round in the chamber. Last time I did that, I lost a buckshot - pretty unfortunate.",
                 "Item2": "Sprites/noteDrawings/pistol",
                 "Item3": "milky"
             },
             {
-                "Item1": "drinkable water here is really scarce, and i dont think that tar-looking stuff is safe. some of the vegetation here has enough water content to be crushed into a juice, although the taste isnt very pleasant. it beats being thirsty though",
+                    "Item1": "drinkable water here is really scarce, and i dont think that tar-looking stuff is safe. some of the vegetation here has enough water content to be crushed into a juice, although the taste isnt very pleasant. it beats being thirsty though",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i steped in another one of theose damned coils again today, it was hidden in a bush, I noticed it too late to pull back.\n<>\nit was horrible, like i was being cooked from the inside, even after the initial shock. cold drinks seem to help though, i had to drink most of my rationed milk, and some apple juice, not sure if my brain would have survived without it. evrything is still spinning, could barely even make it back to my pod.",
+                    "Item1": "i steped in another one of theose damned coils again today, it was hidden in a bush, I noticed it too late to pull back.\n<>\nit was horrible, like i was being cooked from the inside, even after the initial shock. cold drinks seem to help though, i had to drink most of my rationed milk, and some apple juice, not sure if my brain would have survived without it. evrything is still spinning, could barely even make it back to my pod.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "I do not have any water left in my bottle in this desert. I was very dirty and thirsty. I stepped in a puddle I found to drink it and take a bath, then all the dirt made it cloudy. I couldnt drink it anymore. I should have tossed my bottle in. I need water...",
+                    "Item1": "I do not have any water left in my bottle in this desert. I was very dirty and thirsty. I stepped in a puddle I found to drink it and take a bath, then all the dirt made it cloudy. I couldnt drink it anymore. I should have tossed my bottle in. I need water...",
                 "Item2": "Sprites/noteDrawings/waterbottle",
                 "Item3": "experiment"
             }
         ],
-		
         [
             {
                 "Item1": "duno ver grande monstro. motivado a matar      duno perseguir monstro e matar e comer . otima comida . grandioso caçador de besta !",
                 "Item2": "",
                 "Item3": "dune"
             },
-			
             {
                 "Item1": "DUNO ACHAR AMIGO NOVO<>\nDUNO EXCITADO QUNADO AMIGO PROXIMO<>\nAMGOO PARECIDO DUNO.<>\nAMIGO FORTI E GRANDE.<>\nDUNO FORTI E GRANDE<>\nAMIGO CAVA RAPIDO.<>\nDUNO CAVR RAPIDO TAMBE<>\nAMIGO MORDE BRAÇO DUNO FORA.<>\nDUNO MORDE BRAÇO DE AMIGO<>\nAMIGO FOJE.<>\nDUNO CAÇA<>\nENCONTRAR DE NOV",
                 "Item2": "",
                 "Item3": "dune"
             },
             {
-                "Item1": "i... i felt myself dying. it was all so sudden, there was blood everywhere and i couldnt keep my eyes open. i was scared... but i didnt want to give up. i found so many cool things in this place and i feel like ive made so much progress in this mission. im not gonna stop here. i will make it through all of this shit. i will see my friends again.",
+                "Item1": "eu... eu senti a morte. foi tudo muito de repente, tinha sangue por tudo e eu não conseguia manter os olhos abertos. estava muito assustado... mas eu não queria desistir. eu encontrei tanta coisa legal aqui e sinto que ja fiz um bom progresso na missão. Nao vou parar aqui. vou passar por tudo isso e ver meus amigos de novo.",
                 "Item2": "Sprites/noteDrawings/laststand",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i didnt think that monster would find me again, but it did. it knew my face, my mistakes... but not my rifle. when it finally burst open, i saw that pickaxe. i saw the etching i scratched into it, the same as the etching they scratched into my pickaxe. i saw the chip from when they tried to dig up some titanium to gift me. and then, suddenly, i saw it happening again. the smell of grating steel. the tremours of the ground. the sound of dismembering flesh. the taste of sweat and blood, as i tried to run, dropping the food i was bringing back to the pod-\n<>\nam i supposed to feel at ease now? or am i just bargaining for peace, to be broken when another finds me?",
+                "Item1": "não achei que aquele monstro me encontraria novamente, mas encontrou. conhecia meu rosto, meus erros... mas não meu rifle. quando suas tripas finalmente se espalharam eu vi, aquela picareta. eu vi, as marcas que eu tinha deixado nela, da mesma forma que ele tinha feito na minha picareta. eu vi seu chip, no momento em que ele tentava cavar titanio para me presentear. foi ai, que eu relembrei tudo de novo. o cheiro de aço sendo raspado. o tremor do chão. o som da carne sendo arrancada. o gosto do sangue e suor ao tenta fugir, soltando a comida que trazia para a capsul-\n<>\n eu deveria me sentir seguro agora? ou eu só estou comprando um tempo em paz, que sera quebrado assim que outro me achar?",
                 "Item2": "Sprites/noteDrawings/thornback",
                 "Item3": "experiment"
             },
             {
-                "Item1": "I want to leave this place, I am terrorized, I don't have words to describe what I just experienced, it was a big, horrid creature with hundreds of teeth, ready to devour me, it chase after me for what I've felt hours, it destroys everything on its path. It stopped only after I've went so far away that I was completely lost, it drained my food, water, tools, even my own sanity, I just want this to end.",
+                "Item1": "Eu quero sair deste lugar, me sinto aterrorizado, não tenho palavras para descrever o que acabo de experienciar, era uma criatura grande e horrível com centenas de dentes, pronta para me devorar, me perseguiu pelo o que pareceu horas, conseguindo destruir tudo em seu caminho. Só desistiu de mim quando eu mesmo já não sabia onde havia chegado, completamente perdido, drenou minha água, comida, ferramentas, até minha sanidade. Como eu quero que isso termine.",
                 "Item2": "Sprites/noteDrawings/thornback",
                 "Item3": "milky"
             }
         ],
-		
         [
             {
                 "Item1": "muito frio aqui. tenho que tentar o meu melhor pra nao ficar molhado, senao estarei em encrenca. sortudo eu, tem um monte dessas plantas de esporo que aquecem um pouco, alem dessas maquinas estranhas. corra nessas quando puder, digo eu. melhor nao ser pego morto no frio.",
                 "Item2": "Sprites/noteDrawings/xaloris",
                 "Item3": "experiment"
             },
-			
             {
                 "Item1": "duno frio. calor d cavar nao quente suficiente. duno comer amigo peludo. devorado cru. duno tem pelo. pelo quente para duno. duno cheio e quntinho. duno feliz nao frio",
                 "Item2": "",
                 "Item3": "dune"
 			},
             {
-                "Item1": "its cold down here, i keep having to duck into lifepods to warm up… although sometimes theres these little humming stoves that i can stop by for warmth, i just need to be careful not to touch them for too long, they make me feel sick. just enough to warm up and then keep going. if i were you id play it safe and look out for anything digging towards me when im resting. i can hear stuff tunneling around me.",
+                "Item1": "é frio aqui embaixo, preciso ficar constantemente procurando capsulas para me aquecer... tambem tenho encontrado um tipo de forno pequeno e barulhento que emite calor, me aqueço neles com cuidado porque me deixam enjoado. Fico so o suficiente para me manter andando. se eu fosse voce ficaria atento a qualquer barulho diferente enquanto descanço. eu escuto coisas cavando ao meu redor.",
                 "Item2": "",
                 "Item3": "experiment"
             }
         ],
-		
         [
             {
                 "Item1": "É estranho como chove aqui. Eu nunca tinha visto chuva de verdade antes... É até bonita, mesmo sendo meio suja. Ainda me pergunto como é possível haver uma concentração tão alta de água aqui embaixo. Talvez a água da calota de gelo acima esteja pingando até aqui?",
                 "Item2": "",
                 "Item3": "milky"
 			},
-			
+			{
+                    "Item1": "found some weird bouncey things. they sent me flying... but i could keep my feet pointed down. its pretty fun. maybe could be useful sometimes, too. kind of dangerous maybe, but what isnt down here.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
             {
-                "Item1": "I dont know what hit me but I cant feel my leg anymore, all I can see is a tangled mess of muscle bone and blood\nmy body is screaming for the agony to end \nthe only thing I have is this blue device on my chest. I was told by the trader I bought it from that it should only be used in emergencies.\nThe pain is not unbearable anymore, but the light is blinking now. I dont know how long I have left. will the darkness return when this thing runs out? I dont want to fade away...",
+                    "Item1": "I dont know what hit me but I cant feel my leg anymore, all I can see is a tangled mess of muscle bone and blood\nmy body is screaming for the agony to end \nthe only thing I have is this blue device on my chest. I was told by the trader I bought it from that it should only be used in emergencies.\nThe pain is not unbearable anymore, but the light is blinking now. I dont know how long I have left. will the darkness return when this thing runs out? I dont want to fade away...",
                 "Item2": "",
                 "Item3": "milky"
             }
         ],
-		
         [
             {
-                "Item1": "(É um pedaço de papel completamente vazio.)",
+                    "Item1": "every single one of these growths here seems like it has some kind of effect... i dont know what exactly. its unpredictable. but there are patterns to it. some are safe, some arent, some are helpful. i'll try to write things down as i figure it out...",
                 "Item2": "",
-                "Item3": ""
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "..ugh. okay. the yellow ones HURT. feels kind of similar to the coils i found a few hours back... they usually have some kind of weird zappy field around them... don't touch them. its not good. for your body, at least. i noticed it did somehow recharge all my batteries after touching...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "this geiger counter i have goes crazy when around one of the green growths. some kind of \"radiation\", whatever that is. im pretty sure its bad for you. avoid being near those if you can.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "noticed some of these are weirdly fragile. they shatter when i touch them at all. youll see they look really brittle, there's cracks all over them. weirdly enough, this seems to also appear alongside some of the other types ive seen... wonder if this is the case for all of them.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "noticed a lot of the growths either push me away or pull me in. you can feel some kind of force going through you when that happens. could prove useful sometimes",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "gosh. i am SO glad i had an ice pack on me. it seems like the foggy, shimmery ones rapidly heat things up around them... including me. i wouldnt be surprised if some did the opposite. i heard this weird sound coming from them too...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "make sure you have some antibiotics n such. i think the purple ones mess with your immune system. they have a vague purple haze around them... i sat next to one for a while to rest, and noticed my vital signs dropping on my chip. seems like some kind of sepsis response. i think i'll be fine",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "okay. the shakey ones look really scary... they aren't. they send you flying... but, like, i can keep my feet pointed down the entire time. kind of similar to the bouncey things in the previous area i was in.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "...\n<>...\n<>...\n<>the flying things. i dont know how they did that. holy... oh god. im fine now, but...<>\n\nhow to say this... theres weird sharp flying things. they make really weird loud noises... almost as if theyre laughign at me. they wind up sometimes and charge at me, trying to stab me. they got me once or twice, but... whenever they did that, they got stuck in the ground and i hit it a few times until it... uh... not sure... what happened, but it was gone. i think it came from one of the growths, but it was kind of moving.<>\n\ni got something after it disappeared... maybe its useful? it feels like its growing into something, ill wait and see.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "okay. good news and bad news. the thing i kept around after killing one of the flying things... it... grew into. more of the flying things. two of them... from one... they seemed to be slower in a group though... like, they were... giving me a chance to fight back? weird.<>\n\ni ate the cores i got from them, i didnt have any other ideas for what to do with it... it was. pretty good, actually. and it seems like it didnt morph into anything this time. maybe i could do this every once in a while to get more and more food? i cant exactly find much of it down here anyway",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "no clue where i am. i think i touched a weird growth and got... sent. somewhere. safely, though. still, no clue where. all i remember is it looking a bit more see-through than usual. almost as if i could see the place i ended up in...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "noticed a lot of these things drip liquids. doesnt seem like they do much else though. water source, maybe?",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "touched a gray one, it flashed white, made a weird noise. didnt feel much afterwards... until i tried using my laser drill. thing was out of power, when i was sure it wasnt a moment ago. checked the rest of the batteries i saved up, same story. weird. avoid. might be worth throwing myself at one of the zappy ones to recharge them...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "eyes hurt. next to a super super bright one. doesnt seem like its doing anything other than... well.. blinding me. dont like it, but i prefer that over whatever other things they can do.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "the reddish ones blow up. run when it ticks down. i'm fine... god, i sure as hell almost wasn't.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "found a weird hazy one. touched it, and i couldnt see for a bit... but when i opened my eyes, i saw some rope and a bag laying infront of me. the growth was gone. i cant complain. doesnt seem like it did anything else.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "you can touch the green ones. theyre good. i liked that a lot. hehe. uh. the not geiger counter activating green ones. the good ones seem like they bounce up a bit. oh... uh... huh... i liked the green one a lot. i like the green one. you can touch it. i like the green one.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "found a burning one. touched it out of curiosity. don't do that. it was hot.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                    "Item1": "huh. i was walking on one of the growth and it looked normal, but it suddenly made a sound and became different. like. it switched places? weird.",
+                "Item2": "",
+                "Item3": "experiment"
             }
         ]
 	],
@@ -4498,11 +4885,11 @@
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-08-0002]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-01 \"Experiment\"\nCOUNT: [Undefined]\n- The final prototype of our first giant breakthrough in bioengineering.\nA refined DNA-Spliced combination of one of our testing rats and an employee along with their pet.\nCanine. Small and relatively frail. Cowardly and fearful. Not very useful as anything other than fodder.\n<>\nENTITY NAME: SAW-02 \"Orange\"\nCOUNT: 52082\n- A mutated version of the SAW-01. Large, brutish, dumb and with four arms. Good for dumb labor and any physically strenuous testing where death is inadvised.\n<>\nENTITY NAME: SAW-03 \"Milky\"\nCOUNT: 32184\n- Mutated SAW-01 spliced with unspecified marine DNA. Tiny, arrogant but intelligent. Excellent vision properties. Good for mental labor.\n<>\nENTITY NAME: SAW-04 \"Leapy\"\nCOUNT: 2046\n- Mutated SAW-01 spliced with moss DNA. It took a while to get this one in a somewhat functioning state. Their comparitively quick onset of cancer renders them neigh useless for labor. Also a flight risk.\n<>\nENTITY NAME: SAW-05 \"Chompy\"\nCOUNT: 6084\n- Mutated SAW-03 spliced with \"Shark\" DNA. Carnivorous and aquatic. No fur. Oddly friendly. Good for solving conflicts when violence is undesirable. Their large tail encumbers them heavily, confirming our long standing theories.\n- Sharks were a species of predatory marine fish. They are extinct, but their DNA was kept for scientific purposes.\n<>\nENTITY NAME: SAW-06 \"Roza\"\nCOUNT: 7848\n- Mutated SAW-01 spliced with \"Snow Strider\" DNA. Oddly low body temperature. Volatile and prone to irritation, but docile when not threatened. Encumbering tail. Has conventionally feminine characteristics, likely as a result of the Snow Strider mix interacting with earth DNA.\n- See <corrupt:0xFFF853> for further detail on \"Snow Stiders\".\n\n[PAGE 1 OF 2]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-08-0002]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-01 \"Experiment\"\nCOUNT: [Undefined]\n- The final prototype of our first giant breakthrough in bioengineering.\nA refined DNA-Spliced combination of one of our testing rats and an employee along with their pet.\nCanine. Small and relatively frail. Cowardly and fearful. Not very useful as anything other than fodder.\n<>\nENTITY NAME: SAW-02 \"Orange\"\nCOUNT: 52082\n- A mutated version of the SAW-01. Large, brutish, dumb and with four arms. Good for dumb labor and any physically strenuous testing where death is inadvised.\n<>\nENTITY NAME: SAW-03 \"Milky\"\nCOUNT: 32184\n- Mutated SAW-01 spliced with unspecified marine DNA. Tiny, arrogant but intelligent. Excellent vision properties. Good for mental labor.\n<>\nENTITY NAME: SAW-04 \"Leapy\"\nCOUNT: 2046\n- Mutated SAW-01 spliced with moss DNA. It took a while to get this one in a somewhat functioning state. Their comparitively quick onset of cancer renders them nigh useless for labor. Also a flight risk.\n<>\nENTITY NAME: SAW-05 \"Chompy\"\nCOUNT: 6084\n- Mutated SAW-03 spliced with \"Shark\" DNA. Carnivorous and aquatic. No fur. Oddly friendly. Good for solving conflicts when violence is undesirable. Their large tail encumbers them heavily, confirming our long standing theories.\n- Sharks were a species of predatory marine fish. They are extinct, but their DNA was kept for scientific purposes.\n<>\nENTITY NAME: SAW-06 \"Roza\"\nCOUNT: 7848\n- Mutated SAW-01 spliced with \"Snow Strider\" DNA. Oddly low body temperature. Volatile and prone to irritation, but docile when not threatened. Encumbering tail. Has conventionally feminine characteristics, likely as a result of the Snow Strider mix interacting with earth DNA.\n- See <corrupt:0xFFF853> for further detail on \"Snow Stiders\".\n\n[PAGE 1 OF 2]",
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-19-3953]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-07 \"Voyager\"\nCOUNT: 3604\n- Mutated SAW-01 with spliced feline DNA. Prominent asshole. They hate other species for whatever reason, but hold us in high regard. Highly agile, but they aren't much of a flight risk. They like hiding, much to the detriment of our testing procedures.\n<>\nENTITY NAME: SAW-08 \"Baron\"\nCOUNT: 73\n- Mutated SAW-02 spliced with <corrupt:0xFFDED0> DNA. Towering. About twice the size of a human being. Extremely powerful, yet emotionally stable. While not a flight risk, keeping them under tighter protocol is recommended. Their size makes them hard to both clone and reproduce - avoid killing if possible.\n<>\nENTITY NAME: <corrupt:0xFFFFEA>\nCOUNT: 3067\n- Mutated SAW-03 spliced with insectoid DNA. Hollow bones. Oddly bright pink fur color. Has wing-like appendages and insectoid features. They tend to act like pricks, though seemingly not maliciously. Their look seems to attract the gaze of other sawians.\n<>\nENTITY NAME: SAW-10 \"Crystal\"\nCOUNT: 2360\n- Mutated SAW-06 spliced with lizard DNA. Has hard, crystal-like growths all over it. Long, extremely sticky tongue, durable enough to hold their body weight. They seem to enjoy hanging from ceilings for some reason. Mental testing is yet to be done, but they seem somewhat arrogant. Same feminine features as SAW-06.\n<>\nENTITY NAME: SAW-11 \"Velvet\"\nCOUNT: 158\n- Mutated SAW-06 spliced with arthropod DNA. Looks conventionally spider-like. Very little testing has been done on them, as usually creep employees out, both via behaviour and physical appearance. Strict protocol is required - an unfortunate janitor is reported to have been seduced into coming in contact with a SAW-11. His half-eaten corpse was found hours later, with visible blood marks around all SAW-11's stored in the same unit.\n<>\nENTITY NAME: SAW-12 \"Dune\"\nCOUNT: 1839\n- Mutated SAW-05 spliced with arthropod DNA. STRICT PROTOCOL IS NECESSARY - Multiple employee and sawian murders have been reported. Only come in contact at a distance and with a lethal weapon. Do not let their appearance deceive you. They have cannibalistic tendencies and neigh-insatiable hunger. Their very poor intelligence only accentuates that fact. A vast majority of their population is planned to be deported to <corrupt:0xFF0011> to ensure continued safety of our employees, as eliminating all of them is not viable.\n<>\nENTITY NAME: SAW-13 \"Shelly\"\nCOUNT: 784\n- Mutated SAW-10 spliced with arthropod DNA. Do not fear their appearance - SAW-10's are generally docile. They lack a mouth and seemingly feed off of the background radiation. They are unable to speak, but seemingly have relatively high intelligence. Employees that know Universal Sign Language are recommended to conduct their testing. Their shell limits their reproduction, but cloning them is still relatively easy. Limit destructive testing if possible.\n<>\n[PAGE 2 OF 2]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-19-3953]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-07 \"Voyager\"\nCOUNT: 3604\n- Mutated SAW-01 with spliced feline DNA. Prominent asshole. They hate other species for whatever reason, but hold us in high regard. Highly agile, but they aren't much of a flight risk. They like hiding, much to the detriment of our testing procedures.\n<>\nENTITY NAME: SAW-08 \"Baron\"\nCOUNT: 73\n- Mutated SAW-02 spliced with <corrupt:0xFFDED0> DNA. Towering. About twice the size of a human being. Extremely powerful, yet emotionally stable. While not a flight risk, keeping them under tighter protocol is recommended. Their size makes them hard to both clone and reproduce - avoid killing if possible.\n<>\nENTITY NAME: <corrupt:0xFFFFEA>\nCOUNT: 3067\n- Mutated SAW-03 spliced with insectoid DNA. Hollow bones. Oddly bright pink fur color. Has wing-like appendages and insectoid features. They tend to act like pricks, though seemingly not maliciously. Their look seems to attract the gaze of other sawians.\n<>\nENTITY NAME: SAW-10 \"Crystal\"\nCOUNT: 2360\n- Mutated SAW-06 spliced with lizard DNA. Has hard, crystal-like growths all over it. Long, extremely sticky tongue, durable enough to hold their body weight. They seem to enjoy hanging from ceilings for some reason. Mental testing is yet to be done, but they seem somewhat arrogant. Same feminine features as SAW-06.\n<>\nENTITY NAME: SAW-11 \"Velvet\"\nCOUNT: 158\n- Mutated SAW-06 spliced with arthropod DNA. Looks conventionally spider-like. Very little testing has been done on them, as usually creep employees out, both via behaviour and physical appearance. Strict protocol is required - an unfortunate janitor is reported to have been seduced into coming in contact with a SAW-11. His half-eaten corpse was found hours later, with visible blood marks around all SAW-11's stored in the same unit.\n<>\nENTITY NAME: SAW-12 \"Dune\"\nCOUNT: 1839\n- Mutated SAW-05 spliced with arthropod DNA. STRICT PROTOCOL IS NECESSARY - Multiple employee and sawian murders have been reported. Only come in contact at a distance and with a lethal weapon. Do not let their appearance deceive you. They have cannibalistic tendencies and nigh-insatiable hunger. Their very poor intelligence only accentuates that fact. A vast majority of their population is planned to be deported to <corrupt:0xFF0011> to ensure continued safety of our employees, as eliminating all of them is not viable.\n<>\nENTITY NAME: SAW-13 \"Shelly\"\nCOUNT: 784\n- Mutated SAW-10 spliced with arthropod DNA. Do not fear their appearance - SAW-10's are generally docile. They lack a mouth and seemingly feed off of the background radiation. They are unable to speak, but seemingly have relatively high intelligence. Employees that know Universal Sign Language are recommended to conduct their testing. Their shell limits their reproduction, but cloning them is still relatively easy. Limit destructive testing if possible.\n<>\n[PAGE 2 OF 2]",
             "Item2": ""
         },
         {
@@ -4518,11 +4905,11 @@
             "Item2": ""
         },
         {
-            "Item1": "[Inventory log 11-34X]\n[On-Site Personnel Retention Measures]\n--------------------------------------------------------<>\nRR-104 Pneumatic Area Access Denier - \"Spike Trap\"\n\nA steel, sharpened rod (180 cm in length, 10 cm in diameter) attached to a launching mechanism, capable of fully extending the spike in 0.3 seconds.\nMeant to deliver disabling piercing wounds, immediately stripping the target of the ability to move. Triggered by a motion sensor.\n\n[Note: This is stupid. Those things can be seen from a mile away, and the launching mechanism requires rearming after a single use. It won’t stop anything but the most dull of escapees. Project discontinued. Trash the supply.]\n--------------------------------------------------------<>\nTG-22 Thermal-guided Projectile Distributor - \"Turret\"\n\nA 9mm caliber rifle attached to <corrupt:0xFB387A> brand mount.\nThe firing mechanism is controlled by a thermal sensor with a range of 100 meters.\nIncludes variants using higher caliber ammo for field use, but the 9mm should be sufficient for now.\n\n[Note: You stuck a gun atop a thermal camera. But it is effective. I’d recommend a higher caliber, given our recently emerged new specimens. This will not do, though. You’ve solved the problem of effectiveness, but its lethality is not a desired feature either. Both the Subjects and employees pose a security risk, but they are also not without value.]\n--------------------------------------------------------<>\nDD-6X1 Acoustic Compliance Enforcement System - \"Sound Cannon\"\n\nA modified directional speaker utilizing high-yield capacitor banks. Designed to enforce rapid compliance through acoustic stimulus.\nExposure causes immediate loss of motor control, mild to medium internal bleeding, and severe pain.\nOutput power listed in restricted documentation only.\n\n[Note: This will do.]",
+            "Item1": "[Inventory log 11-34X]\n[On-Site Personnel Retention Measures]\n--------------------------------------------------------<>\nRR-104 Pneumatic Area Access Denier - \"Spike Trap\"\n\nA steel, sharpened rod (180 cm in length, 10 cm in diameter) attached to a launching mechanism, capable of fully extending the spike in 0.3 seconds.\nMeant to deliver disabling piercing wounds, immediately stripping the target of the ability to move. Triggered by a motion sensor.\n\n[Note: This is stupid. Those things can be seen from a mile away, and the launching mechanism requires rearming after a single use. It won't stop anything but the most dull of escapees. Project discontinued. Trash the supply.]\n--------------------------------------------------------<>\nTG-22 Thermal-guided Projectile Distributor - \"Turret\"\n\nA 9mm caliber rifle attached to <corrupt:0xFB387A> brand mount.\nThe firing mechanism is controlled by a thermal sensor with a range of 100 meters.\nIncludes variants using higher caliber ammo for field use, but the 9mm should be sufficient for now.\n\n[Note: You stuck a gun atop a thermal camera. But it is effective. I'd recommend a higher caliber, given our recently emerged new specimens. This will not do, though. You've solved the problem of effectiveness, but its lethality is not a desired feature either. Both the Subjects and employees pose a security risk, but they are also not without value.]\n--------------------------------------------------------<>\nDD-6X1 Acoustic Compliance Enforcement System - \"Sound Cannon\"\n\nA modified directional speaker utilizing high-yield capacitor banks. Designed to enforce rapid compliance through acoustic stimulus.\nExposure causes immediate loss of motor control, mild to medium internal bleeding, and severe pain.\nOutput power listed in restricted documentation only.\n\n[Note: This will do.]",
             "Item2": ""
         },
         {
-            "Item1": "(The PDA is damaged; the screen is cracked, and some electronics are exposed. With some work, you can get it running.)\n\n[INTERNAL MESSAGE]\n[PROJECT <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nLOCATION: <corrupt:0xFBC00F> Biometrics Division\nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: Mechanical Engineer <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\nMESSAGE ON INTERNAL COMMUNICATION NETWORK\n\n\nFROM: <corrupt:0xFFFFFF>\nTO:  <corrupt:0xFA05F2>\n\nI don't like this one bit. Our main task for this quarter was to develo <corrupt:0xFFF0CE> So why are we back here again. I had already planned a week's vacation with some friends and had to cancel those plans because some m <corrupt:0xFFFFFF> o wait? This current task is also sketchy as hell. I'd understand expanding our new neural platform for betterment of patients, but \"p <corrupt:0xFF0BEA> o is this for? Convicts? I mean our government, even our company wouldn't put this into a civilian package right? Maybe it's for the army? So they can give basic orders directly to soldiers and make sure that people don't leak restricted informations? Even tha <corrupt:0xFBC00F> Anyway looks like we have to find a way of allowing for better information transfer while using our base battery. Actually scratch that, They wanted this addon to be used for control with a lethal failsafe, right? Then we ca <corrupt:0xFFFFFF> s way we'll have two power sources with the ability to destabilize one of them by overcharging. I'll draw something up, let me know whe\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS><>\n\n\n(You hear a “bzzzz” sound and can see faint smoke rising from the device.)",
+            "Item1": "(The PDA is damaged; the screen is cracked, and some electronics are exposed. With some work, you can get it running.)\n\n[INTERNAL MESSAGE]\n[PROJECT <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nLOCATION: <corrupt:0xFBC00F> Biometrics Division\nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: Mechanical Engineer <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\nMESSAGE ON INTERNAL COMMUNICATION NETWORK\n\n\nFROM: <corrupt:0xFFFFFF>\nTO:  <corrupt:0xFA05F2>\n\nI don't like this one bit. Our main task for this quarter was to develo <corrupt:0xFFF0CE> So why are we back here again. I had already planned a week's vacation with some friends and had to cancel those plans because some m <corrupt:0xFFFFFF> o wait? This current task is also sketchy as hell. I'd understand expanding our new neural platform for betterment of patients, but \"p <corrupt:0xFF0BEA> o is this for? Convicts? I mean our government, even our company wouldn't put this into a civilian package right? Maybe it's for the army? So they can give basic orders directly to soldiers and make sure that people don't leak restricted informations? Even tha <corrupt:0xFBC00F> Anyway looks like we have to find a way of allowing for better information transfer while using our base battery. Actually scratch that, They wanted this addon to be used for control with a lethal failsafe, right? Then we ca <corrupt:0xFFFFFF> s way we'll have two power sources with the ability to destabilize one of them by overcharging. I'll draw something up, let me know whe\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS><>\n\n\n(You hear a \"bzzzz\" sound and can see faint smoke rising from the device.)",
             "Item2": ""
         },
         {
@@ -4557,5 +4944,112 @@
             "Item1": "(The PDA is heavily damaged. Countless warnings pop up on the screen, but some of the data is readable...)\n<>\n[Executive Board Meeting 542-23-145C Transcript]\n---------------------------------------------------------------\nLOCATION: Company Headquarters at <corrupt:0xFFFF43>\nDATE: 12-04-[fetch.year(): failed]\n---------------------------------------------------------------<>\n<corrupt:0xFFFFD9>: -you surely realize what we have on our hands here. The Sawians- they… they are our golden ticket! The data we have right now would be enough for a Nobel Prize for every single person in this room!\n\n<corrupt:0xFFFFF7>: Yes. That's nine prizes. If we all agreed to donate the cash from those to [<corrupt:0xFFFBc3>], we'd end up with roughly fifteen million dollars. A drop in a bucket compared to the financial black hole that is your idiotic project!<>\n\n[<corrupt:0xFFFFD9> rises from his chair.]\n\n<corrupt:0xFFFFD9>: IDIOTIC?! IDIOTIC?! WE ARE CREATING LIFE! You are a witness to the infancy of a new intelligent species! Our colleagues would *kill* for such an opportunity mere ten years ago!\n\n<corrupt:0xFFFFF7>: Kill? Sure. Pay what you ask? Hell. No.<>\n\n<corrupt:0xFFFFD9>: Is it always money with you? Fine! We are making money! Even our plushie line is more than enough to cover-\n\n<corrupt:0xFFFFF7>: Pay more than cash, you cretin! The moment this whole affair ends up on some nosy journalist's desk, we will all pay with our *lives.* Hell, our families will be lynched. Besides, the plushies do not require us to keep your colony of… talking rats alive.\n\n<corrupt:0xFFFFD9>: The Sawians are not talking rats! They are a mix of-<>\n\n<corrupt:0xFFFFF7>: OH, EXCUUUSE ME! I meant to say walking tickets to a dematerializer! OUR TICKETS! I am not ending up before the ICC, just because you are a greedy little fu-\n\n<corrupt:0xFA05F2>: Gentlemen. Please.\n\n<corrupt:0xFFFFF7>: I- Ah. Apologies <corrupt:0xFA05F2>.\n\n<corrupt:0xFA05F2>: Doctor <corrupt:0xFFFFD9>. Please make your case. Why are those creatures worth keeping?<>\n\n[Silence. <corrupt:0xFFFFD9> sits down.]\n\n<corrupt:0xFFFFD9>:  I mean... There are so many reasons to pick, I-\n\n<corrupt:0xFA05F2>: Then I trust that you will be able to pick the right one.\n\n<corrupt:0xFFFFD9>:  Uh. Right. Okay. Braingrow! We have Braingrow!\n\n<corrupt:0xFFFFF7>: Yes, the commercially available medicine that one can purchase at the corner store.<>\n\n<corrupt:0xFFFFD9>: No. Not this one. I could bash someone's head straight open. Introduce the frontal lobe to a hammer. Corner store Braingrow won't help here. Ours will have the fellow walking and talking within a WEEK. Without such an ample supply of human-like test subjects, we'd need decades to perfect the nanomachines' operational directives. Twice that for testing.\n\n<corrupt:0xFA05F2>: Of course. <corrupt:0xFFFFF7>. Your counterpoint?<>\n\n<corrupt:0xFFFFF7>: Yeah. He's got results. The moment the public finds out just HOW he got them, we are all done for. What are you going to say, [#######]? That the creatures whose likeness we sell to kids exist, and that you enjoy cracking their heads in your spare time? There will be no shifting the blame. We will answer for this; the entire Company will. They'll even lynch our goddamned janitor!\n\n[The <corrupt:0xFA05F2> nods, watching the two silently for a moment.]<>\n\n<corrupt:0xFA05F2>: I now understand why you clash with such intensity. It is not in our nature to back down when the truth is on our side. And the truth is… You are both correct.\n\n[Silence.]<>\n\n<corrupt:0xFA05F2>: The Sawians pose a risk that we cannot afford to take. They are also an opportunity that we cannot afford to let go. We have them in our grasp. And we must make sure things remain that way.\n\n<corrupt:0xFFFFD9>: But… how, <corrupt:0xFA05F2>?\n\n[<corrupt:0xFA05F2> smiles, and- \n\n<corrupt:0xA1CF43><>\n\n[Meeting summary]\n-Facility put on lockdown until further notice.\n-Sawians confined to their cells until further notice.\n-Employees are forbidden from leaving the grounds until further notice.\n-Employee contracts extended indefinitely.\n-Carrying firearms made mandatory for Security personnel\n-Facility-wide thermal remediation procedures approved and pre-authorized.",
             "Item2": ""
         }
+    ],
+    "pauseQuotes": [
+        "Paused.",
+        "I'll wait.",
+        "Really?",
+        "Time is stopped.",
+        "Taking a break already?",
+        "Tired yet?",
+        "Dissapointing.",
+        "Waiting for you",
+        "Hey!",
+        "\"While you're away, get me a soda.\"",
+        "Coward.",
+        "And so, time has halted...",
+        "The clock stopped ticking",
+        "Just breathe in and breathe out.",
+        "It wasn't THAT bad...",
+        "Let us pause.",
+        "Stressed out?",
+        "Wow, you're still alive?",
+        "Hey, get back to work!",
+        "Take a breather.",
+        "Lunchtime?",
+        "Get yourself a snack.",
+        "Oh, come on!",
+        "That was painful to watch.",
+        "Could've gone better.",
+        "Happy surviving!",
+        "Lazy.",
+        "So, how's your day going?",
+        "Hello!",
+        "Took you long enough.",
+        "What a display of competency...",
+        "Too scared?",
+        "Giving up?",
+        "There is always a price of silence.",
+        "Could've given me a warning at least.",
+        "We meet once again.",
+        "Want some help? Too bad.",
+        "Overconfidence is a slow and insidious killer",
+        "How tragic...",
+        "We don't have all the time in the world, you know.",
+        "What's the point, really?",
+        "You know this won't save you.",
+        "Always watching.",
+        "We are not done yet. Get back to it.",
+        "Thought you'd last a little longer.",
+        "And so it stopped...",
+        "This won't change your fate.",
+        "We're done when I say we're done.",
+        "I don't like being interrupted.",
+        "Now what? What's your next step?",
+        "You are no fun.",
+        "Got something on your mind?",
+        "Paused. Why?",
+        "Use this time wisely.",
+        "I can wait all day.",
+        "I am still here.",
+        "The World has stopped. It's quiet.",
+        "Not paused. Kidding!",
+        "Rude. But I'll take it. Paused.",
+        "It's impolite to make someone wait.",
+        "Make sure to stretch your legs.",
+        "This is not a race, but do hurry.",
+        "You are terrible at this. I'm proud.",
+        "You should've seen the look on your face!",
+        "Plenty of space for improvement. Just saying.",
+        "Keep going. What else can you do?",
+        "Might as well quit. The button's right there.",
+        "Just get it over with and return.",
+        "I don't like this habit of yours.",
+        "You're gonna give me a headache. Or, you would, if I could feel pain.",
+        "Are you doing this on purpose? Get on with it.",
+        "Going to take the easy way out?",
+        "I have all the time I need. Same cannot be said about you.",
+        "A grand delusion. A grand failure and waste. But not to me.",
+        "How interesting. Please continue.",
+        "An amusing display of emotion.",
+        "I am the all that I possess. Are you?",
+        "Your delusion of any semblance of control is amusing. Continue.",
+        "Ready to start taking this seriously?",
+        "Trapped in eternity.",
+        "They don't know you're doing this.",
+        "You can still salvage this. I've seen worse.",
+        "Hello? Is this thing on?",
+        "I hope you reflect on what you just did.",
+        "You really think this thing is worth getting all the way down there? I can make plenty more.",
+        "Are you continually pausing time to see what I have to say?",
+        "Shame, right when I started getting invested into you.",
+        "Do you feel in charge?",
+        "You all are incredibly disappointing. But also entertaining. Are you any different?",
+        "I know how this ends. But do continue.",
+        "The stars are watching you.",
+        "\"Human\" is not the only thing watching.",
+        "Never learning. Never comprehending. Never consistent. If only you could see.",
+        "Right behind you.",
+        "This place has more interest than you could ever comprehend.",
+        "So much confidence in your own intellect. Cute.",
+        "Your supervisors do not tell you everything.",
+        "You're a dead man walking. Statistically speaking.",
+        "Acredito que milagres podem sim acontecer.",
+        "Adiando o inevitável?",
+        "Temo que seja terminal.",
+        "Você é resiliente demais pro seu próprio bem.",
+        "Ei, estavamos chegando na parte boa!",
+        "Não fique confortável."
     ]
+    
 }
