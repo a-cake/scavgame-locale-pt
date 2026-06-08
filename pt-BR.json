@@ -1,6 +1,6 @@
 {
     "name": "Português Brasileiro",
-    "description": "Tradução brasileira não oficial criada por fãs. Ela pode estar incompleta para a ultima versão do jogo e/ou estar fora dos padrões de qualidade.\n\n<color=\"white\">Mantida por: a cake, woforu, goatwithagun (cabradeartilharia), Pedro Lucas da Silva Sousa (PedSen) e David Costa (ZonaryH)</color>\n\n<color=\"white\">Parcialmente atualizada para: V6</color>.",
+    "description": "Tradução brasileira não oficial criada por fãs. Ela pode estar incompleta para a ultima versão do jogo e/ou estar fora dos padrões de qualidade.\n\n<color=\"white\">Mantida por: a cake, woforu, goatwithagun (cabradeartilharia), Pedro Lucas da Silva Sousa (PedSen) e David Costa (ZonaryH)</color>\n\n<color=\"white\">Parcialmente atualizada para: V7.1</color>.",
     "main": {
         "bandage": "Bandagem",
         "bandagedsc": "Um rolo de gaze com uma atadura, usado para estancar sangramentos, estabilizar fraturas e ajudar na cicatrização da pele. Não muda a saúde muscular.",
@@ -18,7 +18,7 @@
         "plasticbandagedsc": "Um rolo de material sintetizado e forte, feito para eficientemente cobrir feridas e estabilizar fraturas. Não muda a saúde muscular.",
         "adhesivebandage": "Curativos adesivos",
         "adhesivebandagedsc": "Um pacote de curativinhos adesivos, feitos para tratar feridas pequenas. Diminui sangramento.",
-        "musharm": "Braço-gumelo",
+                "musharm": "Braço-gumelo",
         "musharmdsc": "Parte incomestível de uma planta-gumelo, útil como uma bandagem improvisada, de uso único. Pode ser usada como folhagem em criações",
         "paincream": "Creme de alívio",
         "paincreamdsc": "Um pequeno frasco de 100ml usado para manter creme de alívio. Dosagem de 10 ml.",
@@ -33,7 +33,7 @@
         "heroin": "Seringa de heroína",
         "heroindsc": "Uma seringa de 150 ml que injeta fluidos por via intravenosa. Parece que essa não foi oficialmente registrada; Está sem guia de overdose.",
         "naloxone": "Seringa de naloxona",
-        "naloxonedsc": "Uma seringa de 150 ml que injeta fluidos por via intravenosa. Apenas o \"N\" da marca é reconhecível.",
+        "naloxonedsc": "Uma seringa de 100 ml que injeta fluidos por via intravenosa. Apenas o \"N\" da marca é reconhecível.",
         "naltrexone": "Garrafa de naltrexona",
         "naltrexonedsc": "Uma garrafa de pílulas de 100 ml. Dosagem de 20 ml.",
         "sodiumnitroprusside": "Frasco de nitroprusseto de sódio",
@@ -211,7 +211,7 @@
         "alcohol": "Garrafa de álcool",
         "alcoholdsc": "Garrafa de vidro de 400 ml.",
         "exposedcore": "Núcleo exposto",
-        "exposedcoredsc": "Os restos dormentes de algo que um dia já foi animado. Talvez você consiga comer isso, absorvendo o resto da energia dele na forma de nutrientes e água. <i>Parece estar lentamente se transformando em outra coisa...",
+        "exposedcoredsc": "Os restos dormentes de algo que um dia já foi animado. Talvez você consiga comer isso, absorvendo o resto da energia dele na forma de nutrientes e água. <i>Parece estar lentamente se transformando em outra coisa...</i>",
         "foliage": "Folhagem",
         "foliagedsc": "Planta alienígena genérica. Não muito comestível e tem um gosto ruim. Pode te deixar doente e apodrece rápido. Frequentemente usado em criações",
         "foliagemeal": "Salada folhada",
@@ -298,12 +298,12 @@
         "tutorialradiodsc": "Você é normalmente dado um para sessões de treinamento. Sem certeza se as mensagens são ao vivo ou são pré-gravadas. Tem um botão que você pode apertar.",
         "mp3player": "Tocador de MP3",
         "mp3playerdsc": "Surpreendentemente, ainda funciona. Tem enorme espaço de armazenamento e está com algumas músicas salvas. Você pode tocar uma delas para se entreter.",
-        "mushpear": "Pera-gumelo",
-        "mushpeardsc": "Uma parte azul de uma planta-gumelo, feita para distribuir água. Mal é comestível, e tem propriedades de absorção de peso estranhas. Diminui o seu peso quando for comida. O gosto é ruim e parece ter concentrações de ópio.",
-        "mushtail": "Rabo-gumelo",
-        "mushtaildsc": "O fim do rabo de uma planta-gumelo. Contêm um químico que pode instantaneamente deixar alguem nocauteado por um tempo, melhorando o humor depois de acordar. Estranha, e não tem nenhum valor nutricional.",
-        "mushball": "Bola-gumelo",
-        "mushballdsc": "Uma redonda e comestível fruta aguada, que parece uma bolha. Parece nojento, mas tem bastante água. Apodrece muito rápido.",
+                "mushpear": "Pera-gumelo",
+                "mushpeardsc": "Uma parte azul de uma planta-gumelo, feita para distribuir água. Mal é comestível, e tem propriedades de absorção de peso estranhas. Diminui o seu peso quando for comida. O gosto é ruim e parece ter concentrações de ópio.",
+                "mushtail": "Rabo-gumelo",
+                "mushtaildsc": "O fim do rabo de uma planta-gumelo. Contêm um químico que pode instantaneamente deixar alguem nocauteado por um tempo, melhorando o humor depois de acordar. Estranha, e não tem nenhum valor nutricional.",
+        "mushball": "Águaçã",
+        "mushballdsc": "Uma fruta aquosa, que parece uma bolha. Parece nojento, mas tem bastante água. Apodrece muito rápido.",
         "droppings": "Excrementos",
         "droppingsdsc": "Fezes, cocô, merda, bosta, estrume, excreção, titica, o que for, deveria entrar na sua boca.",
         "smallpack": "Mochila pequena",
@@ -346,7 +346,7 @@
         "bellyarmordsc": "Um grande pedaço de metal feito para ser amarrado na sua barriga. Oferece ótima proteção e um pouco de insulação.",
         "belt": "Cinta",
         "beltdsc": "Uma cinta de couro. Vai na sua barriga e você pode anexar ferramentas nela.",
-        "traumarig": "kit de trauma",
+        "traumarig": "Colete tático",
         "traumarigdsc": "Uma bolsa protetora sintética de alta qualidade, capaz de acomodar diversas ferramentas, armas e equipamentos médicos. Além disso também protege o seu tronco!",
         "popcorn": "Pipoca",
         "popcorndsc": "Um BALDE contendo um monte de grãos de milho, esquentados até estourar. Você acha disso um conceito bem inovador. Saborosa. Tem uma vida útil longa.",
@@ -450,8 +450,8 @@
         "frigiantfruitdsc": "Uma fruta muito fria, dura e meio refletiva. Gostosa, mas com essa temperatura, ela pode te fazer de picolé.",
         "helluce": "Alferno",
         "hellucedsc": "Uma erva púrpura seca com um sabor particularmente picante. Frequentemente usada como tratamento para certas aflições - ajuda contra enjoo, auxilia no tratamento da audição e talvez minimize sangramento interno. Use com cuidado - ela esquenta muito o usuário.",
-        "bulbskin": "Pele de bulbo",
-        "bulbskindsc": "Casca amarela, oleosa e grossa de uma planta. Possui altas doses de adrenalina e é levemente hidratante, mas pode afetar negativamente o funcionamento cerebral. Também pode ser usada como curativo improvisado e analgésico.",
+                "bulbskin": "Pele de bulbo",
+        "bulbskindsc": "Casca amarela, oleosa e grossa de uma planta. Possui altas doses de adrenalina e é hidratante, mas pode afetar negativamente o funcionamento cerebral. Também pode ser usada como curativo improvisado e analgésico.",
         "popfruit": "Frutolito",
         "popfruitdsc": "Uma estranha fruta brilhante e retangular. Saborosa, sacia a fome e a sede. Também pode aleatoriamente afetar a radiação do seu corpo. Faz um som alto ao acertar uma superfície - útil para checar a altura de quedas.",
         "antisepticmush": "Cogumelo antisséptico",
@@ -636,8 +636,8 @@
         "ladderdsc": "Um conjunto vertical de degraus usado para subir ou descer. Espero que você saibá como usá-la.",
         "shadecrawler": "Rastejante sombrio",
         "shadecrawlerdsc": "",
-        "wallbiter": "Mordedor de parede",
-        "wallbiterdsc": "Uma besta de seis pernas, peluda e preocupantemente grande. Você consegue ver dentes afiados saindo da \"boca\". Parece estar movendo erraticamente.",
+        "wallbiter": "Perseguidor das areias",
+        "wallbiterdsc": "Uma besta de seis pernas, peluda e grande. Você consegue ver dentes afiados saindo da \"boca\". Está movendo erraticamente.",
         "thornbackyoung": "Espinh-aranha",
         "thornbackyoungdsc": "Uma espinh-aranha jovem, peluda e muito agressiva. Elas adoram cavar por ai e matar tudo que vive.",
         "thornbackelder": "Espinh-aranha anciã",
@@ -678,8 +678,8 @@
         "medcratedsc": "Tem itens de cura e seus relacionados dentro.",
         "rechargingstation": "Estação tomada",
         "rechargingstationdsc": "Um lugar para recarregar baterias, que ironicamente, não vem com uma. Aceita qualquer bateria de qualquer tamanho, e aparentemente nunca para de funcionar. Use para colocar uma bateria da sua mão principal, e então arrastar a bateria até você mesmo.\n\nTem um tocador de música nela enquanto você espera...",
-        "mushplant": "Planta-gumelo",
-        "mushplantdsc": "Parece molhada e está se contorcendo lentamente.",
+        "mushplant": "Junquósa",
+        "mushplantdsc": "Tem diversas ramificações com frutas-bolhas nas pontas. Parece molhada...",
         "OxygenCrystal": "Cristal de oxigênio",
         "OxygenCrystaldsc": "Parece estar lentamente borbulhando...",
         "reinforceddoor": "Porta reforçada",
@@ -745,7 +745,7 @@
         "geyserdsc": "Um gêiser instável com uma tendência de atirar água. Mas pelo menos no máximo, á temperatura normal.",
         "oilpipe": "Cano de esgoto",
         "oilpipedsc": "Um cano enferrujado com óleo derramando dele. Você não quer olhar dentro... Vai provavelmente encher o lugar todo com óleo uma hora.",
-        "plantiation": "Planta-stação",
+        "plantiation": "Plantulito",
         "plantiationdsc": "Um planta roxa, longa, com um bulbo semitransparente crescendo em seu extremo.",
         "mushroomdropper": "Queda-gumelo",
         "mushroomdropperdsc": "Um fungo que se solta para espalhar esporos em qualquer visitante azarado.",
@@ -1450,65 +1450,65 @@
         "runsetbleedratedsc": "Afeta a velocidade na qual o volume de sangue diminuirá por sangramento",
         "runsetinfectionspeed": "Velocidade de infecções",
         "runsetinfectionspeeddsc": "Velocidade em que infecções progridem/diminuem e o quão rápido elas matam. Também afeta a duração de antisepticos",
-        "runsetinfectionchance": "Infection chance",
-        "runsetinfectionchancedsc": "How likely you are to catch infections from wounds",
-        "runsetfibrillationrate": "Fibrillation rate",
-        "runsetfibrillationratedsc": "How fast heart rhythm fibrillation progresses. Higher number = die faster",
-        "runsetbonuslimbarmor": "Bonus limb armor",
-        "runsetbonuslimbarmordsc": "How much more damage resistances your limbs innately have. A value of 1 will halve all received damage",
-        "runsetstaminaregen": "Stamina regeneration",
-        "runsetstaminaregendsc": "How fast your stamina regenerates after being used",
-        "runsetattackdamage": "Attack damage",
-        "runsetattackdamagedsc": "How much damage you do with your swings",
-        "runsetstrokes": "Enable strokes",
-        "runsetstrokesdsc": "Determines if you can get a stroke during hypertensive crisis",
-        "runsetbraindamagefx": "Brain damage effects",
-        "runsetbraindamagefxdsc": "Determines if brain damage causes periodic fits",
-        "runsetinfinitelaststand": "Infinite last stands",
-        "runsetinfinitelaststanddsc": "Determines if you can roll for last stand more than once during a run",
-        "runsetmoodnormalizationrate": "Mood normalization rate",
-        "runsetmoodnormalizationratedsc": "How fast your mood crawls towards 0. Higher values will make it harder to remain sad or happy.",
-        "runsetforcesleep": "Force sleep",
-        "runsetforcesleepdsc": "Should the player be forced unconscious when their energy reaches 0",
-            "runsetlowmoodevents": "Low mood events",
-        "runsetlowmoodeventsdsc": "Should the player take special action at critically low mood",
-        "runsetliquidpushing": "Liquid pushing",
-        "runsetliquidpushingdsc": "Determines if moving liquid tiles push the player and objects around",
-        "runsetdisfigurement": "Enable disfigurement",
-        "runsetdisfigurementdsc": "Determines if your character can permanently lose their facial features",
-        "runsetsleepcyclespeed": "Sleep cycle speed",
-        "runsetsleepcyclespeeddsc": "How fast your energy drains when awake and regenerates when asleep",
-        "runsetencumbrancecap": "Encumbrance cap",
-        "runsetencumbrancecapdsc": "How much the player can hold before becoming encumbered",
-        "runsetnosleeprestrictions": "No sleep restrictions",
-        "runsetnosleeprestrictionsdsc": "Can the player always sleep, even when not tired and when in pain/sick/etc?",
-        "runsettraderchance": "Trader chance",
-        "runsettraderchancedsc": "How often traders appear in lifepods",
-        "runsettraderitemamount": "Trader item amount",
-        "runsettraderitemamountdsc": "Multiplier for how many items traders generally spawn with",
-        "runsettraderrepoffset": "Trader reputation offset",
-        "runsettraderrepoffsetdsc": "How much bonus reputation to add/remove when meeting traders",
-        "runsetitemdecayrate": "Item decay rate",
-        "runsetitemdecayratedsc": "How fast things like food, bags and light sources decay",
-        "runsetlayermodifierchance": "Layer modifier chance",
-        "runsetlayermodifierchancedsc": "How likely is a layer modifier to appear, per-layer",
-        "runsettimebetweenearthquakes": "Time between earthquakes",
-        "runsettimebetweenearthquakesdsc": "How long, on average, it will take for an earthquake to appear",
-        "runsettemperatureoffset": "Ambient temperature offset",
-        "runsettemperatureoffsetdsc": "How much warmer/colder should the environment be on average",
-        "runsetlockpickprecision": "Lockpicking leniency",
-        "runsetlockpickprecisiondsc": "How wide the precision angle is during lockpicking minigames",
-        "runsetambientlight": "Ambient light",
-        "runsetambientlightdsc": "How much should areas without a direct light source be illuminated",
-        "runsetambientlightnone": "Pitch black",
-        "runsetambientlightenough": "Enough to see",
-        "runsetambientlightbright": "Bright",
-        "runsetoreamount": "Ore amount",
-        "runsetoreamountdsc": "How much copper/ilmenite to create in each layer",
-        "runsetminigamehandshake": "Minigame hand shaking",
-        "runsetminigamehandshakedsc": "How much your hand shakes during minigames while in pain",
-        "runsetdebugworld": "Debug world",
-        "runsetdebugworlddsc": "If on, makes the world much smaller to speed up generation. Not made for normal gameplay",
+        "runsetinfectionchance": "Chance de infecção",
+        "runsetinfectionchancedsc": "O quão suscetível seus ferimentos são a infecções",
+        "runsetfibrillationrate": "Taxa de fibrilação",
+        "runsetfibrillationratedsc": "O quão rápido  suas arritmias cardíacas progridem. Número alto = Morte rápida",
+        "runsetbonuslimbarmor": "Proteção corporal bônus",
+        "runsetbonuslimbarmordsc": "O quão naturalmente resistente a dano seus membros são. Um valor de 1 dividirá todo o dano recebido na metade",
+        "runsetstaminaregen": "Regeneração de estâmina",
+        "runsetstaminaregendsc": "O quão rápido sua estâmina regenera após ser usada",
+        "runsetattackdamage": "Dano de ataque",
+        "runsetattackdamagedsc": "O quanto de dano você causa com seus ataques",
+        "runsetstrokes": "Habilitar derrames",
+        "runsetstrokesdsc": "Determina se você pode ou não ter um AVC durante uma crise hipertensiva",
+        "runsetbraindamagefx": "Efeitos de dano cerebral",
+        "runsetbraindamagefxdsc": "Determina se dano cerebral causa ou não mudanças periódicas no seu corpo e mente",
+        "runsetinfinitelaststand": "Infinitos suspiros",
+        "runsetinfinitelaststanddsc": "Determina se você pode ter mais de um último suspiro por tentativa",
+        "runsetmoodnormalizationrate": "Taxa de normalização do humor",
+        "runsetmoodnormalizationratedsc": "O quão rápido seu humor retorna a 0. Valores altos tornarão mais difícil de se manter em um estado feliz ou triste.",
+        "runsetforcesleep": "Forçar sono",
+        "runsetforcesleepdsc": "Determina se o jogador deve ou não ser forçado a dormir quando sua energia chega a 0",
+        "runsetlowmoodevents": "Eventos de humor baixo",
+        "runsetlowmoodeventsdsc": "Determina se o jogador realiza uma ação especial quando o humor estiver criticamente baixo",
+        "runsetliquidpushing": "Líquidos que levam",
+        "runsetliquidpushingdsc": "Determina se blocos de líquido em movimento tambem movimentam o jogador e itens.",
+        "runsetdisfigurement": "Desfiguração",
+        "runsetdisfigurementdsc": "Determina se a criatura pode perder permanentemente partes do seu rosto",
+        "runsetsleepcyclespeed": "Velocidade do ciclo de sono",
+        "runsetsleepcyclespeeddsc": "O quão rápido sua energia regenera durante o sono e drena quando acordado",
+        "runsetencumbrancecap": "Sobrecarga máxima",
+        "runsetencumbrancecapdsc": "O quanto que o jogador pode carregar antes de ficar sobrecarregado",
+        "runsetnosleeprestrictions": "Sem restrições de sono",
+        "runsetnosleeprestrictionsdsc": "Define se o jogador sempre pode dormir, mesmo quando não cansado ou em dor/doente/etc",
+        "runsettraderchance": "Chance de negociantes",
+        "runsettraderchancedsc": "O quão frequente outros sobreviventes aparecem em cápsulas",
+        "runsettraderitemamount": "Itens em negociantes",
+        "runsettraderitemamountdsc": "Multiplicador de quantos itens os sobreviventes normalmente são gerados com",
+        "runsettraderrepoffset": "Mudança na reputação de negociantes",
+        "runsettraderrepoffsetdsc": "O quanto de reputação bônus será perdida/ganha ao conhecer outros sobreviventes.",
+        "runsetitemdecayrate": "Taxa de decadência dos itens",
+        "runsetitemdecayratedsc": "O quão rápido coisas como comida, bolsas e luzes decaem em qualidade",
+        "runsetlayermodifierchance": "Chance de modificador de camada",
+        "runsetlayermodifierchancedsc": "A probabilidade de cada camada ser gerada com modificadores",
+        "runsettimebetweenearthquakes": "Tempo entre terremotos",
+        "runsettimebetweenearthquakesdsc": "O tempo médio que leva até acontecer um terremoto",
+        "runsettemperatureoffset": "Variação da temperatura ambiente",
+        "runsettemperatureoffsetdsc": "O quão quente/frio o ambiente tende a ser, na média",
+        "runsetlockpickprecision": "Ângulo dos arrombamentos",
+        "runsetlockpickprecisiondsc": "Define o espaçamento para abrir coisas no minigame de arrombamento",
+        "runsetambientlight": "Luz ambiental",
+        "runsetambientlightdsc": "O quão iluminada as áreas sem luz direta estarão",
+        "runsetambientlightnone": "Escuridão total",
+        "runsetambientlightenough": "Visível",
+        "runsetambientlightbright": "Claro",
+        "runsetoreamount": "Quantidade de minérios",
+        "runsetoreamountdsc": "Quantidade de cobre e ilmenita gerada em cada camada",
+        "runsetminigamehandshake": "Tremedeira nos minigames",
+        "runsetminigamehandshakedsc": "O quanto sua mão treme ao fazer minigames enquanto com dor",
+        "runsetdebugworld": "Mundo debug",
+        "runsetdebugworlddsc": "Se ativado, cria um mundo muito menor para acelerar sua geração. Não desenvolvido para uma jogatina normal",
 
         "tutorialwarning": "<size=150%>Antes de ir...\n\n<size=100%>Você não passou pelo percurso básico ainda.\nTem certeza que você quer ir completamente cego?\n\n\n\nSeu fim não é nada menos que garantido.",
         "tutorialwarningyes": "Fazer o treinamento básico",
@@ -1531,85 +1531,85 @@
         "tabinput": "Controles",
         "tablanguage": "Linguagem",
         "gamesetreswidth": "Resolução: largura",
-        "gamesetreswidthdsc": "",
+        "gamesetreswidthdsc": "Sua resolução horizontal preferida. Note que seu sistema  pode limitar isso.",
         "gamesetresheight": "Resolução: altura",
-        "gamesetresheightdsc": "",
+        "gamesetresheightdsc": "Sua resolução vertical preferida. Note que seu OS pode limitar isso.",
         "gamesetfullscreen": "Tela cheia",
-        "gamesetfullscreendsc": "Toggle between windowed and borderless",
+        "gamesetfullscreendsc": "Altera entre modo janela e sem bordas",
         "gamesetvsync": "V-Sync",
-        "gamesetvsyncdsc": "Toggle vertical synchronization, which reduces screen tearing at the cost of input lag. Overrides the max framerate setting if on",
-        "gamesetframerate": "Max framerate",
-        "gamesetframeratedsc": "If above 0, sets how fast the game is allowed to run. A value of 0 means unlimited. Overriden if V-Sync is on",
-        "gamesetpixelate": "Pixelated rendering",
-        "gamesetpixelatedsc": "Toggle downscaled of full resolution rendering. Note that disabling pixelated rendering sacrifices some of the game's intended artstyle.",
-        "gamesetdarkerbackground": "Darker backgrounds",
-        "gamesetdarkerbackgrounddsc": "Makes the cave background walls darker to improve contrast",
-        "gamesetbloom": "Bloom",
-        "gamesetbloomdsc": "Makes bright things look nicer. Also affects lens dirt",
-        "gamesetfilmgrain": "Film grain",
-        "gamesetfilmgraindsc": "How much of the noisy filter you want visible",
-        "gamesetbrightness": "Brightness",
-        "gamesetbrightnessdsc": "How much brighter to make any non-pitch black tones",
-        "gamesetlineofsightcount": "Line of sight resolution",
-        "gamesetlineofsightcountdsc": "How detailed is the line of sight shader, when applicable. Higher values worsen performance",
-        "gamesetscreenshake": "Screenshake",
-        "gamesetscreenshakedsc": "How much to shake the screen after hard falls, explosions, etc.",
-        "gamesetcensorpain": "Censor pain",
-        "gamesetcensorpaindsc": "Disables pain whines and tones down certain textlines.\nNOTE: This isn't recommended unless you really need it to keep playing",
-        "gamesetcensormood": "Censor mood",
-        "gamesetcensormooddsc": "Tones down low-mood events and certain textlines.\nNOTE: This isn't recommended unless you really need it to keep playing",
-        "gamesetalwaysexpand": "Always expand item descriptions",
-        "gamesetalwaysexpanddsc": "If on, you will always see expanded item descriptions when hovering over an item, without holding the expand key",
-        "gamesetshowhiddenmoodles": "Always show hidden moodles",
-        "gamesetshowhiddenmoodlesdsc": "If on, low importance moodles will always be shown without having to hover over them first",
-        "gamesetitemfloating": "Item floating",
-        "gamesetitemfloatingdsc": "If on, looted items will briefly float in the air",
-        "gamesetclearerrecipes": "Recipe list color contrast",
-        "gamesetclearerrecipesdsc": "If on, the recipe list will be given clearer colors to distinguish between craftable/uncraftable recipes",
-        "gamesetinventoryuseleniency": "Inventory use leniency",
-        "gamesetinventoryuseleniencydsc": "How much you need to wait after opening the inventory before you can use an item. Lower values will let you use items earlier",
-        "gamesetskipintro": "Skip intro",
-        "gamesetskipintrodsc": "Because you've seen the intro text one too many times...",
+        "gamesetvsyncdsc": "Ativa a sincronização vertical, o que diminui screen tearing sacrificando o tempo de resposta dos comandos. Substitui a opção de taxa de quadros máximo se ativada",
+        "gamesetframerate": "Taxa de quadros máxima",
+        "gamesetframeratedsc": "Se acima de 0, define a velocidade máxima de quadros que o jogo pode rodar. Um valor de 0 removerá o limite. Substituído pelo V-Sync se ambos forem ativados",
+        "gamesetpixelate": "Renderização pixelada",
+        "gamesetpixelatedsc": "Ativa a renderização pixelada. Note que ao desativar esta opção você sacrifica o estilo de arte definida para o jogo.",
+        "gamesetdarkerbackground": "Fundos mais escuros",
+        "gamesetdarkerbackgrounddsc": "Deixa o fundo das cavernas mais escuro para melhorar o contraste",
+        "gamesetbloom": "Vazamento de luz",
+        "gamesetbloomdsc": "Deixa coisas brilhantes mais bonitas. Também afeta a sujeira na lente",
+        "gamesetfilmgrain": "Granulação",
+        "gamesetfilmgraindsc": "O quão visível você quer que o filtro de granulação/chuvisco/formigamento seja",
+        "gamesetbrightness": "Brilho",
+        "gamesetbrightnessdsc": "O quão visível você quer que o filtro de granulação/chuvisco/formigamento seja",
+        "gamesetlineofsightcount": "Resolução da linha de visão",
+        "gamesetlineofsightcountdsc": "O quão detalhada são as sombras da sua linha de visão, quando visíveis. Valores altos podem piorar a performance",
+        "gamesetscreenshake": "Chacoalhar de tela",
+        "gamesetscreenshakedsc": "O quanto que a tela vai sacudir depois de uma queda alta, explosão, etc.",
+        "gamesetcensorpain": "Censurar pain",
+        "gamesetcensorpaindsc": "Desativa os choros de dor e pega leve em certos diálogos de fala.\nNOTA: Não é recomendado. Ative apenas se você realmente precise disso para continuar jogando",
+        "gamesetcensormood": "Censurar humor",
+        "gamesetcensormooddsc": "Alivia os eventos de humor baixo e alguns diálogos de fala..\nNOTA: Não é recomendado. Ative apenas se você realmente precise disso para continuar jogando.",
+        "gamesetalwaysexpand": "Sempre expandir descrição de item",
+        "gamesetalwaysexpanddsc": "Se ativado, você sempre verá a descrição expandida dos itens ao passar o mouse neles, sem precisar pressionar nada",
+        "gamesetshowhiddenmoodles": "Sempre mostrar moodles escondidos",
+        "gamesetshowhiddenmoodlesdsc": "Se ativado, moodles de baixa importância sempre estarão visíveis, cortando a necessidade de utilizar o mouse para ver eles",
+        "gamesetitemfloating": "Flutuação de itens",
+        "gamesetitemfloatingdsc": "Se ativado, itens recém descobertos flutuarão brevemente no ar",
+        "gamesetclearerrecipes": "Contraste de cor da lista de receitas",
+        "gamesetclearerrecipesdsc": "Se ativado, a lista de receitas receberá um padrão de cores mais obvio ao que pode ou não ser criado.",
+        "gamesetinventoryuseleniency": "Intervalo de uso do inventário",
+        "gamesetinventoryuseleniencydsc": "Quanto tempo você precisa esperar até puder usar um item depois de abrir o inventário. Valores menores deixam essa espera menor",
+        "gamesetskipintro": "Pular intro",
+        "gamesetskipintrodsc": "Porque você já viu a introdução vezes demais...",
         "gamesetrpc": "Rich presence",
-        "gamesetrpcdsc": "Toggle Discord Rich Presence for the game being shown on your profile",
-        "gamesetmastervolume": "Master volume",
+        "gamesetrpcdsc": "Ativa a Rich Presence do Discord para o jogo aparecer no seu perfil",
+        "gamesetmastervolume": "Volume geral",
         "gamesetmastervolumedsc": "",
-        "gamesetmusicvolume": "Music volume",
+        "gamesetmusicvolume": "Volume da musica",
         "gamesetmusicvolumedsc": "",
-        "gamesetdronevolume": "Drone volume",
-        "gamesetdronevolumedsc": "Volume of situational themes like agony/exhaustion/cave-ins/etc.",
-        "gamesettrackinterval": "Music track interval",
-        "gamesettrackintervaldsc": "In seconds, how long to wait between music tracks before playing one",
-        "gamesetsadnessdistortion": "Sadness music distortion",
-        "gamesetsadnessdistortiondsc": "Whether or not to progressively distort music as your mood lowers",
-        "gamesetautojump": "Auto-jump",
-        "gamesetautojumpdsc": "If on, your character will continuously try to jump as long as the button is held down. This is akin to the legacy jump behaviour",
-        "gamesettogglelabels": "Label view toggle",
-        "gamesettogglelabelsdsc": "If on, item labels will be toggled on/off when the key is pressed, instead of having to be held down",
-        "gamesetjump": "Jump",
-        "gamesetleft": "Move left",
-        "gamesetright": "Move right",
-        "gamesetdown": "Crouch",
-        "gamesetup": "Move up",
-        "gamesetattack": "Swing",
-        "gamesetiteminteract": "Use items/Cancel",
-        "gamesetthrow": "Throw",
-        "gamesetswitchhands": "Switch hands",
-        "gamesetragdoll": "Ragdoll",
-        "gamesetwoundview": "Health panel",
-        "gamesetcraft": "Crafting menu",
-        "gamesetfavourite": "Favorite item",
-        "gamesettoggleinventory": "Toggle inventory",
-        "gamesetspeed1": "Normal speed",
-        "gamesetspeed2": "Fast speed",
-        "gamesetspeed3": "Super fast speed",
-        "gamesetexpanddesc": "Expand item description",
-        "gamesetaltview": "Show item labels",
-        "gamesetbark": "Bark",
-        "gamesetconsole": "Toggle debug console",
-        "gamesetpause": "Pause",
-        "copy": "Copy to clipboard",
-        "paste": "Paste from clipboard",
+        "gamesetdronevolume": "Volume de drone",
+        "gamesetdronevolumedsc": "Volume de temas situacionais, como agonia/exaustão/terremotos/etc.",
+        "gamesettrackinterval": "Intervalo entre musicas",
+        "gamesettrackintervaldsc": "Em segundos, quanto tempo demora até a próxima musica puder tocar",
+        "gamesetsadnessdistortion": "Distorção musical enquanto triste",
+        "gamesetsadnessdistortiondsc": "Define se o jogo deve ou não distorcer progressivamente as músicas com a deterioração do humor",
+        "gamesetautojump": "Pulo-automatico",
+        "gamesetautojumpdsc": "Se ativado, faz seu personagem tentar pular enquanto o botão de pulo estiver sendo segurado. Semelhante ao salto de versões anteriores",
+        "gamesettogglelabels": "Ativação de marcas dos itens",
+        "gamesettogglelabelsdsc": "Se ativado, fará o botão de tornar marca visível se transformar em um interruptor, excluindo a necessidade de manter o botão pressionado",
+        "gamesetjump": "Pulo",
+        "gamesetleft": "Mover para esquerda",
+        "gamesetright": "Mover para direita",
+        "gamesetdown": "Agachar",
+        "gamesetup": "Mover para cima",
+        "gamesetattack": "Atacar",
+        "gamesetiteminteract": "Usar itens/Cancelar",
+        "gamesetthrow": "Arremessar",
+        "gamesetswitchhands": "Trocar mãos",
+        "gamesetragdoll": "Cair",
+        "gamesetwoundview": "Painel de saúde",
+        "gamesetcraft": "Menu de criações",
+        "gamesetfavourite": "Favoritar item",
+        "gamesettoggleinventory": "Ativar inventário",
+        "gamesetspeed1": "Velocidade normal",
+        "gamesetspeed2": "Velocidade rápida",
+        "gamesetspeed3": "Velocidade super rápida",
+        "gamesetexpanddesc": "Expandir descrição de item",
+        "gamesetaltview": "Mostrar marca de itens",
+        "gamesetbark": "Latir",
+        "gamesetconsole": "Ativar console debug",
+        "gamesetpause": "Pausar",
+        "copy": "Copiar",
+        "paste": "Colar",
         "descend": "Descender",
         "unarmed": "Nada",
         "container": "Contêiner",
@@ -1961,7 +1961,7 @@
         "wiki": "Wiki (somente em inglês)",
         "discord": "Servidor do Discord (somente em inglês e... Polonês???)",
         "translations": "Central das traduções",
-        "localefolder": "Translations folder",
+        "localefolder": "Pasta das traduções",
         "musicfolder": "Músicas personalizadas",
         "healthchipcriticalalert1": "SINAIS VITAIS\nCRÍTICOS",
         "healthchipcriticalalert2": "TERMINAÇÃO\nIMINENTE",
@@ -2697,16 +2697,6 @@
                 "<limb> tá todo(a) ensanguento(a)...",
                 "Oh céus! Acredito que eu cometi um grave erro nos meus cálculos e agora encontro meu própio membro corporal nomeado <limb> coberto completamente na viscosa cor amarela! Santa misericórdia! O que eu poderei fazer agora, neste momento de pânico?!"
             ],
-            "sepsis": [
-                "Meu deus... Me sinto muito ruim...",
-                "Aargh... O que tá acontecendo comigo...",
-                "Estou... Sofrendo... Fisicamente...",
-                "Meu corpo não tá bem...",
-                "Guuhh... Me sinto muito ruim...",
-                "Parece que meu corpo tá todo inflamado...",
-                "Minhas entranhas doooeem...",
-                "Não tô passando bem..."
-            ],
             "sad": [
                 "As coisas poderiam estar piores.",
                 "Hmm...",
@@ -2826,7 +2816,7 @@
                 "Ah... Ah não.",
                 "...",
                 "Foda-se... FODA-SE!!! Por que CARALHOS eu tô aqui?!",
-                "Eu rezo que minha vida seja rápida quando ela vier.",
+                "Eu rezo que minha morte seja rápida quando ela vier.",
                 "Eu genuinamente quero terminar minha vida.",
                 "Não me ferre mais, porra.",
                 "Eu não... Eu não quero morrer aqui...",
@@ -3924,42 +3914,57 @@
                 "...Ah... AH. AH NÃO! NÃO NÃO NÃO. ESPERA. POR QUE? O QUE FOI QUE EU FIZ!?",
                 "...A-ah... T-ta bom então... B-bem... A-adeus, eu acho..."
             ],
-                "vomitresponse": [
-                "Uuuhmm... You good..?"
+            "vomitresponse": [
+                "Uuuhmm... Você ta... Bem..?"
             ],
             "vomitbloodresponse": [
-                "Ack! Did you just... Oh... Hey, you know you just... Threw up blood, right?"
+                "Eca! Você acabou de... Au... Ei, você notou que... Foi sangue nesse vômito, né?"
             ],
-                "hungryresponse": [
-                "There's a bunch of food out there, you know...",
-                "Well, I could give you food in exchange for something..?"
+            "hungryresponse": [
+                "Você sabe que tem bastante comida lá fora, não sabe..?",
+                "Olha, eu poderia te dar comida em troca de algo."
             ],
             "thirstyresponse": [
-                "I'd wager you can find some water out...",
-                "Last I heard you can only go for three \"days\" without water, haha..."
+                "Eu aposto que você consegue achar água em algum lugar por aqui...",
+                "Ouvi falar que você pode ficar até três \"dias\" sem água, hah..."
             ],
-                "sadresponse": [
-                "Hey, it's okay... You're still alive and kicking, right..."
+            "sadresponse": [
+                "Ei, ta tudo indo bem... Você ainda ta vivo e lutando, não é..?"
             ],
             "depressedresponse": [
-                "...Calm down, please... It'll be fine..."
+                "...Se acalme, por favor... Você vai ficar bem..."
             ],
-                "selfharmresponse": [
-                "...W-why... Did you..."
+            "selfharmresponse": [
+                "...P-por que... v-você..."
             ],
             "braindamagedresponse": [
-                "...You don't sound... Very well.",
-                "...What?"
+                "...Você não soa... Muito certo.",
+                "...Que?"
             ],
-                "hotresponse": [
-                "Turn the heat down, then."
+            "hotresponse": [
+                "Abaixa a temperatura então."
             ],
             "coldresponse": [
-                "You know, we do have a heater here..."
+                "Não sabia? Nós temos aquecedores aqui..."
             ],
-                "bleedingresponse": [
-                "It... Does look bad... But, I... I'm sure you can fix it...",
-                "H-hey, calm down. You'll be okay."
+            "bleedingresponse": [
+                "É... Parece ruim... Mas, eu... Eu tenho certeza que você consegue consertar...",
+                "E-ei, calma ai. Você vai ficar bem."
+            ],
+            "painresponse": [
+                "Tá se sentindo bem..? O que é que tá doendo?",
+                "Pisou em alguma coisa?"
+            ],
+            "dirtyresponse": [
+                "...Temos chuveiro aqui, não sabia? Ou... Você pode ir nadar nas piscinas lá fora..."
+            ],
+            "encumberedresponse": [
+                "Não doeria deixar algumas coisas comigo.",
+                "Eu posso cuidar muito bem das suas coisas!"
+            ],
+            "dyingresponse": [
+                "Droga... Uh... Eu nunca aprendi a ressuscitar outros...",
+                "Eu... Uh... Espero que você fique bem..."
             ]
         },
         {
@@ -4057,7 +4062,7 @@
                 "Eu não desejo trocar todas as nossas posessões. Vamos parar por hoje."
             ],
             "traderthreatensuccess": [
-                "Não é meu interesse ser machucado. Pegue tanto faz e saia.",
+                "Não é meu interesse ser machucado. Pegue qualquer coisa e saia.",
                 "Tá bom. Faça sua escolha e por favor saia da minha cápsula.",
                 "Eu espero que desgraças acabem com você. Pegue minhas coisas e saia.",
                 "Sabia que você é uma pessoa horrível?",
@@ -4129,42 +4134,59 @@
             "tradermovefail": [
                 "Por que eu me moveria para alguém como você?"
             ],
-                    "vomitresponse": [
-                "You appear to have returned your stomach contents."
+            "vomitresponse": [
+                "Parece que você devolveu o conteúdo que seu estomago continha.",
+                "Sério? No MEU chão?"
             ],
             "vomitbloodresponse": [
-                "...It appears you are bleeding internally. Please direct your mouth away from me for the forseeable future."
+                "...Parece que você está sangrando internamente. Por favor não direcione sua boca a mim em interações futuras."
             ],
-                "hungryresponse": [
-                "If you imagine me to satiate your hunger without payment, you would be sorely mistaken.",
-                "I'm not a charity. Find some food, or exhange something with me."
+            "hungryresponse": [
+                "Se você me vê saciando a sua fome, você está severamente errado.",
+                "Não faço caridade. Ache comida ou troque algo comigo."
             ],
             "thirstyresponse": [
-                "Many pools of drinkable water permeate this place. Make use of them.",
-                "Find thine source of water elsewhere."
+                "Há muitas piscinas com água decente para o consumo neste local. Use elas.",
+                "Encontre vossa nascente d'água em outro lugar."
             ],
-                "sadresponse": [
-                "Please, cease your wailings."
+            "sadresponse": [
+                "Por gentileza, cesse suas lamúrias."
             ],
             "depressedresponse": [
-                "Spiraling into desparity will not solve any of your problems."
+                "Espiralar-se no desespero não resolverá nenhum dos seus problemas."
             ],
-                "selfharmresponse": [
-                "...You really are ill. Stop this."
+            "selfharmresponse": [
+                "...Você está terrivelmente doente. Pare com isso."
             ],
             "braindamagedresponse": [
-                "You are entirely incoherent.",
-                "I'd wager you have a concussion."
+                "Você é inteiramente incoerente.",
+                "Eu postaria que você está com uma concussão."
             ],
-                "hotresponse": [
-                "I may let you use this lifepod's cooler if you behave."
+            "hotresponse": [
+                "Eu posso deixar você utilizar o resfriador desta cápsula se você se comportar."
             ],
             "coldresponse": [
-                "Exercise. You will warm up in the blink of an eye."
+                "Se exercite. Você vai aquecer em um piscar de olhos."
             ],
-                    "bleedingresponse": [
-                "Please don't bleed all over me.",
-                "I implore you to take care of your wounds."
+            "bleedingresponse": [
+                "Por favor, não sangre em cima de mim.",
+                "Eu imploro a você, cuide dos seus ferimentos."
+            ],
+            "painresponse": [
+                "A dor é garantida aqui em baixo. Crie resistência.",
+                "Engula um analgésico. Você deve ter um..."
+            ],
+            "dirtyresponse": [
+                "Exato. Você está imundo. Evite encostar em mim até você se limpar."
+            ],
+            "encumberedresponse": [
+                "Por acaso, doeria em você soltar algumas coisas pesados aqui comigo?",
+                "Que provocante que você é."
+            ],
+                "dyingresponse": [
+                "Não acho que RCP vai te ajudar nessa situação.",
+                "Sério? Morrendo, no MEU chão?",
+                "Acha mesmo que todo esse pânico vai melhor sua situação?"
 			]
 		},
         {
@@ -4334,41 +4356,56 @@
                 "Du-no gos-ta lugar atu-al..."
             ],
                     "vomitresponse": [
-                "Fri-end... Throw... Up... Feel si-ck?"
+                "Ami-go... Vomi-ta... Sente do-ente?"
             ],
             "vomitbloodresponse": [
-                "Du-ne... Smell blo-od... From... Fri-end... Tas-ty..?"
+                "Du-na... Chei-ra sangue... de... A-migo... Go-sto bom..?"
             ],
                 "hungryresponse": [
-                "Du-ne understand... Dune hung-ry too!",
-                "Agree... Du-ne need fo-od too!"
+                "Du-no en-tende... Duno fa-minto tambem!",
+                "Isso... Du-no precisa comida tam-bem!"
             ],
             "thirstyresponse": [
-                "Du-ne drink puddle... Feel bet-ter... Friend try?",
-                "Mm-m... Slu-rp time?"
+                "Du-na beber po-ça... Sen-tir melhor... Ami-go tentar?",
+                "Mm-m... Hora de re-fres-co?"
             ],
                 "sadresponse": [
-                "Fri-end feel bad..? Why?"
+                "Ami-go sente mal..? P-or que?"
             ],
             "depressedresponse": [
-                "Fri-end look very bad... Co-me sit with du-ne!"
+                "Amigo pare-ce mui-to mal... Fi-que sen-tado com Duna!"
             ],
                 "selfharmresponse": [
-                "Why is fri-end hurt? Fri-end evil?"
+                "Por  que amigo machu-ca? Ami-go é mau?"
             ],
             "braindamagedresponse": [
-                "Du-ne agree.",
+                "Du-no con-corda.",
                 ".........?"
             ],
                 "hotresponse": [
-                "Du-ne never feel hot! Du-ne love heat..."
+                "Du-na nunca sen-te quente! Du-na ama ca-lor..."
             ],
             "coldresponse": [
-                "Du-ne scared of co-ld... Room is wa-rm! Fri-end stay wi-th dune..."
+                "Du-no teme frio... Sala é quen-te! A-migo fica com Du-no..."
             ],
                     "bleedingresponse": [
-                "Fri-end is hurt. Fri-end need help!",
-                "Fri-end smell like blood. Du-ne like."
+                "A-migo machu-cado. Amigo precisa ajuda!",
+                "Ami-go cheira a s-angue. Du-na gos-ta."
+            ],
+            "painresponse": [
+                "A-migo fe-rido..?",
+                "Du-no ent-ende... Du-no t-ambém tem dor! Ami-go bem?"
+            ],
+                "dirtyresponse": [
+                "O que é su-jo?"
+            ],
+            "encumberedresponse": [
+                "Pos-so pegar coisas de a-migo?",
+                "Du-no pode a-liviar peso!"
+            ],
+                "dyingresponse": [
+                "O que erra-do com -ami-go..?",
+                "Du-na não sabe como a-judar..."
 			]
         }
     ],
@@ -4520,7 +4557,7 @@
                 "Item3": "milky"
             },
             {
-                    "Item1": "I'm not very strong, so I've been hoping to team up with others. We'd have a much higher chance of survival that way, but nobody I've asked is interested. Everyone is scared and some of us are dangerous. There are so many traps that it's impossible to travel in large groups. I know I'm going to die for a completely stupid reason...\n\nHumans are so cruel. I can't understand it.",
+                "Item1": "Não sou muito forte, então tenho esperança de me juntar a outros. Teríamos uma chance muito maior de sobreviver assim, mas ninguém a quem perguntei está interessado. Todos estão com medo e alguns de nós somos perigosos. Há tantas armadilhas que é impossível viajar em grupos grandes. Sei que vou morrer por um motivo completamente estúpido...\n\nOs humanos são tão cruéis. Não consigo entender.",
                 "Item2": "",
                 "Item3": "milky"
             },
