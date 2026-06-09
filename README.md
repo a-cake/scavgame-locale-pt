@@ -17,7 +17,6 @@ Please read the [contribution guidelines](/.github/CONTRIBUTING.md) for ways in 
 The [translation notes](./TranslationNotes.md) may provide additional context and rules on how to translate specific text from the English locale.
 
 ## Locales
-
 | File | Locale State | Contributors |
 |------|-------------|--------------|
 | [English (**Reference**)](/EN.json) | N/A | [Orsoniks](https://github.com/Orsoniks) |
@@ -47,4 +46,3 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 
 ## Owner
 * [Orsoniks](https://github.com/Orsoniks)
-
