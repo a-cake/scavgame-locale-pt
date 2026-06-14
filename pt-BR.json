@@ -18,8 +18,8 @@
         "plasticbandagedsc": "Um rolo de material sintetizado e forte, feito para eficientemente cobrir feridas e estabilizar fraturas. Não muda a saúde muscular.",
         "adhesivebandage": "Curativos adesivos",
         "adhesivebandagedsc": "Um pacote de curativinhos adesivos, feitos para tratar feridas pequenas. Diminui sangramento.",
-                "musharm": "Braço-gumelo",
-        "musharmdsc": "Parte incomestível de uma planta-gumelo, útil como uma bandagem improvisada, de uso único. Pode ser usada como folhagem em criações",
+        "musharm": "Vinhembrulho",
+        "musharmdsc": "Parte incomestível de uma planta, útil como uma bandagem improvisada, de uso único. Pode ser usada como folhagem em criações",
         "paincream": "Creme de alívio",
         "paincreamdsc": "Um pequeno frasco de 100ml usado para manter creme de alívio. Dosagem de 10 ml.",
         "morphine": "Seringa de morfina",
@@ -298,12 +298,12 @@
         "tutorialradiodsc": "Você é normalmente dado um para sessões de treinamento. Sem certeza se as mensagens são ao vivo ou são pré-gravadas. Tem um botão que você pode apertar.",
         "mp3player": "Tocador de MP3",
         "mp3playerdsc": "Surpreendentemente, ainda funciona. Tem enorme espaço de armazenamento e está com algumas músicas salvas. Você pode tocar uma delas para se entreter.",
-                "mushpear": "Pera-gumelo",
-                "mushpeardsc": "Uma parte azul de uma planta-gumelo, feita para distribuir água. Mal é comestível, e tem propriedades de absorção de peso estranhas. Diminui o seu peso quando for comida. O gosto é ruim e parece ter concentrações de ópio.",
-                "mushtail": "Rabo-gumelo",
-                "mushtaildsc": "O fim do rabo de uma planta-gumelo. Contêm um químico que pode instantaneamente deixar alguem nocauteado por um tempo, melhorando o humor depois de acordar. Estranha, e não tem nenhum valor nutricional.",
-        "mushball": "Águaçã",
-        "mushballdsc": "Uma fruta aquosa, que parece uma bolha. Parece nojento, mas tem bastante água. Apodrece muito rápido.",
+        "mushpear": "Amorestesia",
+        "mushpeardsc": "Parte de uma junquósa, responsável pela filtração e distribuição da água. Tem propriedades de absorção de peso estranhas. Diminui o seu peso quando for comida. O gosto é ruim e parece ter concentrações de ópio.",
+        "mushtail": "Rabo-do-sono",
+        "mushtaildsc": "O fim do rabo de uma junquósa. Contêm um químico que pode instantaneamente deixar alguem nocauteado por um tempo, melhorando o humor depois de acordar. Estranha, e não tem nenhum valor nutricional.",
+        "aquapple": "Águaçã",
+        "aquappledsc": "Uma fruta aquosa, que parece uma bolha. Tem o visual e a textura nojenta, mas contém bastante água. Apodrece muito rápido.",
         "droppings": "Excrementos",
         "droppingsdsc": "Fezes, cocô, merda, bosta, estrume, excreção, titica, o que for, deveria entrar na sua boca.",
         "smallpack": "Mochila pequena",
@@ -450,9 +450,9 @@
         "frigiantfruitdsc": "Uma fruta muito fria, dura e meio refletiva. Gostosa, mas com essa temperatura, ela pode te fazer de picolé.",
         "helluce": "Alferno",
         "hellucedsc": "Uma erva púrpura seca com um sabor particularmente picante. Frequentemente usada como tratamento para certas aflições - ajuda contra enjoo, auxilia no tratamento da audição e talvez minimize sangramento interno. Use com cuidado - ela esquenta muito o usuário.",
-                "bulbskin": "Pele de bulbo",
-        "bulbskindsc": "Casca amarela, oleosa e grossa de uma planta. Possui altas doses de adrenalina e é hidratante, mas pode afetar negativamente o funcionamento cerebral. Também pode ser usada como curativo improvisado e analgésico.",
-        "popfruit": "Frutolito",
+        "bulbskin": "Popcasca",
+        "bulbskindsc": "Um pedaço de membrana amarela. É hidratante, mas pode afetar negativamente o funcionamento cerebral. Também pode ser usada como curativo improvisado e analgésico.",
+        "popfruit": "Popfruta",
         "popfruitdsc": "Uma estranha fruta brilhante e retangular. Saborosa, sacia a fome e a sede. Também pode aleatoriamente afetar a radiação do seu corpo. Faz um som alto ao acertar uma superfície - útil para checar a altura de quedas.",
         "antisepticmush": "Cogumelo antisséptico",
         "antisepticmushdsc": "Pedaços de frutas e folhagens amassadas, resultando em uma mistura eficaz no tratamento de infecções. Uso único.",
@@ -678,8 +678,8 @@
         "medcratedsc": "Tem itens de cura e seus relacionados dentro.",
         "rechargingstation": "Estação tomada",
         "rechargingstationdsc": "Um lugar para recarregar baterias, que ironicamente, não vem com uma. Aceita qualquer bateria de qualquer tamanho, e aparentemente nunca para de funcionar. Use para colocar uma bateria da sua mão principal, e então arrastar a bateria até você mesmo.\n\nTem um tocador de música nela enquanto você espera...",
-        "mushplant": "Junquósa",
-        "mushplantdsc": "Tem diversas ramificações com frutas-bolhas nas pontas. Parece molhada...",
+        "hydreed": "Junquósa",
+        "hydreeddsc": "Tem diversas ramificações com \"frutas-bolhas\" nas pontas. Parece molhada...",
         "OxygenCrystal": "Cristal de oxigênio",
         "OxygenCrystaldsc": "Parece estar lentamente borbulhando...",
         "reinforceddoor": "Porta reforçada",
@@ -745,8 +745,8 @@
         "geyserdsc": "Um gêiser instável com uma tendência de atirar água. Mas pelo menos no máximo, á temperatura normal.",
         "oilpipe": "Cano de esgoto",
         "oilpipedsc": "Um cano enferrujado com óleo derramando dele. Você não quer olhar dentro... Vai provavelmente encher o lugar todo com óleo uma hora.",
-        "plantiation": "Plantulito",
-        "plantiationdsc": "Um planta roxa, longa, com um bulbo semitransparente crescendo em seu extremo.",
+        "pop": "Plantulito",
+        "popdsc": "Um planta roxa, longa, com um bulbo semitransparente crescendo em seu extremo.",
         "mushroomdropper": "Queda-gumelo",
         "mushroomdropperdsc": "Um fungo que se solta para espalhar esporos em qualquer visitante azarado.",
         "mushroomdropperpayload": "Chapéu de queda-gumelo",
@@ -980,7 +980,7 @@
         "overdose1dsc": "Calmo, relaxando. Seu corpo parece dormente.",
         "overdose2dsc": "Muito calmo, ainda relaxando, mas, seus pulmões estão pesando. Um pouco mais cansado que o normal. A sensação é muito boa, por enquanto...",
         "overdose3dsc": "Respiração dificultada, mas, com a mente eufórica. Não deve te fazer bem. Isso poderia durar para sempre...",
-        "overdose4dsc": "Insuficiência respiratória. Você está deixando este mundo em uma euforia cheia de droga. Asfixia iminente.",
+        "overdose4dsc": "Insuficiência respiratória. Você está experienciando uma euforia cheia de droga. Asfixia iminente.",
         "withdrawal1dsc": "Você adoraria mais uma dose.",
         "withdrawal2dsc": "Seu corpo está desesperado por mais uma dose. Vontade de vomitar... A sensação é bem ruim. Tratamento recomendado.",
         "withdrawal3dsc": "Você está lutando para se manter funcional, tremendo, desesperado por qualquer forma de alívio. A sensação é horrível. Tratamento necessário.",
@@ -1527,7 +1527,7 @@
         "resettodefault": "Redefinir para o padrão",
         "tabvideo": "Video",
         "tabaudio": "Áudio",
-        "tabgame": "Gameplay",
+        "tabgame": "Jogo",
         "tabinput": "Controles",
         "tablanguage": "Linguagem",
         "gamesetreswidth": "Resolução: largura",
@@ -1554,7 +1554,7 @@
         "gamesetlineofsightcountdsc": "O quão detalhada são as sombras da sua linha de visão, quando visíveis. Valores altos podem piorar a performance",
         "gamesetscreenshake": "Chacoalhar de tela",
         "gamesetscreenshakedsc": "O quanto que a tela vai sacudir depois de uma queda alta, explosão, etc.",
-        "gamesetcensorpain": "Censurar pain",
+        "gamesetcensorpain": "Censurar dor",
         "gamesetcensorpaindsc": "Desativa os choros de dor e pega leve em certos diálogos de fala.\nNOTA: Não é recomendado. Ative apenas se você realmente precise disso para continuar jogando",
         "gamesetcensormood": "Censurar humor",
         "gamesetcensormooddsc": "Alivia os eventos de humor baixo e alguns diálogos de fala..\nNOTA: Não é recomendado. Ative apenas se você realmente precise disso para continuar jogando.",
@@ -1570,8 +1570,8 @@
         "gamesetinventoryuseleniencydsc": "Quanto tempo você precisa esperar até puder usar um item depois de abrir o inventário. Valores menores deixam essa espera menor",
         "gamesetskipintro": "Pular intro",
         "gamesetskipintrodsc": "Porque você já viu a introdução vezes demais...",
-        "gamesetrpc": "Rich presence",
-        "gamesetrpcdsc": "Ativa a Rich Presence do Discord para o jogo aparecer no seu perfil",
+        "gamesetrpc": "Presença no Discord",
+        "gamesetrpcdsc": "Ativa a \"Rich Presence\" do Discord para o jogo aparecer no seu perfil",
         "gamesetmastervolume": "Volume geral",
         "gamesetmastervolumedsc": "",
         "gamesetmusicvolume": "Volume da musica",
@@ -1653,7 +1653,7 @@
         "amputationMinigameGuide": "Corte através do membro para amputá-lo. Lembre-se de estancar o sangramento depois.",
         "aedMinigameGuide": "Siga as instruções mostradas.",
         "manualDefibMinigameGuide": "Equilibre a carga elétrica proporcional ao quão grave for a fibrilação do coração, carregue e então de o choque. Repita se necessário. \nA média recomendada de carga (POW.EST) fica mais precisa quanto maior a INT.",
-        "handCrankMinigameGuide": "Grab the handle and rotate it to charge.",
+        "handCrankMinigameGuide": "Agarre a alavaca e gire-a para carregar.",
  		"aedstate0": "Posicione os eletrodos nos locais indicados.",
         "aedstate1": "Analisando pulso",
         "aedstate2": "Choque recomendado.\nPressione o botão para administrar choque.",
@@ -1779,7 +1779,7 @@
         "craftingcourse": "Curso de Criações",
         "firstaidcourseunlock": "Alcance a segunda camada para desbloquear ",
         "craftingcourseunlock": "Alcance a terceira camada para desbloquear ",
-        "sandbox": "Sandbox",
+        "sandbox": "Ambiente de Testes",
         "escapecourse": "ALERTA: TENTATIVA DE FUGA PEQUENA",
         "escapecourse1": "Você aparenta estar tentando fugir. Por favor mantenha a calma enquanto nossos seguranças vem lhe ajudar.",
         "escapecourse2": "Agradecemos sua cooperação.",
@@ -2911,7 +2911,7 @@
             "suicide": [
                 "Adeus. Adeus PARA SEMPRE. Esse foi meu LIMITE!!! FODA-SE TODO O RESTO!",
                 "Tô farto disto. Foda-se missão, FODA-SE EU e VÃO, SE, FODER.",
-                "Eu avisei IDOTA. EU AVISEI, seu bosta. CHEGA!",
+                "Eu avisei IDIOTA. EU AVISEI, seu bosta. CHEGA!",
                 "Deixarei essa bosta de mundo de uma vez por todas.",
                 "Paz. Tchauzinho. Foda-se isso eu tô saindo. Direto para o inferno por isso.",
                 "Tô no limite de TODA ESSA MERDA. NO LIMITE! CAI FORA!!!",
@@ -4355,13 +4355,13 @@
             "tradermovefail": [
                 "Du-no gos-ta lugar atu-al..."
             ],
-                    "vomitresponse": [
+            "vomitresponse": [
                 "Ami-go... Vomi-ta... Sente do-ente?"
             ],
             "vomitbloodresponse": [
                 "Du-na... Chei-ra sangue... de... A-migo... Go-sto bom..?"
             ],
-                "hungryresponse": [
+            "hungryresponse": [
                 "Du-no en-tende... Duno fa-minto tambem!",
                 "Isso... Du-no precisa comida tam-bem!"
             ],
@@ -4369,26 +4369,26 @@
                 "Du-na beber po-ça... Sen-tir melhor... Ami-go tentar?",
                 "Mm-m... Hora de re-fres-co?"
             ],
-                "sadresponse": [
+            "sadresponse": [
                 "Ami-go sente mal..? P-or que?"
             ],
             "depressedresponse": [
                 "Amigo pare-ce mui-to mal... Fi-que sen-tado com Duna!"
             ],
-                "selfharmresponse": [
+            "selfharmresponse": [
                 "Por  que amigo machu-ca? Ami-go é mau?"
             ],
             "braindamagedresponse": [
                 "Du-no con-corda.",
                 ".........?"
             ],
-                "hotresponse": [
+            "hotresponse": [
                 "Du-na nunca sen-te quente! Du-na ama ca-lor..."
             ],
             "coldresponse": [
                 "Du-no teme frio... Sala é quen-te! A-migo fica com Du-no..."
             ],
-                    "bleedingresponse": [
+            "bleedingresponse": [
                 "A-migo machu-cado. Amigo precisa ajuda!",
                 "Ami-go cheira a s-angue. Du-na gos-ta."
             ],
@@ -4547,7 +4547,7 @@
                 "Item3": "milky"
             },
             {
-                    "Item1": "I took a bad fall. REAL bad. Right into a hole and couldn't climb or dig out of with my injuries. But I made it out with these bits of scrap metal, and want to let others know this, too. \n\nIts the cavern walls! Nothing I've found- even dynamite -seems to be able to penetrate the outer boundaries of the caverns. But they are uneven, and if you stack enough bits of scrap metal on top of each other, you can wedge them in these tiny gaps and make an entire scrap foothold. When I was bleeding out in that dark hole, I used my collected debris to make a sort of staircase to escape and find emergency supplies.\n\nI hope you never wind up in that situation, though. Maybe you could use this trick to protect you from injury in the first place? Who knows what other nasty things are in here with us. \n\nMaybe you'll catch up to me and we can share strategies. \nI hope I'll be there to meet you.",
+                "Item1": "Sofri uma queda feia. BEM feia. Cai dentro de um buraco e não conseguia escalar de volta, nem cavar devido aos meus ferimentos. Mas eu consegui sair graças a alguns pedaços de metal e eu quero que outros saibam sobre isso. \n\nSão as paredes da caverna! Nada que eu encontrei, nem mesmo dinamite, conseguia penetrar as paredes mais externas desta caverna. Mas elas são irregulares, e se você empilhar pedaços de metal um em cima do outro é possível encaixar eles em vãos pequeninos criando um ponto de apoio metálico. Quando eu estava sangrando naquele buraco escuro eu utilizei os pedaços de metal na criação de uma escada improvisada, escapei e busquei suprimentos de emergência. \n\nEspero que você nunca se encontre em uma situação parecida. Talvez você possa usar esse truque para evitar danos futuros, quem sabe? E quem sabe os outros perigos que nos esperam aqui em baixo. \n\nTalvez eu e você nos encontraremos e poderemos compartilhar estratégias. \nEspero estar lá para lhe conhecer.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4562,7 +4562,7 @@
                 "Item3": "milky"
             },
             {
-                    "Item1": "(The note is crumpled up and crushed, as if it was meant to be thrown away.)\n<>\nmy friend they... i think they killed themselves. after another bad fall i tried fixing up their legs but they kept telling me off. they kept shooing me away like some sort of fly, telling me to leave them alone. i didnt get it. i left to grab some of the plants here to try and bandage them up but... when i came back they had another wound. one on their arm. i still remember what it looked like, it was bad, practically ripped apart. i tried to use the plants i found to fix up the new wound but they kept pushing me away. their eyes were... looked just... empty. i told them to stop and just let me help but they didnt respond. i tried to help a couple more times and theyd shove me away until they just... stopped. i remember seeing their body relax, i think thats when they stopped breathing. i cant get that image out of my head...\n<>\ndid... did i do something wrong? i swear i didnt... what did i do wrong? why did they do that? i... i didnt do anything. i dont understand, i dont want to die... i dont... i...\n<>\n...\n<>\nhaha...\n<>\nits so lonely in here.\n<>\n(You notice faint, dried tear drops and dried blood riddled among the wrinkled up note.)",
+                "Item1": "(Parece que esta nota foi toda amassada, como se tivesse sido descartada.)\n<>\nmeu amigo ele... acho que ele tirou a propria vida. depois de cairmos de um lugar alto eu tentei consertar as pernas dele mas ele mandava eu me afastar. ele continuou me evitando como se eu fosse uma mosca, falava para eu deixar ele em paz. eu nao entendia. eu sai de perto para pegar plantas e fazer um curativo nele mas... quando voltei ele estava com outro ferimento. no braço. ainda tenho a imagem vivida na cabeça, estava feio, quase decepado. tentei usar as plantas que tinha pego para consertar o ferimento novo mas ele continuava me afastando. os olhos dele... pareciam... vazios. eu falei para ele parar e deixar eu ajudar mas nao tive uma resposta. tentei insistir em ajudar mas ele continuava me empurrando até que... ele parou. lembro de ver o seu corpo relaxando, acho que foi ai que ele parou de respirar. não consigo tirar essa imagens da minha cabeça... \n<>\neu fiz... algo de errado? eu jurava que não tinha feito... o que eu fiz de errado? por que ele fez isso? eu... eu nao fiz nada. nao entendo, eu nao quero morrer... eu nao... eu...\n<>\n...\n<>\nhaha...\n<>\né tao solitario por aqui.\n<>\n(Manchas fracas do que parece ser sangue seco e lagrimas estão espalhadas pela nota amassada.)",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4584,7 +4584,7 @@
                 "Item3": "experiment"
             },
             {
-                    "Item1": "i dont like not knowing what to do. back at home they would always tell me. play this game, be quiet when a human is talking, get stabbed by these pokey things.\nnow im supposed to complete this mission but i dont know how to do it. im thirsty and i hurt my leg but im also really dirty and cold and i have no idea where to go other than down.\ni guess ill try to stop what's going to kill me the fastest. i hope it works.",
+                "Item1": "eu nao gosto de nao saber o que fazer. onde eu morava antes eles me falavam tudo. jogue este jogo, fique quieto quando um humano fala, seja perfurado por essas coisinhas pontudas. \nagora eu tenho que terminar essa missao mas nao tenho ideia como fazer. eu to com sede e machuquei minha perna, mas eu tambem to sujo com frio e nao tenho ideia de onde ir a nao ser pra baixo.\nacho que vou tentar impedir aquilo que for me matar mais rapido. espero que funcione.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4661,7 +4661,7 @@
                 "Item3": "milky"
             },
             {
-                    "Item1": "Curious, I attempted to traverse in a prone position.\n<>\nThe utility was unexpected. Not only does it allow one to rinse off contaminants in shallow puddles and squeeze through narrow gaps, but remarkably, even crawling over scattered glass shards resulted in no injury.\n<>\nHowever, complacency is dangerous. I misjudged a slight drop and injured myself. \n<>\nScuttling around like that... I must have looked just like one of those \"worms\" I heard about.",
+                "Item1": "Curioso, tenho tentado me movimentar com rastejo.\n<>\nÉ inesperadamente útil. Esse movimento não só permite eu me limpar em poças d'água e passar por buracos menores, como também permite a movimentação em lugares com vidro quebrado sem ocorrer ferimentos.\n<>\nContudo, ser negligente ao rastejar é bem perigoso. Eu calculei errado uma queda e acabei me ferindo ao descer. \n<>\nMe debatendo daquela forma... Eu deveria estar parecendo uma daquelas \"minhocas\" que ouvi falar.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4671,12 +4671,12 @@
                 "Item3": "dune"
             },
             {
-                    "Item1": "It hurts me to admit, but the frailty of my kind cannot be denied. Luckily, I have found a wonderful container that outright nullifies the weight of most items, allowing me to carry more supplies than I'd normally be able to.\nIt runs on batteries, and that worries me. I am not sure what will happen once the power runs out, so I'll check it now, to be safe.<>\nI don't want it to become heavy mid-jump. I have an almost dead battery on me.\nTime to see how the bag behaves once its power runs out.\n\n(The rest of the note is unreadable; whatever text was written below is covered up by a copious amount of dried blood.)",
+                "Item1": "Me dói admitir isso, mas a fragilidade da minha espécie não pode ser negada. Por sorte eu encontrei um container maravilhoso, ele quase nulifica o peso da maioria dos itens, permitindo eu carregar muito mais suprimentos.\nFunciona a baterias e isso me preocupa. Não tenho certeza o que pode acontecer quando sua carga acabar, então eu vou testar isso agora, só por segurança. <>\nNão quero sentir todo esse peso enquanto estiver pulando por aí. Tenho uma bateria que está quase morta.\nHora de ver o que esse dispositivo faz quando está sem força.\n\n(O resto da nota está incompreensível; qualquer que seja o texto escrito abaixo, agora está coberto por litros de sangue seco.)",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                    "Item1": "Not even out of this rocky hellscape, and I already feel like death is near,\nAll they gave me was a shitty torch that didnt even last an hour; not even any safety gear to help cushon these falls i've been taking.\n\nFUCK ME, I feel like a ball from one of those gambling machines I would see those humans using!\n\nI think I might be slowly dying, ever since the last fall, I've been feeling pretty heavy headed, I feel tired; but I feel if i sleep, I will die.\n\nGod save me.\nFUCK, man.\nI really don't want to die, not like this..\nThough what even is the point of all this?\nI don't even have a name for myself, just a tag..\nFuck...",
+                "Item1": "Não pareço estar nem perto de sair desse inferno rochoso e já sinto a morte se aproximando.\nA única coisa que eles me deram foi a merda de uma lanterna que não dura nem uma hora; nenhum equipamento de segurança para lidar com todas essas quedas.\n\nVAI SE FUDER, eu me sinto como uma bola das maquinas de jogo que via os humanos jogarem!\n\nAcredito estar morrendo lentamente, desde a última queda minha cabeça parece estar mais pesada que o normal, me sinto cansado; mas também sinto que se eu cair no sono acabarei morrendo.\n\nDeus me livre.\nQUE MERDA.\nEu não quero morrer, não assim... \nSe bem que... Qual é o ponto disso tudo?\nEu nem mesmo tenho um nome, só um número...\nDroga...",
                 "Item2": "",
                 "Item3": "milky"
 			}
@@ -4713,7 +4713,7 @@
                 "Item3": "dune"
             },
             {
-                    "Item1": "tons of bushes around this place, though i cant say ive seen any that are alive. i think theyre pretty useful for making ropes and cushioning falls, but they also tend to hide traps...",
+                "Item1": "tanto arbustos por aqui, porem nao acho que vi algum que parecesse vivo. eu acho eles muito uteis pra amortecer quedas e criar cordas, o problema é que eles tambem escondem armadilhas as vezes...",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4750,7 +4750,7 @@
                 "Item3": "milky"
             },
             {
-                    "Item1": "The button next to the trigger on a pistol is the magazine release, whereas on a shotgun, it's typically the safety. Also, whenever you work the action (like pulling the bolt), it ejects the round in the chamber. Last time I did that, I lost a buckshot - pretty unfortunate.",
+                "Item1": "O botão próximo ao gatilho em uma pistola é o de soltar o carregador, diferente das escopetas, que normalmente é a trava de segurança. Bom lembrar, sempre que você acionar um ferrolho(como a alavanca de um rifle), a munição da câmara será ejetada. Da última vez que fiz isso eu infelizmente perdi um cartucho.",
                 "Item2": "Sprites/noteDrawings/pistol",
                 "Item3": "milky"
             },
@@ -4826,7 +4826,7 @@
                 "Item3": "experiment"
             },
             {
-                    "Item1": "I dont know what hit me but I cant feel my leg anymore, all I can see is a tangled mess of muscle bone and blood\nmy body is screaming for the agony to end \nthe only thing I have is this blue device on my chest. I was told by the trader I bought it from that it should only be used in emergencies.\nThe pain is not unbearable anymore, but the light is blinking now. I dont know how long I have left. will the darkness return when this thing runs out? I dont want to fade away...",
+                "Item1": "Não sei ao certo o que me acertou, mas, não sinto mais a minha perna, ela parece um amontoado de músculo, osso e sangue\nmeu corpo grita pedindo pra essa agonia cessar \ntudo o que tenho é este dispositivo azul preso ao meu peito. O ser com quem negociei disse para usar somente em emergências. \nA dor não está mais insuportável, mas a luz do dispositivo começou a piscar. Não sei quanto tempo tenho. Será que a escuridão vai voltar quando a bateria dessa coisa acabar? Não quero acabar apagando...",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -5112,6 +5112,5 @@
         "Você é resiliente demais pro seu próprio bem.",
         "Ei, estavamos chegando na parte boa!",
         "Não se conforte."
-    ]
-    
+    ] 
 }
