@@ -1,6 +1,7 @@
 {
     "name": "Português Brasileiro",
-    "description": "Tradução brasileira não oficial criada por fãs. Ela pode estar incompleta para a ultima versão do jogo e/ou estar fora dos padrões de qualidade.\n\n<color=\"white\">Mantida por: a cake, woforu, goatwithagun (cabradeartilharia), Pedro Lucas da Silva Sousa (PedSen), nickloras e David Costa (ZonaryH)</color>\n\n<color=\"white\">Parcialmente atualizada para: V7.1</color>.",
+    "description": "Tradução brasileira não oficial criada por fãs. Ela pode estar incompleta para a ultima versão do jogo e/ou estar fora dos padrões de qualidade.\n\n<color=\"white\">Mantida por: a cake, woforu, goatwithagun (cabradeartilharia), Pedro Lucas da Silva Sousa (PedSen), nickloras e David Costa (ZonaryH)</color>\n\n<color=\"white\">.",
+    "version": "7.7.9",
     "main": {
         "bandage": "Bandagem",
         "bandagedsc": "Um rolo de gaze com uma atadura, usado para estancar sangramentos, estabilizar fraturas e ajudar na cicatrização da pele. Não muda a saúde muscular.",
@@ -75,7 +76,7 @@
         "bloodsac": "Saco de sangue",
         "bloodsacdsc": "Um saco pequeno e gosmento de sangue. Não parece muito diferente do seu sangue. Pode ser comido ou usado em criações.",
         "venomgland": "Glândula de veneno",
-        "venomglanddsc": "Uma pequena glândula salivaria que produz e guarda hemotoxinas. Você provavelmente pode usar ela na produção de um antidoto.",
+        "venomglanddsc": "Uma pequena glândula salivaria que produz e guarda hemotoxinas. Você provavelmente pode usar ela na produção de um antiveneno.",
         "saline": "Bolsa de soro",
         "salinedsc": "Uma bolsa de 750 ml com um autoinjetor de fluidos por via intravenosa.",
         "ringersolution": "Bolsa pequena de soro",
@@ -334,6 +335,8 @@
         "blindfolddsc": "Um pedaço preto de pano para cobrir seus olhos. Oferece minúscula proteção, mas vai fechar os olhos do seu personagem.",
         "balaclava": "Balaclava",
         "balaclavadsc": "Um pedaço grosso de pano para cobrir sua caveira. Oferece boa insulação e minúscula proteção.",
+        "earmuffs": "Protetor de orelhas",
+        "earmuffsdsc": "Um par moderno de almofadas conectadas por uma haste metálica. Protege você de sons altos e providencia isolamento... de algum jeito. Não vai ajudar muito contra sons <i>extremamente</i> altos.",
         "latexgloves": "Luvas de látex",
         "latexglovesdsc": "Um par simplês de luvas feitas de um certo tipo de borracha. Oferece um pouco de insulação.",
         "tacticalgloves": "Luvas táticas",
@@ -358,8 +361,8 @@
         "hoodiedsc": "Um moletom preto muito grande que te mantém quentinho e tem um bolso pequeno.",
         "metabolismchip": "Chip de metabolismo",
         "metabolismchipdsc": "Um chip que aumenta seu metabolismo um pouquinho, fazendo seus membros se regenerarem muito mais rápido, em troca de usar a sua saciação da fome.",
-        "xalorissponge": "Esponja de Xaloris",
-        "xalorisspongedsc": "Um contêiner de esporos arrancado de um Xaloris. Pode ser usado em seus membros corporais para reduzir infecções ou comido pelo seu valor nutricional. Os esporos podem afetar seu sistema imunológico.",
+        "xalorissponge": "Esponja de chamambaia",
+        "xalorisspongedsc": "Um contêiner de esporos arrancado de uma Chamambaia. Pode ser usado em seus membros corporais para reduzir infecções ou comido pelo seu valor nutricional. Os esporos podem afetar seu sistema imunológico.",
         "jetpack": "Mochila a jato",
         "jetpackdsc": "Um dispositivo usado como mochila, que usa motores á jato para propelir o usuário. O combustível é limitado e não funcionará quando molhado. Segure W para usar. Possui um bolsinho para guardar coisas.",
         "dynamite": "Dinamite",
@@ -605,7 +608,7 @@
         "snowstriderdsc": "Uma criatura enorme e peluda que caça comida nessa região gelada. Eles se mantém aquecidos com seus pelos grossos.",
         "spaceheater": "Aquecedor de ambiente iônico",
         "spaceheaterdsc": "Um dispositivo que aquece o lugar em volta. Pode te deixar um pouco radiado se ficar perto por muito tempo.",
-        "xaloris": "Xaloris",
+        "xaloris": "Chamambaia",
         "xalorisdsc": "Uma samambaia espinhosa e esponjosa que esquenta o ar em volta para espalhar esporos. Esquenta o lugar em volta, mas respirar muito os esporos não vai te fazer bem.",
         "lifepodheater": "Aquecedor de cápsula",
         "lifepodheaterdsc": "Ficará esquentando essa cápsula até o fim dos tempos.",
@@ -689,7 +692,7 @@
         "landminedsc": "Passivelmente aterrorizadora.",
         "leadbush": "Arbusto-chumbo",
         "leadbushdsc": "Tem pedaços de metal pesado crescendo nisso. Parecendo uma planta, é na verdade um animal!",
-        "lifepodchest": "Baú de sobrevivência",
+        "lifepodchest": "Baú de capsula",
         "lifepodchestdsc": "Provavelmente tem equipamentos básicos.",
         "LifePodLight": "Luz",
         "LifePodLightdsc": "Tem uma pseudo-lâmpada nisso. Deve dar para pegar.",
@@ -996,6 +999,7 @@
 		"impendingdoom": "Sensação de aniquilação iminente",
         "horrified": "HORRORIZADO",
         "focused": "FOCADO",
+        "cargo": "<spoiler>",
 		
         "braindamage4dsc": "...",
         "braindamage3dsc": "realidade  ..  parou   fazer   sentido",
@@ -1105,7 +1109,7 @@
         "cold2dsc": "Desagradavelmente frio. Seu corpo está mais lento.",
         "cold3dsc": "Temperaturas perigosamente baixas, corpo e mente pegos pelo frio. Seu corpo inteiro está lentamente desligando.",
         "cold4dsc": "Você sente sua pele em chamas, mas você está tão cansado e confuso que uma soneca longa soa como uma ótima ideia agora...",
-        "wet1dsc": "Seus pelos parecem meio molhados.",
+        "wet1dsc": "Você se sente levemente molhado.",
         "wet2dsc": "Consideravelmente molhado. Temperatura e comforto diminuidos.",
         "wet3dsc": "Ensopado. Temperatura e comforto consideravelmente diminuidos.",
         "wet4dsc": "100% água. Ela tá até te pesando. Temperatura e comforto 100% diminuidos.",
@@ -1114,7 +1118,7 @@
         "underweight3dsc": "Você está perigosamente magro e frágil. Enfraquecimento maior, propenso ao cansaço e a letargia. Capacidade de carga reduzida.",
         "underweight4dsc": "Você está excessivamente magricelo. Você vê e sente seus ossos pelo seu pelo sem dificuldade. Alto risco de insuficiência cardíaca. Capacidade de carga muito reduzida",
         "overweight1dsc": "Tente perder uns quilos.",
-        "overweight2dsc": "Acima do peso, ainda que, comparado a outras espécies você parece normal. Desajeitado, você se cança mais rapido.",
+        "overweight2dsc": "Acima do peso. Desajeitado, você se cança mais rapido.",
         "overweight3dsc": "Perigosamente largo e fofinho. Muito desajeitado e mais propenso a exaustão.",
         "overweight4dsc": "Obesidade com risco de vida. É como se você fosse um saco de pelos cheio de gordura e pura gula. Alto risco de insuficiência cardíaca.",
         "depression1dsc": "Começando a perceber a gravidade da sua situação. Tente se distrair.",
@@ -1167,7 +1171,8 @@
         "keratinboosterdsc": "Suas garras crescem três vezes mais rápido. (<>)",
 		"impendingdoomdsc": "Por algum motivo, você está sentindo uma intensa sensação de medo. O seu pelo tá extremamente arrepiado. É como se a natureza ao seu redor, de repente, se calou...",
         "horrifieddsc": "NÃO DA PRA FOCAR. NÃO DA PRA PENSAR DIREITO. NADA MAIS IMPORTA. LUTE POR SUA VIDA OU CORRA!",
-        "focuseddsc": "<i>Ambos iremos partir hoje. Um, vai um pouco mais cedo que o outro."
+        "focuseddsc": "<i>Ambos iremos partir hoje. Um, vai um pouco mais cedo que o outro.",
+        "cargodsc": "<spoiler>"
     },
     "other": {
 		"fullmouthchars": "mnoae",
@@ -1461,6 +1466,7 @@
         "milkytraderdsc": "Uma criatura branca e peluda, de estatura relativamente baixa quando comparada a sua, com um focinho bem plano e curto e chifres brancos em sua cabeça. Julgando pelo par de barbatanas presentes em suas costas, eles provavelmente devem possuir alguma característica aquática. Eles provavelmente vão estar carregado com si alguma arma para compensar as suas frágeis características físicas. Eles parecem ser bem inteligentes e um pouco arrogantes. Eles não são muito afetuosos, então talvez seja mais difícil conseguir um abraço deles.",
         "dune": "Duno",
         "dunetraderdsc": "Alto, largo e amedrontador, com mais músculos do que cérebro. Os corpos deles são recobertos por barbatanas de estranha aparência. Possui 6 extrusões, de formato espinhoso, na parte lateral de sua cabeça e uma boca assustadoramente enorme, recoberta por grandes dentes afiados em todos os cantos. Eles parecem ter brânquias ao redor de seu tronco. Apesar de não serem diretamente agressivos, eles provavelmente pensam somente em comer. Não devem se importar muito com o que você os oferecer de bugiganga; Você vai ter que pensar em outras maneiras de ganhar o respeito deles.",
+        "dunespecialtraderdsc": "Comida.",
         "Shelly": "SHEEEEELLLLYYYY!!!!!!",
         "clicktocontinue": "Clique para continuar...\nESC para pular",
 		"favouriteditem": "Itens marcados como favorito não serão usados em criações.",
@@ -1481,7 +1487,12 @@
         "char0quirks": "[CANINO] - Seu estomago não funciona bem com teobromina.\n[VISÃO_BIOLUMINESCENTE] - Em uma emergência você possui sua própria luz.",
         "char1name": "[SAW-03] \"Leitoso\"",
         "char1desc": "[FAMILIA] \"Canino\"\n[FRASE_DESTACADA] \"Estou de acordo.\"\n[PREVISÃO_DE_SUCESSO] \"0.0103%\"\n[NOTAS] \"Um pouco esnobe\"",
-        "char1quirks": "[NARCOLÉPTICO] - Seu ciclo de sono é muito mais curto, mas você não sente os pontos negativos de dormir em solo ruim.\n[ESTATURA] - Você é pequeno!\n[OLHOS_ADAPTADOS] - Sua visão é melhor e as fontes de luz se espalham de forma mais efetiva.\n[SEMI_HERBIVORO] - Carne lhe concede menos nutrientes e te deixa enjoado.\n[MAGRO] - Todo o ganho de FOR é divido pela metade.\n[ATIRADOR] - Você pode usar atalhos de tecla ao manusear armas.\n[FORÇA_DE_FACHADA] - Você é mentalmente mais resiliente. Você não é do tipo que gosta de afeto, a menos que você realmente precise.\n[CANINO] - Seu estomago não funciona bem com teobromina.",
+        "char1quirks": "<spoiler>",
+        "char2name": "[SAW-12] \"Duna\"",
+        "char2desc": "[FAMILY] \"Insectoide\"\n[CALLOUT_QUOTE] \"Hrrnn... Hora do Du-na ir..?\"\n[PREVISÃO_DE_SUCESSO] \"0.001%\"\n[NOTAS] \"Eca! Ele tá babando!\"",
+        "char2quirks": "<spoiler>",
+        "characterunlock": "[ACESSO_NEGADO]",
+        "characterunlockdsc": "Termine uma tentativa com o personagem anterior para desbloquear",
         "presetnormal": "Normal",
         "presetnormaldsc": "A experiencia padrão. Você será punido por erros. Conhecimento e noção situacional são recompensados. Tempo é essencial. Sua morte é praticamente garantida.",
         "presetrelaxed": "Relaxante",
@@ -1493,21 +1504,23 @@
         "presetunchipped": "Sem chip",
         "presetunchippeddsc": "A falta do chip tambem retira o limite de tempo que os outros possuem, contudo fazer o diagnóstico próprio se torna mais difícil. Será que vale a pena no final de tudo?.",
         "presetendless": "Sem fim",
-        "presetendlessdsc": "Não há escapatória; Essa é sua sentença de morte. O quão longe você consegue ir, com obstáculos se multiplicando à sua frente?\n\n[NOTA: Indisponível nesse estágio, já que o jogo atualmente já não tem fim de qualquer jeito.]",
+        "presetendlessdsc": "Não há escapatória; Essa é sua sentença de morte. O quão longe você consegue ir, com obstáculos se multiplicando à sua frente?",
         "runsettings": "Opções da partida",
         "runsettingsdsc": "Escolha um estilo de jogo usando as predefinições abaixo. Você pode modificá-las no painel de opções personalizadas à direita.",
         "customsettings": "Opções personalizadas",
         "customsettingsdsc": "Configure as opções específicas da partida",
         "runsetunchipped": "Sem chip",
         "runsetunchippeddsc": "Desabilita o seu painel de vida, obrigando você a se esforçar mais em descobrir que efermidades específicas você tem. Habilita a linha de visão.",
+        "runsetendless": "Sem fim",
+        "runsetendlessdsc": "Se ativado, fará as camadas entrarem em \"loop\" depois de um ponto, faz sua tentativa durar até sua morte. Você não pode terminar o jogo desta forma.",
         "runsetbaselootdensity": "Densidade de saque",
-        "runsetbaselootdensitydsc": "Quanto saque aparecerá em cada camada. Afeta coisas como cápsulas de lançamento, cápsulas de sobrevivente, e caixas.",
+        "runsetbaselootdensitydsc": "Quanto saque aparecerá em cada camada. Afeta coisas como cápsulas de lançamento, cápsulas de sobrevivente, e caixas",
         "runsetlootmultiplier": "Multiplicador de distância de saque",
-        "runsetlootmultiplierdsc": "A densidade do saque é multiplicada por isso para cada camada que você cruzar\n\nEm outras palavras, se você colocar em p. ex. 0.5x, a quantidade de saque seria reduzida pela metade cada vez que você descesse uma camada.",
+        "runsetlootmultiplierdsc": "A densidade do saque é multiplicada por isso para cada camada que você cruzar\n\nEm outras palavras, se você colocar em p. ex. 0.5x, a quantidade de saque seria reduzida pela metade cada vez que você descesse uma camada",
         "runsetbasetrapdensity": "Densidade de armadilhas",
-        "runsetbasetrapdensitydsc": "Quantas armadilhas aparecem em cada camada. Afeta coisas como armadilhas mecânicas, inimigos, e outros obstáculos.",
+        "runsetbasetrapdensitydsc": "Quantas armadilhas aparecem em cada camada. Afeta coisas como armadilhas mecânicas, inimigos, e outros obstáculos",
         "runsettrapincrease": "Aumento de distância de armadilhas",
-        "runsettrapincreasedsc": "Este número é adicionado à densidade de armadilhas para cada camada que você cruzar\n\nEm outras palavras, se você colocar em p. ex. 0.5x, a quantidade de armadilhas iria de 1x -> 1.5x -> 2x e daí em diante.",
+        "runsettrapincreasedsc": "Este número é adicionado à densidade de armadilhas para cada camada que você cruzar\n\nEm outras palavras, se você colocar em p. ex. 0.5x, a quantidade de armadilhas iria de 1x -> 1.5x -> 2x e daí em diante",
         "runsettimelimit": "Tempo limite das camadas",
         "runsettimelimitdsc": "O tempo (em minutos) que você tem em cada camada antes de ser punido",
         "runsetstartingsupplies": "Kit inicial",
@@ -1515,10 +1528,12 @@
         "runsetstartingsuppliesnone": "Nada",
         "runsetstartingsupplieslight": "Lanterna",
         "runsetstartingsuppliesfull": "Kit completo",
+        "runsetenemystrength": "Força dos inimigos",
+        "runsetenemystrengthdsc": "Multiplicador de quanto dano a fauna hostil causa",
         "runsetxpgain": "Ganho de experiência",
         "runsetxpgaindsc": "Multiplicador do ganho de experiência",
         "runsetmetabolismrate": "Taxa do metabolismo",
-        "runsetmetabolismratedsc": "O quão rápido sua sede/fome/peso/enjoo passa.",
+        "runsetmetabolismratedsc": "O quão rápido sua sede/fome/peso/enjoo passa",
         "runsethealingrate": "Taxa de regeneração",
         "runsethealingratedsc": "O quão rápido seus ferimentos se recuperam. Afeta regeneração do músculo/pele , coagulação, regeneração sanguínea, fraturas, deslocamento e danos cerebrais",
         "runsetfracturepain": "Taxa de dor por fratura",
@@ -1537,6 +1552,8 @@
         "runsetstaminaregendsc": "O quão rápido sua estâmina regenera após ser usada",
         "runsetattackdamage": "Dano de ataque",
         "runsetattackdamagedsc": "O quanto de dano você causa com seus ataques",
+        "runsetinsulationmultiplier": "Multiplicador de isolamento",
+        "runsetinsulationmultiplierdsc": "O quão protegido você está da temperatura ambiente",
         "runsetstrokes": "Habilitar derrames",
         "runsetstrokesdsc": "Determina se você pode ou não ter um AVC durante uma crise hipertensiva",
         "runsetbraindamagefx": "Efeitos de dano cerebral",
@@ -1687,8 +1704,8 @@
         "gamesetbark": "Latir",
         "gamesetconsole": "Ativar console debug",
         "gamesetpause": "Pausar",
-        "gamesetmarksmanrack": "(Atirador) Acionar ferrolho",
-        "gamesetmarksmanunload": "(Atirador) Ejetar carregador",
+        "gamesetmarksmanrack": "(Somente Atirador) Acionar ferrolho",
+        "gamesetmarksmanunload": "(Somente Atirador) Ejetar carregador",
         "copy": "Copiar",
         "paste": "Colar",
         "descend": "Descender",
@@ -1857,8 +1874,10 @@
         "basicscourse": "Treinamento Básico ",
         "firstaidcourse": "Curso de Primeiros Socorros", 
         "craftingcourse": "Curso de Criações",
-        "firstaidcourseunlock": "Alcance a segunda camada para desbloquear ",
-        "craftingcourseunlock": "Alcance a terceira camada para desbloquear ",
+        "movementcourse": "Curso de Movimento",
+        "firstaidcourseunlock": "Alcance a segunda camada para desbloquear",
+        "craftingcourseunlock": "Alcance a terceira camada para desbloquear",
+        "movementcourseunlock": "Alcance a terceira camada para desbloquear",
         "tutorialspecieslock": "Somente realizável com a espécie Experimento",
         "sandbox": "Ambiente de Testes",
         "escapecourse": "ALERTA: TENTATIVA DE FUGA MENOR",
@@ -2239,9 +2258,11 @@
         "tutclosehealthpanel": "Fechar painel de saúde.",
         "tutopenhealthpanel": "Abrir painel de saúde.",
         "tutnice": "Bom.",
+        "outdatedwarning": "<size=200%>EI!<size=100%>\nA linguagem selecionada está desatualizada. Pode ter texto quebrado.\nTente selecionar o inglês ou procure uma versão nova.\n\nA versão mais recente desta tradução pode ser encontrada no \"fork\" pt-BR dentro do GitHub do jogo, se os tradutores quiseram trabalhar. Qualquer duvida/problema/critica, envie mensagem no \"tópico\" BR do servidor oficial do jogo.",
         "surfacebreachnote": "<spoiler>",
         "labenternote": "<spoiler>",
         "biopodnote": "<spoiler>",
+        "biopodnotealt": "<spoiler>",
         "startlorenote": "Ano 2XXX \n<>\nA humanidade havia realizado avanços tecnológicos significantes. Coisas que pareciam impossíveis se tornaram triviais.\n<>\nNo centro disso tudo, uma companhia. Suas pesquisas e progressos evoluindo quase como um milagre, mas com seus segredos firmemente guardados.\n<>\nAnos atras eles desenvolveram uma nova espécie ao combinar DNA animal e humano, essa espécie foi apelidada de:\"Experimento.\"\n<>\nEstes experimentos se tornaram a cobaia perfeita para suas pesquisas, semelhantes o suficiente a humanos, mas de sua autoria para usar da forma que desejassem. Trabalhavam sem descanso em sua criação, distorcendo cada vez mais sua biologia para satisfazer suas necessidades e pesquisas, ao passar dos anos a população dessas criaturas só crescia. \n\nCriaturas que jamais poderiam acessar o mundo exterior. \n<>\nCom o tempo a Terra não pode conter mais suas ambições. Utilizando tecnologia de teletransporte recém desenvolvida eles fazem de um planeta cinza, vibrando com vida, o seu próximo alvo. \n<>\nSem demora, diversos tipos diferentes de carga e lixo foram destinados ao alvo. \n<>\nDevido a dificuldades de calibração, uma parte da carga acabou sendo enviada para o sistema de cavernas do planeta e outra para a superfície, contudo o projeto progrediu sem problemas. \n<>\nIsso é, até um erro desconhecido enviar um pedaço de tecnologia importante para o fundo do sistema de cavernas.\n<>\nSem demora, cientistas desenvolveram um plano. Um plano que não os colocava em uma posição de risco.\n<>\nAs chances de sucesso eram mínimas, mas seu estoque vivo era abundante.\n<>\nVocê é um desses espécime desafortunados.\nResistencia não é uma opção."
     },
     "character": [
@@ -4007,6 +4028,21 @@
                 "...Ah... AH. AH NÃO! NÃO NÃO NÃO. ESPERA. POR QUE? O QUE FOI QUE EU FIZ!?",
                 "...A-ah... T-tá bom então... B-bem... A-adeus, eu acho..."
             ],
+                    "endlessloop0": [
+                        "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
+                    ], 
+                    "endlessloop1": [
+                        "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..?"
+                    ],
+                    "endlessloop2": [
+                        "<spoiler>"
+                    ], 
+                    "endlessloop3": [
+                        "Well! I'm not getting out of here, am I... I think I'm getting used to this."
+                    ],
+                    "endlessloopdefault": [
+                        "Oh, round and round we go..."
+            ],  
             "vomitresponse": [
                 "Uuuhmm... Cê tá... Bem..?"
             ],
@@ -4538,7 +4574,7 @@
                 "The ambient temperature is high."
             ],
             "hot": [
-                "I am very hot.  ...Not like that...",
+                "I am very hot.",
                 "...Hot. Very. Hot.",
                 "I might suffer heatstroke at this rate...",
                 "I am dangerously hyperthermic...",
@@ -4800,6 +4836,21 @@
                 "Oh, oh, why, what, WHY!? STOP THIS! I DO NOT DESERVE THIS! YOU COATED DIPSHITS!",
                 "Hello, beeping. What could this mean?"
             ],
+                    "endlessloop0": [
+                        "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. Not... N-not. What I. Was e-expecting. I must have done something wrong. I s-shall return and try once again."
+                    ],
+                    "endlessloop1": [
+                        "This is not going according to plan. Damn it! What the hell did the coats want me to do!? Such a waste of time and energy."
+                    ],
+                    "endlessloop2": [
+                        "...What a d-depressing outcome. This mission is doomed to fail."
+                    ],
+                    "endlessloop3": [
+                        "This is entirely beyond me. What an exercise in patience. Frustrating. So, so intensely frustrating. Always just out of reach."
+                    ],
+                    "endlessloopdefault": [
+                        "......*sigh*"
+            ],
             "tradermeetnormal": [
                 "Saudações.",
                 "Olá.",
@@ -5022,6 +5073,564 @@
 			]
 		},
         {
+            "seeGravel": [
+                "Ahrnnn... A-qui...",
+                "Nnhh... Cin-za...",
+                "Du-no... Vai...",
+                "...Por que... Pa-rou..?",
+                "Nnnhh... Lu-gar de co-mida...",
+                "Che-ga-mos.",
+                "Frio..?"
+            ],
+            "eatGood": [
+                "Nngghhhrr! De-licia!!",
+                "Ngghraahhh! Du-na gos-ta..!",
+                "Hnnn... Hnnnrr... Bom...",
+                "Co-mida... Boa...",
+                "Gos-to... Espe-ci-al... Nhhrr...",
+                "Nrr... Gost-ei...",
+                "Quero... Ma-is..."
+            ],
+            "eatMediocre": [
+                "Nnnhrrr... Comida...",
+                "Du-no... Come... Nrrhh...",
+                "Nhhhrr...Mmhhh...",
+                "De-vorar... A-té... Nggrrhh... Encher...",
+                "Comi-da...",
+                "Gos-toso...",
+                "Du-na... Gos-ta comer... Ghhr..."
+            ],
+            "eatBad": [
+                "Nhhrr... Nhhghhh...!",
+                "Nggrhaahhh... Co-mi-da...",
+                "Nngrr... Ma-is..?",
+                "Qu-erer... Du-no... Gnnhnhrr... Co-mida... Nhhrr..."
+            ],
+            "refuseEat": [
+                "...Que?",
+                "Du-na... Não... Grr..",
+                "Gghhrrrr!!",
+                "Ngghhhrraaghh!",
+                "Ru-im..."
+            ],
+            "tired": [
+                "Dor-mir... Que-ro...",
+                "Du-no... So-ne-ca...",
+                "Mi... Mir.",
+                "Sooo-no... S-ono..!",
+                "D-ormir.... Door-miir...",
+                "Mnnhhrr... Dei-tar..."
+            ],
+            "verytired": [
+                "Pre-ciso.... So-neca...",
+                "Caaaan... Saaa-do...",
+                "Nnnhhh...... Ca-in-do...",
+                "Dei... Tar...",
+                "Hhhrrnn... D...Dor-mir..."
+            ],
+            "confused": [
+                "Ca-beça...",
+                "Gghhnn... Ghhrrrr...",
+                "Oo.... Quee....",
+                "Nã-o... En-tendo....",
+                "Con-fuso....",
+                "Nnhhhrrr...",
+                "Não... Du-na... Per-dido..... Ghhr...",
+                "Nnnnhhhh..."
+            ],
+            "wakeup": [
+                "Du-no... Des-perto...",
+                "Oo-lá...",
+                "Hhrr..?",
+                "Mnnnhhh...",
+                "Vii-vo...Ghrr...",
+                "Mmm..."
+            ],
+            "vomit": [
+                "Ba-rriga... Lutan-do...",
+                "Co-mida... Revi-dan-do...",
+                "Nhhgghhrrr... Ghhraghhh!",
+                "Hnnnghh..? Ghhr... O-que...",
+                "Nhgghhrr... Du-no...... Mau....",
+                "Ghhn... Comi-da... Má..?"
+            ],
+            "vomitblood": [
+                "Du-no... Sen-te ma-u....",
+                "Guurhhh... Gnnnhh...?",
+                "Nnngghhhrr....?",
+                "Ggyiacckk! Grhrh... Q-ue...",
+                "...Ngghrhh...",
+                "Grhrhaughh... Ghnnn... P-or que...",
+                "Nggh...du-no...na...nada b-em..."
+            ],
+            "full": [
+                "Du-no che-io...",
+                "Comer de-mais...!",
+                "Es-pe-rar co-mer...",
+                "Du-na não co-me mais...",
+                "Ngghh... Cheio...",
+                "Sufi-cient... Gnnh..."
+            ],
+            "hungry": [
+                "Qu-er... Mais... Comi-da...",
+                "Du-no...fo-meee...",
+                "Mordi-di-nha?",
+                "...Nggh... Pre-ci-so...",
+                "Faa...minto...",
+                "*salivando*",
+                "On-de... Comer..?",
+                "Mor-der...",
+                "Co-mer..?",
+                "Du-na...ref-ei-ção..?"
+            ],
+            "starving": [
+                "*salivando litros*",
+                "Pre-ciso... Comer!",
+                "Ngghhhhrrr! Co-mida!!!",
+                "NGHHRRHHH!! On-de comi-da!?",
+                "Nhghhrrr! Du-no es-fo-meado!!",
+                "NNGRHH!! CO-MI-DA!! DU-NA!!"
+            ],
+            "thirsty": [
+                "S-lurp..?",
+                "Água...",
+                "Mmm... Be-ber..?",
+                "Du-no... Águ-a...",
+                "Que-rer... Água..?",
+                "Se-de..."
+            ],
+            "dehydrated": [
+                "Preci-so... Águ-a..!",
+                "Ngghh... Se-co...",
+                "Água...A-GO-RA!!",
+                "Gghrhhh... Águ-a!!",
+                "Du-no... Se-den-to..!",
+                "Du-na... Á-gu-a... AGO-RA!",
+                "Gghhrraaaghh! Be-ber! A-gora..!"
+            ],
+            "limbmuscle": [
+                "<Limb> nã-o mo-ve...",
+                "<limb> pa-rou fun-cio-nar..?",
+                "<limb> pre-cisa de con-serto.",
+                "<limb> não me-xe...nnngrrhh...",
+                "<limb> tá ru-im..! Gghhrr!",
+                "Dooo-or...n<limb>..!"
+            ],
+            "limbinfected": [
+                "Ghhr... <limb>... Du-no sen-te quente...",
+                "Do-ente..?",
+                "Nnnrr...<limb> pa-rece es-tra-nha..?",
+                "Du-na... pele d<limb>... irri-tada..?",
+                "Hhnnn...Sensa-ção n<limb>... esqui-sita..."
+            ],
+            "limbskin": [
+                "Ama-re-lo n<limb>..?",
+                "Oooouur! <limb> ru-im!",
+                "Du-no machu-cado...",
+                "Fe-ri-mento n<limb>...",
+                "Ghhhrr...<limb>... ta fe-io..."
+            ],
+            "sad": [
+                "Triste.",
+                "Du-no tris-te.",
+                "Sem so-rri-so...",
+                "Du-na não so-rri...",
+                "Du-no sen-te mal.",
+                "Não fe-lisss...",
+                "Du-na não bem..."
+            ],
+            "gloomy": [
+                "Co-mida fa-ria coisas melho-rar...",
+                "Comida dei-xa Du-na sen-tin-do bem...",
+                "Bas-tante triste...",
+                "Duno muuu-ito tris-te...",
+                "Grrr...me-nte má.",
+                "Grrhhh...ca-beça de Du-no ru-im...",
+                "Nhhhhrr...",
+                "Nnnngggrhhh... Ghhr...",
+                "Gghhhrr...",
+                "Du-na não sen-te bem!",
+                "Não bem!"
+            ],
+            "depressed": [
+                "Woo... Whhhgrr... Nggghhhrrr...",
+                "Ngrrhhhh... Ghhhrr.. Gruughh...",
+                "Ggghhrragghhh!",
+                "Ngghhhnn... Nghhggghhh.... Nghhrr!",
+                "Ngghhruagghhh! Gghhrr...",
+                "Nnhhg... Nggghhh!",
+                "Ngghrhhh! P-or que!?"
+            ],
+            "miserable": [
+                "NNNGRHHAGGHHH!!! NNGGHRHHHH!",
+                "NNGRHHHHHH! GGRRAAGGHHH!",
+                "GGHHRAGGHHH!! ÓÓÓDIOOO!!!",
+                "GGHHRAGGHHH!! DUNNNAAAA!!!! DE-TESTAAAA!!!",
+                "AAARHHGHHHHNNHH!!! GGRAGGHHHHHH!",
+                "AANNNGRRYY! GGRHHAANNGHHH!",
+                "NNNGRRAGHHHH! DU-NO.... DES-TRÓÓÓII!!!",
+                "NNNGRRAGHHHH! OOODI-AARR! DES-TRUIIIR!!!",
+                "GGHHRAAHHHGNHH! DU-NA ODEIAAA! DESTRÓI!!!"
+            ],
+            "angeronitem": [
+                "NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-no des-trói... Ami-go..."
+            ],
+            "refuse": [
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "Ngrrhhh",
+                "Grrr...",
+                "Mnnhh...",
+                "*rosnando*",
+                "Não...",
+                "Du-no...",
+                "Nnnnrrr...",
+                "Nnhghh..."
+            ],
+            "bleeding": [
+                "San-gra...",
+                "Du-no...s-angra...",
+                "Du-na...va-zando...",
+                "Va-zan-do...ama-relo...",
+                "A-ma-relo...ruim...",
+                "Ru-im...san-gra-mento...",
+                "Te-rrível...du-no feri-do..!",
+                "Ngghhhrr! Du-na ma-chu-cado!",
+                "Grrhhhh! Du-no pre-cisa de a-juda!",
+                "Aju-da!! Du-na!",
+                "Du-no pre-ci-sa... con-serto..!",
+                "Nnnrr... Du-no a-ma-relo...",
+                "Nrr... San-gue...",
+                "Nrrhh... Du-no...sa-ngue!!"
+            ],
+            "bleedingheavy": [
+                "San-gra-mento!!",
+                "Du-no sang-ra!! Mui-to!!",
+                "Du-na...v-az-ando!! A-gora!!",
+                "Flu-x-o...ama-relo! Ajudar Du-no!!",
+                "A-marelo!! Mal!!!",
+                "San-grar...ru-im...",
+                "Pé-ssi-mo...du-no fe-rido..!",
+                "Ngghhhrrrnnghhhr!",
+                "Grrhhhhnnnghh!",
+                "A-ju-dem!! Du-na! A-GORA!!!",
+                "Du-no pre-cisa RE-PARO..! A-JUDA!!",
+                "NnnrrrhhNGHHH!! DU-NA MUITO AMA-RELO!!",
+                "Nrrgghhh!!! S-ANGUE!!!",
+                "Nrrhhh..! San-gue de Du-no!! M-uito!!!"
+            ],
+            "steponglass": [
+                "Du-no vi-dro...",
+                "Coi-sinha cla-ra fere Du-na!!",
+                "Du-no machu-cado afi-ado!!!"
+            ],
+            "seecorpse": [
+                "Comi-da grá-tis?",
+                "Hhnnn..?",
+                "Ooo...",
+                "Mmm... G-rá-tis..?",
+                "Mmmmrr... A-migo..?",
+                "Hrnn!! Amigo! Oh....",
+                "Mmm... Gosto-sura... Ach-ada..?",
+                "Du-no... En-con-tra a-migo..?",
+                "P-or que a-migo não mo-ver..?",
+                "Comida!",
+                "*salivando*",
+                "Aaarrh! O-lá?"
+            ],
+            "seecorpsedesensitized": [
+                "Mmm!! Ma-ais comida...",
+                "Olá a-mi-go.",
+                "Corpu.",
+                "Amigo fe-rido?",
+                "Ma-is co-rpos.",
+                "Ma-is co-mida pa-ra Duno.",
+                "O-ii!!",
+                "Du-na vê ma-is cor-pos.",
+                "T-ão tan-ta mor-tes!",
+                "Di-ver-sas comidas!"
+            ],
+            "seecorpsesuicidal": [
+                "Du-no acom-pa-nha amigo...",
+                "Du-na ci-ú-mes...",
+                "Gghrr..."
+            ],
+            "cold": [
+                "Du-no frio! Preci-sar d'á-gua...",
+                "Du-na gela-dinho...",
+                "Du-no des-gos-ta frio.",
+                "Não go-star fr-io."
+            ],
+            "warm": [
+                "Du-no quen-tinho.",
+                "Du-no ca-lor!",
+                "Duna pre-cisa es-friar.",
+                "Du-no a-quecido de-mais...",
+                "Ca-lor.",
+                "Quent..."
+            ],
+            "hot": [
+                "Du-no queima!",
+                "Du-na muito quen-te!!",
+                "Pre-cisa... Frio...",
+                "Muito.. Ca-lor...",
+                "Nnhggh... To..onto!"
+            ],
+            "exerted": [
+                "Nnnghh... Ga-sto...",
+                "Du-no... Des-can-sa...",
+                "*huff*",
+                "Nnnrr.. Mu-ito... Trab-alho!"
+            ],
+            "exhausted": [
+                "Nhhgh... Des-can-so..!",
+                "Gghrhrhh... Can...sado!!!",
+                "Ggrhhh...! Pa-rar...",
+                "Ngghhhhrrrrrrhh...",
+                "*ofega*"
+            ],
+            "freezing": [
+                "Du-no... Tem... F-rio...",
+                "Ngghhhrr... Tan-to Fr-io..!",
+                "Nnhh... N-nnhh... Fri-o...",
+                "T...Tão... F-fr-io..! Ngr...",
+                "Co-ngelan-do...",
+                "Du-na... Con-gela...",
+                "Nhhhrrr... Du-no... T-ão fr-io...",
+                "Ggrrrh..! Mu-ito Fr-io..."
+            ],
+            "emaciated": [
+                "Du-no... Mui-to fino...",
+                "Fi-ni-nho...",
+                "Pre...ciso. Co-mer mais...",
+                "Du-na... Ma-gro!!",
+                "Mu-ito... Magr-o..."
+            ],
+            "obese": [
+                "Du-no co-me muito bem!",
+                "Nhhrr! Du-na chei-nho!",
+                "Du-no... Gor-do..? Nrrr..."
+            ],
+            "opiated": [
+                "...",
+                "N...Nhhrr...Du-no....",
+                "Ooo... Quuee... Mmhhhrrnnnnn...",
+                "Mmmnnnrrr...mmmnnnnnn...",
+                "Mmmrrnnnhnnn...es...tranho!",
+                "Du-na......gosta..!",
+                "Mmmmrrrhhhrrn..."
+            ],
+            "opiatedsad": [
+                "..!",
+                "N...Nhhrr...Du-na..!",
+                "Ooo... Quuee... Mmhhhrrnnnnn...!",
+                "Mmmnnnrrr...mmmnnnnnn..!",
+                "Mmmrrnnnhnnn...eesss...tranhoo!",
+                "Du-no......gos-ta..!",
+                "Mmmmrrrhhhrrn..!"
+            ],
+            "opiatewithdrawal": [
+                "Du-no...t-tre-me..",
+                "Nnhrhhggh...ru-im!!",
+                "Du-na...que-r ma-is...coisa...",
+                "Nghhrr...! Ma-u..!",
+                "S-shaarrhnnngg....nnhrrhh...nnnhgghhrrr!"
+            ],
+            "cantBreathe": [
+                "Nhhrr...nngghh...*Tosse*",
+                "Aaack *Tosse*",
+                "Nhhgg-rhhnngh!"
+            ],
+            "pain": [
+                "Nnhrrhhh...<limb>...dó-i...",
+                "Mnnhhhh...",
+                "Ghhhrrnnnhh!",
+                "Nhnngghhrr...",
+                "Gghhrahhnnh...<limb>...",
+                "Grrrhhgnn...d-or...n<limb>...",
+                "Gggrhhnn...Du-no...dolo-rido...",
+                "Gggrhhnn...Du-no...dor...n<limb>..."
+            ],
+            "hitgroundhard": [
+                "GRRHNH!",
+                "GGRACK!",
+                "NNHHRACK!!",
+                "GGHAARCK!",
+                "MNNGGHH!",
+                "RRHHGGNH!",
+                "AAARHCNGCK!",
+                "GGHNR!"
+            ],
+            "bigpain": [
+                "GGGHHRRAAAAHHHHHH!!",
+                "NNNGGHHHRRRAAAAAAAAAGGGHHHH!",
+                "HHGHGGGGRRRRNNNNNGGRRRAAHHHHHH!!",
+                "GNNGGHHHRRRR!",
+                "AAARHHNNGGHH-RRHHGG-NNGGHHAA!!",
+                "NNGGH...NRGHGH...NNGHR-HGHHAAGRG!",
+                "GGGHHRRRAAAANGGHHHRRR!",
+                "RRRAANNNGGHHHHHH!!",
+                "GGNNHRRHHNNNNGGRRAAGHGH!!",
+                "CCHHE-GGAAAA!! GGRRNNHGHGH!"
+            ],
+            "fallscream": [
+                "WWHHHHHEEEEEE!!",
+                "RRHHAAAAAAARRHH!",
+                "KKRRUUAAAAAAAUU!",
+                "RRRAAAUUU!",
+                "KKRRUAAEEEE!",
+                "GGRRAAAAAA!",
+                "FFRAAAAA!"
+            ],
+            "hitbycreature": [
+                "Oh? A-migo mor-de?",
+                "Nggrch! Coisa máá!!",
+                "GGRRGHHH! DU-NO MATA!!!!",
+                "GRRACK! DEIXE DUNA!",
+                "GGRHR! MOR-DO DE VOL-TA!",
+                "RGHGN! DU-NO SE VIN-GA!",
+                "GACK! MAAA-AL!"
+            ],
+            "dirty": [
+                "Du-no... Su-jo..?",
+                "Du-na pre-cisa ba-nho...",
+                "Du-no sente che-ro.",
+                "Sente su-jei-ra.",
+                "Chei-ro, che-i-ro.",
+                "Fe-dor.",
+                "Fedor. Ruim!",
+                "Mui-to fe-dor."
+            ],
+            "encumbered": [
+                "Du-no forte!!",
+                "Du-na ca-rrega mui-to.",
+                "Carre-gando de-mais.",
+                "Mui-tas coisas.",
+                "Du-no fort... duno leva!",
+                "Du-na pe-sado.",
+                "Du-no pesa.",
+                "Pe-sado.",
+                "Peso...",
+                "Nrrr...ca-rregando mui-to.",
+                "Nrrr...du-no muita coi-sa."
+            ],
+            "watchlike": [
+                "Grrr. Ami-go meta-lico estra-nho!"
+            ],
+            "drillend": [
+                "Du-no assus-tado.",
+                "Me-do.",
+                "Sss-om al-to...",
+                "Du-na espe-rto!!"
+            ],
+            "loud": [
+                "GGRAAAAACKK! QUE!?",
+                "GRRRRR!!!",
+                "...hoóoh.",
+                "GRRACK! AL-TO!",
+                "AUGRH! BA-RULHO!!!"
+            ],
+            "murderregret": [
+                "DU-NA VEN-CE!",
+                "DU-NO DE-RROTA AMI-GO MAL!",
+                "GRRAAACCHH! AAHHAAKAKA!! AAAAAUURAHHACGGHRAAAA!! DU-NO FOOR-TEEEEE!!!!",
+                "DU-NA CAÇA A-MIGO FRA-CO!!!",
+                "DU-NO CAÇA COMI-DA!!",
+                "GRRHCHH! PRE-SA FRA-CAAA!"
+            ],
+            "tradeemeet": [
+                "Du-no achaa!!",
+                "O-lá!!",
+                "Du-na cum-primenta!!",
+                "Oi? O-i?",
+                "Mmmrrrrn... a-migo?",
+                "Ami-go?",
+                "Oooo! Aaa-migo!!",
+                "Comi-da?"
+            ],
+            "swingresponse": [
+                "DU-NO CA-ÇA!",
+                "Car-ne.",
+                "GGRAAACH! A-MIGO CO-MIDA!",
+                "GRAAAKAHHA!! PRESA FÁ-CIL!",
+                "DU-NA O-DEIA AMIGO!",
+                "Gghrrrraagh!",
+                "*rosnando*"
+            ],
+            "braindamaged": [
+                "Ele...",
+                "...",
+                "...?",
+                "...!",
+                "......",
+                "...~",
+                "...@@",
+                "...nnn...",
+                "...r",
+                "...n",
+                "...g",
+                "h",
+                "re",
+                ".",
+                "###",
+                "Tem alguém aí?",
+                "",
+                "Eu...",
+                "Quãn.",
+                "Os.",
+                "Uoo...o....quu-e...",
+                "Re.",
+                "Du-no.",
+                "Me-ta-l...",
+                "GRAAAARCH!!"
+            ],
+            "lastmoments": [
+                "Du-na...me-do...",
+                "Du-no...pre-ci-sa...ajuda!",
+                "Grrhhnnchh!",
+                "Grrhhannchh!",
+                "Grrrrr!!!",
+                "Nnhhrrhuhhh! Nã-ão!!!",
+                "Du-na!!! So-corro!!",
+                "Por...Q-ue...",
+                "Du...dnnrhh...Nhhhh...",
+                "Rrrnn...Hhhh...Du-no....mo-rrer...?",
+                "Ve-nha....luz...",
+                "Sen-tindo...escuro...",
+                "É o...fim..?",
+                "Aca.....ban-do...",
+                "não...pron-to...",
+                "rnhh...a-ju-da...duno..."
+            ],
+            "magicheal": [
+                "ãh..."
+            ],
+            "selfdestruct": [
+                "Oooorrhhn! Du-no ou-ve som novo? Hooohh..."
+            ],
+            "endlessloop0": [
+                "...Mmmrrnnngghh... Ngghh... ...Nova-mente?"
+            ],
+            "endlessloop1": [
+                "Ngghhr. Du-na gosta desa-fio. Du-no vai di-novo!"
+            ],
+            "endlessloop2": [
+                "Ooo! De novo? Ma-is comida para achar a-qui!"
+            ],
+            "endlessloop3": [
+                "Ca-verna do Du-no."
+            ],
+            "endlessloopdefault": [
+                "Nrrrg! Weee! Du-no vence!"
+            ],
             "tradermeetnormal": [
                 "Mmm... Oo-lá....",
                 "Bem-vindo... A-migo...",
@@ -5329,12 +5938,12 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "encontrei uma arma. uma arma de fogo. nossa... nao estou acostumado a manusear isso... deveria ter sido mais cuidadoso durante os treinamentos... nao faço a minima ideia de como fui parar aqui, tao despreparado, em vez de ser eliminado. quase atirei em alguem sem querer. deveria ter travado a arma... quem sou eu pra saber? os outros tendem a entrar em panico quando veem voce com uma arma na mao. entao talvez seja melhor esconde-la dentro de alguma coisa, para que nao a vejam. eles acham que voce atiraria neles, nao sabem das suas intençoes. bem, eu pensaria o mesmo se alguem apontasse uma arma pra mim.",
+                "Item1": "achei algum tipo de... dispositivo de tiro. me dei um baita susto com ele... e acabou destruindo seja la qual armadilha estava na minha frente. nao to acostumado a usar isso.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "to com tanta raiva de mim mesmo por ter agido como um merda com os outros la em cima... agora todos os sobreviventes que encontro me mandam embora das suas capsulas... cara, se voce soubesse o quanto eles xingaram... eles tentaram me arranhar... e eu so consigo pensar: \"ta, me desculpem. mas pelo amor de deus, vocês se dao conta de que agora toda vida importa? nao tem mais tempo pra ficar machucando e matando uns aos outros\". eu queria ser uma pessoa melhor... a culpa e minha.",
+                "Item1": "todos que encontro mandam eu ficar longe das suas caspulas. eles lembram de mim... de la de cima. eu não deveria ter agido daquele jeito. isso é terrivel.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5374,17 +5983,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "A caverna está cheia de todo tipo de bicho que ficam vagando por todos os lados. Sou meio pacifista, então tento fugir deles em vez de lutar, já que não sei quem vai matar quem primeiro... Afinal, os ferimentos que eles me causam doem demais... Não sei mais o que fazer... Será que nossos captores sequer têm noção do que estamos passando aqui embaixo?",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
                 "Item1": "Sofri uma queda feia. BEM feia. Caí dentro de um buraco e não conseguia escalar de volta, nem cavar devido aos meus ferimentos. Mas eu consegui sair graças a alguns pedaços de metal e eu quero que outros saibam sobre isso. \n\nSão as paredes da caverna! Nada que eu encontrei, nem mesmo dinamite, conseguia penetrar as paredes mais externas desta caverna. Mas elas são irregulares, e se você empilhar pedaços de metal um em cima do outro é possível encaixar eles em vãos pequeninos criando um ponto de apoio metálico. Quando eu estava sangrando naquele buraco escuro eu utilizei os pedaços de metal na criação de uma escada improvisada, escapei e busquei suprimentos de emergência. \n\nEspero que você nunca se encontre em uma situação parecida. Talvez você possa usar esse truque para evitar danos futuros, quem sabe? E quem sabe os outros perigos que nos esperam aqui em baixo. \n\nTalvez eu e você nos encontraremos e poderemos compartilhar estratégias. \nEspero estar lá para lhe conhecer.",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
-                "Item1": "Tenho me sentindo sozinho... então decidi me distrair:\nEncontrei uma espécie de fax em miniatura que consegui esmagar e tirei as folhas de papel. Depois peguei um palito e espremi uma das frutas brilhantes nele. Virou tipo um pincel e uma tela de desenho! Se apenas você saber... Comecei a desenhar realidades alternativas onde somos livres e vivemos em paz juntos; sem aqueles cientistas escrotos... Fiquei tão feliz que chorei um pouco.\nMas agora preciso ir: ficando com fome! Talvez se nos encontrarmos, eu desenhe você também...? Fiquei muito bom em usar o \"pincel\". Vou tentar ensinar os outros a desenhar também...",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -5520,7 +6119,7 @@
                 "Item3": "experiment"
             },
 			{
-                "Item1": "eu nao aguento mais. por que. \ntodos morreram\nnao da. \neu quero que isso pare\nnao da\neu quero liberdade\nporque\neu nao consigo. eu nao quero ver mais nada disso. eu ja vi coisas ruins demais. to tao exausto. \nminha perna ta fudida. explodida por uma mina\nminha mao, a direita, também ta me matando de dor\neu quero acabar com tudo\ntudo é miséria\neu nao aguento mais\ndaqui a pouco vou arrancar minha arteria e virar outro corpo pra você ver - assumindo que eles já nao tenham me devorado ate você chegar.\n\nobrigado por tudo. adeus",
+                "Item1": "é o fim. adeus. desculpe.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5795,7 +6394,7 @@
 	],
     "pdaNotes": [
         {
-            "Item1": "[RELÁTORIO BIOMÉTRICO - 25##-11-19-18-49-58-4587]\n<>\nCLASSE DA ENTIDADE: Biológica\nSUBCLASSE DA ENTIDADE: Sawiano\nNOME DA ENTIDADE: Experimento\n<>\n[CONTEÚDOS]\n\nA versão biológica estável do nosso projeto mais recente está pronta.\nAparenta que, mentalmente, não há e nunca mais vai ter algo sobrando do nosso voluntário humano original, sem falar dos outros sujeitos.\nApesar disso, ele parece estar aprendendo rápido, e não está retaliando.\n<>\nA combinação de DNA causou o Experimento à ser consideralvemente menor em estatura do que uma pessoa humana, e faltar em gordura e massa muscular.\nApesar disso, sua densidade óssea e muscular é muito maior. Isto presumidamente resultará no espécime sendo resiliente a várias formas de trauma físico... E dificultará natação para ele.\nEle possui três protuberâncias na parte posterior do crânio, de forma semelhante à cartilagem de orelha. De alguma forma, possui uma estrutura auricular semelhante à de uma ave - devia estar em algum lugar no DNA que manipulamos.\nPossui pelos finos e carne meio rosada amarelada, como visto em ferimentos e no interior da boca.\nSuas mãos são algum tipo de combinação entre a de um canino e de um homosapien. Sei que um dos meus colegas vai gostar das patas-\nDe alguma forma, os olhos bioluminescentes dos nossos protótipos anteriores desta espécie permaneceram. Nós ainda não determinamos os exatos efeitos que isto tem em sua visão.\n<>\nLogo iremos clonar este espécime 30 vezes para conduzir testes destrutivos nos clones. Deixaremos alguns para reproduzirem naturalmente, para economizar recursos.\n\n[FIM]",
+            "Item1": "[BIOMETRIC REPORT - 25##-11-19-18-49-58-4587]\n<>\nENTITY CLASS: Biological\nENTITY SUBCLASS: Sawian\nENTITY NAME: Experiment\n<>\n[CONTENTS]\n\nThe stable biological version of our newest project is ready.\nIt appears that, mentally, there wasn't and will be nothing left of our original human volunteer, not to mention the rest of the subjects.\nDespite that, they seem to be learning fast, and are not retaliating.\n<>\nThe DNA combination caused the Experiment to be considerably smaller in stature than a human person, and lack fat and muscle mass.\nDespite this, its muscle and bone density is much higher. This will assumably result in the specimen being resilient to various forms of physical trauma... And give it a hard time swimming.\nIt has three protrusions at the back of its skull, of form similar to ear cartilage. Somehow, it has an ear structure similar to that of an avian - must've been lying around somewhere in the DNA we spliced.\nIt is thinly furred, and has pink-ish yellow-ish flesh, as seen on wounds and on the inside of the mouth.\nIts hands are some kind of combination between a canine's and a homosapiens'. I know one of my co-workers is going to enjoy the paws-\nSomehow, the bioluminescent eyes from our earlier prototypes of this species have stayed. We are yet to determine the exact effects this has on their sight.\n<>\nWe will soon clone this specimen 30 times to conduct destructive testing on the clones. We will leave a few to naturally reproduce, to save on resources.\n\n[END]",
             "Item2": ""
         },
         {
@@ -5807,15 +6406,15 @@
             "Item2": ""
         },
         {
-            "Item1": "[RELÁTORIO BIOMÉTRICO - 25##-04-01-15-29-18-1058]\n<>\nCLASSE DA ENTIDADE: Biológica\nSUBCLASSE DA ENTIDADE: Sawiano\nNOME DA ENTIDADE: Relatório de Consumo de Carne\n<>\n[CONTEÚDOS]\n\nObjetivo de Redução do Desperdício Corporativo\n<>\n32 Sawianos foram recrutados aleatóriamente entre aqueles encontrados em nosso local d<corrupt:0xFFFFFF> As características basais eram: 25 SAW-01, 4 SAW-05, 3 SAW-12. Os Experimentos foram aleatóriamente designados à 8 grupos de 4 participantes cada. Cada grupo foi sujeito a uma escolha em três tipos de condições: consumir carne Sawiana ou Terrana, consumir crua ou como sopa, e observar ou permanecer ignorante da fonte da carne.\n\nA carne foi obtida do Indicente em [25##-12-30].\n<>\nEnquanto os SAW-01 e SAW-05 em todos os grupos que consumiram a carne Sawiana, independentemente de se eles observaram a fonte da carne, exibiram emoção extremamente negativa após o consumo, os SAW-12 não demonstraram as mesmas emoções negativas. Nenhum Sawiano que consumiu a carne terrana exibiu emoções negativas, presumivelmente pois não reconheceram a carne como sendo da própria espécie, apesar de reclamações terem sido feitas sobre comer comida não cozinhada. Nenhum dos Sawianos que comeram a carne em sopa exibiram emoções negativas, mesmo se tivessem observado a fonte.\n\nO SAW-12 demonstrou uma apatia aberrante em relação ao consumo de carne Sawiana crua, como esperado. Talvez possamos reaproveitar espécimes descartados como alimentos para quaisquer SAW-12 no local.\n\n[FIM]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-01-15-29-18-1058]\n<>\nENTITY CLASS: Biological\nENTITY SUBCLASS: Sawian\nENTITY NAME: Meat-Consumption Report\n<>\n[CONTENTS]\n\nReduction of Corporate Waste Objective\n<>\n32 Sawians were recruited randomly among those at our site fro<corrupt:0xFFFFFF> Baseline characteristics were: 25 SAW-01, 4 SAW-05, 3 SAW-12. The subjects were randomly assigned to 8 groups of 4 subjects each. Each group were subject to one choice in three types of conditions: consuming Sawian or Terran meat, consuming raw or as soup, and observing or being ignorant of the source of the meat.\n\nMeat was sourced from the Incident on [25##-12-30].\n<>\nWhile the SAW-01 and SAW-05 in all groups which consumed the Sawian meat, regardless of whether they observed the source of the meat, displayed extreme negative emotion upon consumption, the SAW-12 did not display the same negative emotions. No Sawians which consumed the terran meat displayed negative emotions, presumably as they did not recognize the meat as their own, although complaints were raised about eating noncooked food. No Sawians which consumed the meat in soup form displayed negative emotions, even if they had observed the source.\n\nThe SAW-12 displayed an aberrant apathy towards consuming raw Sawian meat, as expected. We might be able to repurpose discarded specimens as food for any SAW-12s on site.\n\n[END]",
             "Item2": ""
         },
         {
-            "Item1": "[RELÁTORIO BIOMÉTRICO - 25##-04-08-09-06-08-0002]\n<>\nÍNDICE DO BANCO DE DADOS: Registro do Projeto Sawiano\nSUBÍNDICE DO BANCO DE DADOS: Espécies\n<>\n[CONTEÚDOS]\n\n[PARA TODAS AS ENTIDADES NO REGISTRO]\n- SUBSTITUIÇÃO DO TIPO DE ENTIDADE: Modelo padrão\n- CLASSE DA ENTIDADE: Biológica\n- SUBCLASSE DA ENTIDADE: Sawiana\n<>\nNOME DA ENTIDADE: SAW-01 \"Experimento\"\nQUANTIDADE: [Indefinida]\n- O protótipo final da nossa primeira grande descoberta em bioengenharia.\nUma combinação refinada de DNA, resultante da fusão de um dos nossos ratos de teste com o DNA de um funcionário e seu animal de estimação.\nCanino. Pequeno e relativamente frágil. Covarde e medroso. Não muito útil para nada além de descartábilidade.\n<>\nNOME DA ENTIDADE: SAW-02 \"Laranja\"\nCONTAGEM: 52082\n- Uma versão mutante do SAW-01. Grande, bruto, burro e com quatro braços. Bom para trabalhos braçais e qualquer teste fisicamente extenuante onde a morte seja desaconselhável.\n<>\nNOME DA ENTIDADE: SAW-03 \"Leitoso\"\nCONTAGEM: 32184\n- SAW-01 mutante fundido com DNA marinho não especificado. Minúsculo, arrogante, mas inteligente. Excelentes propriedades visuais. Bom para trabalho mental.\n<>\nNOME DA ENTIDADE: SAW-04 \"Saltitoso\"\nCONTAGEM: 2046\n- SAW-01 mutante com DNA de musgo. Levou um tempo para deixá-lo em um estado minimamente funcional. Seu rápido desenvolvimento de câncer os torna praticamente inúteis para trabalho. Também apresentam risco de fuga.\n<>\nNOME DA ENTIDADE: SAW-05 \"Dentoso\"\nCONTAGEM: 6084\n- SAW-03 mutante com DNA de \"Tubarão\". Carnívoro e aquático. Sem pelos. Estranhamente amigável. Bom para resolver conflitos quando a violência é indesejável. Sua grande cauda os sobrecarrega bastante, confirmando nossas antigas teorias.\n- Tubarões eram uma espécie de peixe marinho predador. Eles estão extintos, mas seu DNA foi preservado para fins científicos.\n<>\nNOME DA ENTIDADE: SAW-06 \"Roza\"\nCONTAGEM: 7848\n- SAW-01 mutante combinado com DNA de \"Andarilho da Neve\". Temperatura corporal estranhamente baixa. Volátil e propenso a irritações, mas dócil quando não ameaçado. Cauda incômoda. Possui características convencionalmente femininas, provavelmente como resultado da interação da mistura de Andarilho da Neve com o DNA terrestre.\n- Veja <corrupt:0xFFF853> para mais detalhes sobre \"Andarilho da Neve\".\n\n[PÁGINA 1 DE 2]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-08-0002]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-01 \"Experiment\"\nCOUNT: [Undefined]\n- The final prototype of our first giant breakthrough in bioengineering.\nA refined DNA-Spliced combination of one of our testing rats and an employee along with their pet.\nCanine. Small and relatively frail. Cowardly and fearful. Not very useful as anything other than fodder.\n<>\nENTITY NAME: SAW-02 \"Orange\"\nCOUNT: 52082\n- A mutated version of the SAW-01. Large, brutish, dumb and with four arms. Good for dumb labor and any physically strenuous testing where death is inadvised.\n<>\nENTITY NAME: SAW-03 \"Milky\"\nCOUNT: 32184\n- Mutated SAW-01 spliced with unspecified marine DNA. Tiny, arrogant but intelligent. Excellent vision properties. Good for mental labor.\n<>\nENTITY NAME: SAW-04 \"Leapy\"\nCOUNT: 2046\n- Mutated SAW-01 spliced with moss DNA. It took a while to get this one in a somewhat functioning state. Their comparatively quick onset of cancer renders them nigh useless for labor. Also a flight risk.\n<>\nENTITY NAME: SAW-05 \"Chompy\"\nCOUNT: 6084\n- Mutated SAW-03 spliced with \"Shark\" DNA. Carnivorous and aquatic. No fur. Oddly friendly. Good for solving conflicts when violence is undesirable. Their large tail encumbers them heavily, confirming our long standing theories.\n- Sharks were a species of predatory marine fish. They are extinct, but their DNA was kept for scientific purposes.\n<>\nENTITY NAME: SAW-06 \"Roza\"\nCOUNT: 7848\n- Mutated SAW-01 spliced with \"Snow Strider\" DNA. Oddly low body temperature. Volatile and prone to irritation, but docile when not threatened. Encumbering tail. Has conventionally feminine characteristics, likely as a result of the Snow Strider mix interacting with earth DNA.\n- See <corrupt:0xFFF853> for further detail on \"Snow Striders\".\n\n[PAGE 1 OF 2]",
             "Item2": ""
         },
         {
-            "Item1": "[RELÁTORIO BIOMÉTRICO - 25##-04-08-09-06-19-3953]\n<>\nÍNDICE DO BANCO DE DADOS: Registro do Projeto Sawiano\nSUBÍNDICE DO BANCO DE DADOS: Espécies\n<>\n[CONTEÚDOS]\n\n[PARA TODAS AS ENTIDADES NO REGISTRO]\n- SUBSTITUIÇÃO DO TIPO DE ENTIDADE: Modelo padrão\n- CLASSE DA ENTIDADE: Biológica\n- SUBCLASSE DA ENTIDADE: Sawiana\n<>\nNOME DA ENTIDADE: SAW-07 \"Viajante\"\nCOUNT: 3604\n- SAW-01 mutante com DNA felino inserido. Cuzões prominentes. Eles odeiam outras espécies por algum motivo, mas nos têm em alta consideração. Altamente ágeis, mas não representam um grande risco de fuga. Gostam de se esconder, para grande prejuízo de nossos procedimentos de teste.\n<>\nNOME DA ENTIDADE: SAW-08 \"Barão\"\nCONTAGEM: 73\n- SAW-02 mutante com DNA <corrupto:0xFFDED0> inserido. Gigantescos. Cerca de duas vezes o tamanho de um ser humano. Extremamente poderosos, porém emocionalmente estáveis. Embora não apresentem risco de fuga, recomenda-se mantê-los sob protocolos mais rigorosos. Seu tamanho dificulta tanto a clonagem quanto a reprodução - evite matá-los se possível.\n<>\nNOME DA ENTIDADE: <corrupt:0xFFFFEA>\nCONTAGEM: 3067\n- SAW-03 mutante com DNA insetoide. Ossos ocos. Pelagem de um rosa estranhamente brilhante. Possui apêndices semelhantes a asas e características insetoides. Eles tendem a agir como babacas, embora aparentemente não por maldade. Sua aparência parece atrair o olhar de outros sawianos.\n<>\nNOME DA ENTIDADE: SAW-10 \"Cristal\"\nCONTAGEM: 2360\n- SAW-06 mutante com DNA de lagarto. Possui crescimentos duros, semelhantes a cristais, por todo o corpo. Língua longa e extremamente pegajosa, resistente o suficiente para suportar seu peso corporal. Parecem gostar de se pendurar no teto por algum motivo. Testes mentais ainda não foram realizados, mas parecem um tanto arrogantes. Possuem as mesmas características femininas do SAW-06.\n<>\nNOME DA ENTIDADE: SAW-11 \"Veludo\"\nCONTAGEM: 158\n- SAW-06 mutante com DNA de artrópode. Tem aparência convencional de aranha. Poucos testes foram feitos neles, pois geralmente assustam os funcionários, tanto pelo comportamento quanto pela aparência física. Protocolo rigoroso é necessário - um zelador azarado foi seduzido a entrar em contato com uma SAW-11. Seu cadáver devorado pela metade foi encontrado horas depois, com marcas de sangue visíveis ao redor de todas as SAW-11 armazenadas na mesma unidade.\n<>\nNOME DA ENTIDADE: SAW-12 \"Duno\"\nCONTAGEM: 1839\n- SAW-05 mutante com DNA de artrópode. PROTOCOLO RIGOROSO É NECESSÁRIO - Vários assassinatos de funcionários e sawianos foram relatados. Entre em contato apenas à distância e com uma arma letal. Não se deixe enganar pela aparência. Eles têm tendências canibais e uma fome quase insaciável. Sua inteligência muito baixa apenas acentua esse fato. A grande maioria de sua população será deportada para <corrupt:0xFF0011> para garantir a segurança contínua de nossos funcionários, já que eliminá-los completamente não é viável.\n<>\nNOME DA ENTIDADE: SAW-13 \"Cascudo\"\nCONTAGEM: 784\n- SAW-10 mutante com DNA de artrópode. Não se assuste com sua aparência - os SAW-10 são geralmente dóceis. Eles não têm boca e aparentemente se alimentam da radiação de fundo. São incapazes de falar, mas aparentemente possuem inteligência relativamente alta. Recomenda-se que funcionários que conheçam a Língua Universal de Sinais realizem os testes. Sua carapaça limita sua reprodução, mas cloná-los ainda é relativamente fácil. Limite os testes destrutivos, se possível.\n<>\n[PÁGINA 2 DE 2]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-19-3953]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-07 \"Voyager\"\nCOUNT: 3604\n- Mutated SAW-01 with spliced feline DNA. Prominent asshole. They hate other species for whatever reason, but hold us in high regard. Highly agile, but they aren't much of a flight risk. They like hiding, much to the detriment of our testing procedures.\n<>\nENTITY NAME: SAW-08 \"Baron\"\nCOUNT: 73\n- Mutated SAW-02 spliced with <corrupt:0xFFDED0> DNA. Towering. About twice the size of a human being. Extremely powerful, yet emotionally stable. While not a flight risk, keeping them under tighter protocol is recommended. Their size makes them hard to both clone and reproduce - avoid killing if possible.\n<>\nENTITY NAME: <corrupt:0xFFFFEA>\nCOUNT: 3067\n- Mutated SAW-03 spliced with insectoid DNA. Hollow bones. Oddly bright pink fur color. Has wing-like appendages and insectoid features. They tend to act like pricks, though seemingly not maliciously. Their look seems to attract the gaze of other sawians.\n<>\nENTITY NAME: SAW-10 \"Crystal\"\nCOUNT: 2360\n- Mutated SAW-06 spliced with lizard DNA. Has hard, crystal-like growths all over it. Long, extremely sticky tongue, durable enough to hold their body weight. They seem to enjoy hanging from ceilings for some reason. Mental testing is yet to be done, but they seem somewhat arrogant. Same feminine features as SAW-06.\n<>\nENTITY NAME: SAW-11 \"Velvet\"\nCOUNT: 158\n- Mutated SAW-06 spliced with arthropod DNA. Looks conventionally spider-like. Very little testing has been done on them, as they usually creep employees out, both via behaviour and physical appearance. Strict protocol is required - an unfortunate janitor is reported to have been seduced into coming in contact with a SAW-11. His half-eaten corpse was found hours later, with visible blood marks around all SAW-11's stored in the same unit.\n<>\nENTITY NAME: SAW-12 \"Dune\"\nCOUNT: 1839\n- Mutated SAW-05 spliced with arthropod DNA. STRICT PROTOCOL IS NECESSARY - Multiple employee and sawian murders have been reported. Only come in contact at a distance and with a lethal weapon. Do not let their appearance deceive you. They have cannibalistic tendencies and nigh-insatiable hunger. Their very poor intelligence only accentuates that fact. A vast majority of their population is planned to be deported to <corrupt:0xFF0011> to ensure continued safety of our employees, as eliminating all of them is not viable.\n<>\nENTITY NAME: SAW-13 \"Shelly\"\nCOUNT: 784\n- Mutated SAW-10 spliced with arthropod DNA. Do not fear their appearance - SAW-10's are generally docile. They lack a mouth and seemingly feed off of the background radiation. They are unable to speak, but seemingly have relatively high intelligence. Employees that know Universal Sign Language are recommended to conduct their testing. Their shell limits their reproduction, but cloning them is still relatively easy. Limit destructive testing if possible.\n<>\n[PAGE 2 OF 2]",
             "Item2": ""
         },
         {
