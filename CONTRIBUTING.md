@@ -10,7 +10,11 @@ Different threads are available for different languages. Here are some guideline
 
 ## Repository Structure
 
-You will find the localization files in the root directory. The reference locale is `EN.json` (English). Each language has its own json file named according to its locale code, where the first two letters represent the language, and the capitalized ones the country (e.g., `pt-BR.json` for Brazilian Portuguese `es-ES.json` for Spain Spanish).
+You will find the localization files in specific locations:
+- Localizations for the `demo` version of the game are available under the `demo/` folder ([EN.json](/demo/EN.json)).
+- For the (pre-)release version, locales are currently being worked on in the `release/` folder ([EN.json](/release/EN.json)).
+
+Each language has its own JSON file named according to its locale code, where the first two letters represent the language, and the capitalized ones the country (e.g., `pt-BR.json` for Brazilian Portuguese `es-ES.json` for Spain Spanish).
 
 ## Guidelines for Editing Localization Files
 
@@ -76,10 +80,18 @@ Make sure your pull request follows these rules to increase speed and chances of
    - Add any new keys introduced in `EN.json`.
    - Only rewrite everything if the translation is severely outdated (>1 year) or clearly low quality.
 
-3. Translations must be reviewed and approved by **at least one native speaker** of the target language. Two heads are better than one!
+3. Target the correct locale within the correct folder.
+   - `demo/` is for translations for the demo version of the game.
+   - `release/` is for translations for the release version.
+   
+4. Check whenever an update to the `demo` is also valid for `release`, and vice versa.
+   - Typo fixes can be applied in both places.
+   - Likewise, improvements to the translation can be applied in both places if the context doesn't differ between demo and release.
+   
+5. Translations must be reviewed and approved by **at least one native speaker** of the target language. Two heads are better than one!
 
-4. Credit yourself and any co-translators, and add make sure your locale is present in `README.md`.
+6. Credit yourself and any co-translators, and add make sure your locale is present in `README.md`.
 
-5. Also credit yourself and any co-traslators within the `description` field of the locale file. This will be displayed in the game's language selection screen.
+7. Also credit yourself and any co-translators within the `description` field of the locale file. This will be displayed in the game's language selection screen.
 
-6. Add a descriptive message to your pull request.
+8. Add a descriptive message to your pull request.

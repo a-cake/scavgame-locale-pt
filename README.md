@@ -44,6 +44,16 @@ The first column links to the locale file that you need to download.
 | [简体中文 (中国)](/demo/zh-CN.json) | v7.7.9 (+f7b5136) | [月曦MONXI](https://github.com/martha-mana), [影月炎YUN](https://github.com/YUN2474), [戈伦](https://github.com/ALPHA371), JiYv, 义锦, [AlCl3](https://github.com/ALOHCL), [黑藓Black_Moss](https://github.com/Black-Moss), 7.62X51mmNATOm1185lr, 楠枫灯, 一只叫芒果的CAT, 软盘, SLLLLLLLLUG, [XiaoCai](https://github.com/X1A0CA1), [Lio_FX](https://github.com/Lio-FX), [Akiras](https://github.com/AkiraStation), [Lexic](https://github.com/lex2c), [焰羽](https://github.com/yanyu220404)|
 | [繁體中文 (台灣)](/demo/zh-TW.json) | v5.1 | [黑藓Black_Moss](https://github.com/Black-Moss), [A9800X3D](https://github.com/A9800X3D), [吃吃/Rar](https://github.com/rar0205) |
 
+## Release locales
+
+**The game has not been released yet. At the moment, this section is for translators only.**
+
+This is a list of all of the locales available for the [release version](https://store.steampowered.com/app/4576490/Casualties_Unknown/) of the game.
+
+| File | Locale State | Contributors |
+|------|--------------|--------------|
+| [English (**Reference**)](/release/EN.json) | N/A | [Orsoniks](https://github.com/Orsoniks) |
+
 ## Contributing
 
 Please read the [contribution guidelines](/CONTRIBUTING.md) for ways in which you can contribute to existing or new localizations.
