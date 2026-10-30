@@ -7,15 +7,20 @@ This document contains extra notes about some of the texts present in the Englis
   - [Survivor notes](#survivor-notes)
 - [Notes on specific texts](#notes-on-specific-texts)
   - [Main](#main)
+  - [Buildings](#buildings)
   - [Moodles](#moodles)
   - [Other](#other)
-  - [Pause Quotes](#pause-quotes)
+  - [Character](#character)
+    - [Experiment](#experiment)
+  - [Survivor notes](#survivor-notes-1)
+  - [PDA notes](#pda-notes)
+  - [Pause quotes](#pause-quotes)
 
 ## General notes
 
 ### Translation style
 
-You should follow the guidelines from [CONTRIBUTING.md](./.github/CONTRIBUTING.md#guidelines-for-editing-localization-files) regarding the editing of translation files.
+You should follow the guidelines from [CONTRIBUTING.md](./CONTRIBUTING.md#guidelines-for-editing-localization-files) regarding the editing of translation files.
 
 Some translation choices are discouraged:
 - **Avoid adding references that aren't present in the source material.** If you cannot say for sure that a text in the game references a different video game, book, movie, etc., then it would be best to avoid translating it with such a reference in mind.
@@ -52,31 +57,96 @@ There are three fields per note entry, out of which the last two should remain u
 
 ## Notes on specific texts
 
+- When translating items that refer to `mush` (i.e. `Antiseptic mush`, `Mushlight`, `Clotting mush`, etc.), translate it as "a soft, thick mass or mixture". Do not translate it as "fungi" unless it is explicitly described as a fungi, or is visually made out of fungi in-game.
+
 ### Main
 
-| Text | Notes |
-| ---- | ----- |
-| `musarmdsc` | Usually, Wrapvine (Musharm) will decay before you get the chance to use it on multiple limbs, which is why the description mentions `one-time`. However, it is still possible to use it on multiple limbs if used sparingly. |
-| `helluce` | `Helluce` is a portmanteau of "hell" and "lettuce" - *"hell cause hot and lettuce cause it's a leaf-looking herb"*. |
-| `mushpear` | `Numberry` is a portmanteau of "numb" and "berry". The translation key `mushpear` currently refers to the previous name this plant had. |
-| `hydreed` | `Hydreed` is a portmanteau of either "hydra" and "weed" (due to the multiple arms), or "hydrate" and "weed" (due to the water content). |
-| `aquapple` | `Aquapple` is a portmanteau of "aqua" and "apple". |
-| `lockpickingkitdsc` | `Main inventory` refers to any of the six inventory slots the character has. It doesn't need to be in the main hand to be used. |
+| Line | Text | Notes |
+| ---- | ---- | ----- |
+| 23 | `musharmdsc` | Usually, Wrapvine (Musharm) will decay before you get the chance to use it on multiple limbs, which is why the description mentions `one-time`. However, it is still possible to use it on multiple limbs if used sparingly. |
+| 144 | `geofruit` | `Geofruit` is a portmanteau of "geometric" and "fruit" |
+| 302 | `mushpear` | `Numberry` is a portmanteau of "numb" and "berry". The translation key `mushpear` currently refers to the previous name this plant had. |
+| 306 | `aquapple` | `Aquapple` is a portmanteau of "aqua" and "apple". |
+| 327 | `scarfdsc` | `Makes you feel like a mercenary...` is a reference to the main character from Gunsaw, who wears a scarf. |
+| 413 | `lockpickingkitdsc` | `Main inventory` refers to any of the six inventory slots the character has. It doesn't need to be in the main hand to be used. |
+| 456 | `helluce` | `Helluce` is a portmanteau of "hell" and "lettuce" - *"hell cause hot and lettuce cause it's a leaf-looking herb"*. |
+| 703 | `hydreed` | `Hydreed` is a portmanteau of either "hydra" and "weed" (due to the multiple arms), or "hydrate" and "weed" (due to the water content). |
+
+### Buildings
+
+| Line | Text | Notes |
+| ---- | ---- | ----- |
+| 676 | `lifepodbuttonheatdsc` | `<>` is replaced with one of `heaterhot`, `heatercold` or `heateroff` when toggling the lifepod's temperature. |
+| 745 | `scrapeaterdsc` | `<>` is replaced with a number in the range 0-100, representing the current percentage of scrap given to the scrap eater. |
+
 
 ### Moodles
 
-| Text | Notes |
-| ---- | ----- |
-| `bleeding4dsc` | `As your life gushes out behind you, you remember that you are mortal.` may be a reference to ["Memento mori"](https://en.wikipedia.org/wiki/Memento_mori) (latin for "remember [that you have] to die"). |
-| `thirst4dsc` | `Your dust is becoming one with the earth...` may be a reference to [Ecclesiastes 12:7](https://en.wikipedia.org/wiki/Ecclesiastes_12#Verse_7). |
-| `sepsis3dsc` | `You couldn't stop for death, so death has kindly stopped by for you.` may be a reference to the poem ["Because I could not stop for Death"](https://en.wikipedia.org/wiki/Because_I_could_not_stop_for_Death) by Emily Dickinson. |
-| `irradiated4dsc` | `Not going gently into that good night...` may be a reference to the poem ["Do not go gentle into that good night"](https://en.wikipedia.org/wiki/Do_not_go_gentle_into_that_good_night) by Dylan Thomas. |
+| Line | Text | Notes |
+| ---- | ---- | ----- |
+| 1053 | `bleeding4dsc` | `As your life gushes out behind you, you remember that you are mortal.` may be a reference to ["Memento mori"](https://en.wikipedia.org/wiki/Memento_mori) (latin for "remember [that you have] to die"). |
+| 1075 | `sepsis3dsc` | `You couldn't stop for death, so death has kindly stopped by for you.` may be a reference to the poem ["Because I could not stop for Death"](https://en.wikipedia.org/wiki/Because_I_could_not_stop_for_Death) by Emily Dickinson. |
+| 1096 | `thirst4dsc` | `Your dust is becoming one with the earth...` may be a reference to [Ecclesiastes 12:7](https://en.wikipedia.org/wiki/Ecclesiastes_12#Verse_7). |
+| 1147 | `irradiated4dsc` | `Not going gently into that good night...` may be a reference to the poem ["Do not go gentle into that good night"](https://en.wikipedia.org/wiki/Do_not_go_gentle_into_that_good_night) by Dylan Thomas. |
 
 ### Other
 
-| Text | Notes |
-| ---- | ----- |
-| `hpsickness` | `Sickness` in the context of the game mechanic specifically refers to "the feeling that you are likely to vomit" |
+Texts related to the end screen stats (like `endscreenstatus`, `endscreendeceased`, etc.) are limited in space. You should expect to have at most 25-30 characters available to you.
+
+| Line | Text | Notes |
+| ---- | ---- | ----- |
+| 1233 | `skillup` | `<>` is the skill that got increased (`strength`, `resilience` or `intelligence`), `<1>` is the previous level, `<2>` is the new level. |
+| 1740 | `damagereduction` | The damage reduction percentage is appended to the right. |
+| 1741 | `bodyinsulation` | The body insulation percentage is appended to the right. |
+| 1782 | `watchbleedout` | The estimated time before full bleedout is appended to the right. |
+| 1783 | `watchinfected` | The full names of the limbs that are infected are appended to the right. |
+| 1784 | `watchlimbheal` | The full name of the limb is appended to the left, and the time for it to heal its fracture or dislocation is appended to the right. | 
+| 1785 | `watchweight` | `watchweightlost` or `watchweightgained`, then the weight gained or lost is appended to the right separated by ": ". If translating is inconvenient, you may choose to keep `watchweightlost` empty and to add the text directly to `watchweightlost` or `watchweightgained`. |
+| 1788 | `watchruntime` | The current run time is appended to the right. |
+| 1789 | `watchtemperature` | The current ambient temperature is appended to the right. |
+| 1790 | `watchfibrillation` | The current fibrillation progress percentage is appended to the right. |
+| 1800 | `craftingredientsdsc` | `<>` is the current keybind used for adding items to favorites. |
+| 1806 | `craftexample` | `<>` is the item that can be used for this recipe (`campfire`, `firestarter`, etc.) |
+| 1808 | `craftitemquality` | `<1>` is the quality amount required, `<2>` is the quality name (`cqproduce`, `cqdressing`, etc.) |
+| 1809 | `craftliquidquality` | `<1>` is the quality amount required, `<2>` is the quality name (`cqwater`, `cqfat`, etc.) |
+| 1810 | `craftcondition` | `<>` is the minimum condition required for the item. |
+| 1811 | `craftml` | `<>` is the minimum volume of liquid required. |
+| 1815 | `craftinfoint` | `<1>` is the INT required to craft the recipe, `<2>` is the current INT of the character. |
+| 1863 | `napinfo` | `<>` is one of `sleepquality0` through `sleepquality3` |
+| 1909 | `hpsickness` | `Sickness` in the context of the game mechanic specifically refers to "the feeling that you are likely to vomit" |
+| 1955 | `alertalreadywearing` | `<1>` is the item the player tries to wear, `<2>` is the item they are already wearing that is conflicting by wearable slot. | 
+| 1959 | `alertlimbmissing` | `<1>` is the **short name** of the missing (amputated) limb, `<2>` is the item the player is trying to wear that requires the given limb. |
+| 1975 | `hasbattery` | `<>` is the name of the battery inserted into the item. |
+| 1976 | `nobattery` | `<>` is the name of the maximum battery size that can be inserted into the item (one of `small`, `medium` or `large` in the `other` section). |
+| 1995 | `lockprecision` | The precision in degrees is appended to the right, followed by a space and one of `degree` or `degrees` for the unit. |
+
+### Character
+
+Some texts might make use of the `<limb>` placeholder. This placeholder is replaced with the **short name** of the limb the character is referring to.
+
+Due to differences in grammar between languages, it may be hard to translate those texts correctly while accounting for changes in gender and case of the various limb translations that can be inserted.
+
+#### Experiment
+
+| Line | Text | Notes |
+| ---- | ---- | ----- |
+| 2315 | `seeGravel` | `My parent would be proud...` is related to the specific, genderless biology of the Sawians. They generally have one single parent as a result. |
+
+### Survivor notes
+
+Generally, survivor notes follow a specific writing pattern based on the character that wrote the note. It is strongly recommended to preserve this style in translated text:
+- Milkys use proper grammar and punctuation in writing.
+- Experiments tend to omit capitals and punctuation.
+- Dunes have bad grammar, omit capitals, and have uneven spacing in notes. They refer to themselves in third person, similar to how they do it during speech.
+  - One exception is the note at line 4780, which is written with all capitals.
+
+### PDA notes
+
+***Note that PDA notes are likely to be rewritten entirely before the 1.0 release.***
+
+When corrupt data sequences like `<corrupt:0xFA05F2>` appear in PDA notes, the same hexadecimal value is used when referring to the same "subject" that got corrupted. This allows identifying speakers in some cases.
+
+For example, `<corrupt:0xFA05F2>` is supposed to be the project director in the PDA note at line 5006, `<corrupt:0xFFFFD9>` identifies the doctor that is in favor of the Sawian project, and so on.
 
 ### Pause quotes
 
